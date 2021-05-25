@@ -14,10 +14,13 @@ author: Bram van Ginneken
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
-  Resources:
-    - Diagnostic Image Analysis Group: "https://www.diagnijmegen.nl"
-    - Learn markdown: "https://www.markdowntutorial.com/"
+  About: "about"
+  Publications: "publications"
+  Research: "research"
+  Videos: "videos"
+#  Resources:
+#    - Diagnostic Image Analysis Group: "https://www.diagnijmegen.nl"
+#    - Learn markdown: "https://www.markdowntutorial.com/"
 
 # --- Logo --- #
 
