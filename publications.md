@@ -6,7 +6,7 @@ subtitle: The full list. With links to the pdf whenever the Taverne Amendment al
 
 ## Papers in international journals
 
-1.  K. Venkadesh, A. Setio, A. Schreuder, E. Scholten, K. Chung, M. W Wille, Z. Saghir, B. van Ginneken, M. Prokop and C. Jacobs, "Deep Learning for Malignancy Risk Estimation of Pulmonary Nodules Detected at Low-Dose Screening CT", _Radiology,_ 2021:204433. [Abstract](/publications/venk21) [DOI](https://doi.org/10.1148/radiol.2021204433) [PMID](http://www.ncbi.nlm.nih.gov/pubmed/34003056) [Algorithm](https://grand-challenge.org/algorithms/pulmonary-nodule-malignancy-prediction/)
+1.  K. Venkadesh, A. Setio, A. Schreuder, E. Scholten, K. Chung, M. W Wille, Z. Saghir, B. van Ginneken, M. Prokop and C. Jacobs, "Deep Learning for Malignancy Risk Estimation of Pulmonary Nodules Detected at Low-Dose Screening CT", _Radiology,_ 2021:204433. <sub><sup>[Abstract](/publications/venk21) [DOI](https://doi.org/10.1148/radiol.2021204433) [PMID](http://www.ncbi.nlm.nih.gov/pubmed/34003056) [Algorithm](https://grand-challenge.org/algorithms/pulmonary-nodule-malignancy-prediction/)</sup></sub>
 
 2.  K. van Leeuwen, S. Schalekamp, M. Rutten, B. van Ginneken and M. de Rooij, "Artificial intelligence in radiology: 100 commercially available products and their scientific evidence", _European Radiology,_ 2021;31:3797–3804.
 
