@@ -17,7 +17,7 @@ navbar-links:
   About: "about"
   Publications: "publications"
   Research: "research"
-  Videos: "videos"
+  Videos: "https://vimeo.com/showcase/bramvanginneken"
 #  Resources:
 #    - Diagnostic Image Analysis Group: "https://www.diagnijmegen.nl"
 #    - Learn markdown: "https://www.markdowntutorial.com/"
