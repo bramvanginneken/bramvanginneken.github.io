@@ -106,7 +106,7 @@ subtitle: The full list. With links to the pdf whenever the Taverne Amendment al
  <a href="/assets/pdf/pinc20.pdf"><code>PDF</code></a>
  <a href="https://doi.org/10.1109/TPAMI.2020.3019563"><code>DOI</code></a>
  <a href="http://www.ncbi.nlm.nih.gov/pubmed/32845835"><code>PubMed</code></a>
- <a href="https://github.com/DIAGNijmegen/StreamingCNN">GitHub</a>
+ <a href="https://github.com/DIAGNijmegen/StreamingCNN"><code>GitHub</code></a>
    </small> 
 </li>				
 <li>C. González-Gonzalo, B. Liefers, B. van Ginneken and C. Sánchez, "Iterative augmentation of visual evidence for weakly-supervised lesion localization in deep interpretability frameworks: application to color fundus images",
@@ -141,7 +141,7 @@ subtitle: The full list. With links to the pdf whenever the Taverne Amendment al
  <a href="/assets/pdf/murp20a.pdf"><code>PDF</code></a>
  <a href="https://doi.org/10.1148/radiol.2020201874"><code>DOI</code></a>
  <a href="http://www.ncbi.nlm.nih.gov/pubmed/32384019"><code>PubMed</code></a>
- <a href="https://scholar.google.com/scholar?cites=15067361865056080572">Cited by ~12</a>
+ <a href="https://scholar.google.com/scholar?cites=15067361865056080572"><code>Google Scholar</code></a>
   </small> 
 </li>				
 <li>M. Prokop, W. van Everdingen, T. van Rees Vellinga, J. van Quarles Ufford, L. Stoger, L. Beenen, B. Geurts, H. Gietema, J. Krdzalic, C. Schaefer-Prokop, B. van Ginneken, M. Brink and the COVID-19 Standardized Reporting Working Group of the Dutch Radiological Society, "CO-RADS - A categorical CT assessment scheme for patients with suspected COVID-19: definition and evaluation",
@@ -150,7 +150,7 @@ subtitle: The full list. With links to the pdf whenever the Taverne Amendment al
  <a href="/assets/pdf/prok20.pdf"><code>PDF</code></a>
  <a href="https://doi.org/10.1148/radiol.2020201473"><code>DOI</code></a>
  <a href="http://www.ncbi.nlm.nih.gov/pubmed/32339082"><code>PubMed</code></a>
- <a href="https://scholar.google.com/scholar?cites=16652056044070556446">Cited by ~47</a>
+ <a href="https://scholar.google.com/scholar?cites=16652056044070556446"><code>Google Scholar</code></a>
   </small> 
 </li>				
 <li>S. Habib, S. Rafiq, S. Zaidi, R. Ferrand, J. Creswell, B. Van Ginneken, W. Jamal, K. Azeemi, S. Khowaja and A. Khan, "Evaluation of computer aided detection of tuberculosis on chest radiography among people with diabetes in Karachi Pakistan",
@@ -211,7 +211,7 @@ subtitle: The full list. With links to the pdf whenever the Taverne Amendment al
  <a href="/assets/pdf/bult20.pdf"><code>PDF</code></a>
  <a href="https://doi.org/10.1016/S1470-2045(19)30739-9"><code>DOI</code></a>
  <a href="http://www.ncbi.nlm.nih.gov/pubmed/31926805"><code>PubMed</code></a>
- <a href="https://scholar.google.com/scholar?cites=11015417795282172712">Cited by ~29</a>
+ <a href="https://scholar.google.com/scholar?cites=11015417795282172712"><code>Google Scholar</code></a>
   <a href="https://grand-challenge.org/algorithms/gleason-grading-of-prostate-biopsies/"><code>Algorithm</code></a>
    </small> 
 </li>				
@@ -252,7 +252,7 @@ subtitle: The full list. With links to the pdf whenever the Taverne Amendment al
  <small>
  <a href="/assets/pdf/kaze20.pdf"><code>PDF</code></a>
  <a href="https://doi.org/10.1016/j.artmed.2020.101938"><code>DOI</code></a>
-  <a href="https://scholar.google.com/scholar?cites=2312414813335334255">Cited by ~55</a>
+  <a href="https://scholar.google.com/scholar?cites=2312414813335334255"><code>Google Scholar</code></a>
   </small> 
 </li>				
 <li>P. Bándi, M. Balkenhol, B. van Ginneken, J. van der Laak and G. Litjens, "Resolution-agnostic tissue segmentation in whole-slide histopathology images with convolutional neural networks",
@@ -323,7 +323,7 @@ subtitle: The full list. With links to the pdf whenever the Taverne Amendment al
  <a href="/assets/pdf/less19a.pdf"><code>PDF</code></a>
  <a href="https://doi.org/10.1016/j.media.2019.02.005"><code>DOI</code></a>
  <a href="http://www.ncbi.nlm.nih.gov/pubmed/30771712"><code>PubMed</code></a>
- <a href="https://scholar.google.com/scholar?cites=1055664958726725388">Cited by ~29</a>
+ <a href="https://scholar.google.com/scholar?cites=1055664958726725388"><code>Google Scholar</code></a>
   </small> 
 </li>				
 <li>W. Bulten, P. Bándi, J. Hoven, R. van de Loo, J. Lotz, N. Weiss, J. van der Laak, B. van Ginneken, C. Hulsbergen-van de Kaa and G. Litjens, "Epithelium segmentation using deep learning in H&E-stained prostate specimens with immunohistochemistry as reference standard",
@@ -332,7 +332,7 @@ subtitle: The full list. With links to the pdf whenever the Taverne Amendment al
  <a href="/assets/pdf/bult19.pdf"><code>PDF</code></a>
  <a href="https://doi.org/10.1038/s41598-018-37257-4"><code>DOI</code></a>
  <a href="http://www.ncbi.nlm.nih.gov/pubmed/30696866"><code>PubMed</code></a>
- <a href="https://scholar.google.com/scholar?cites=10102326358237382134">Cited by ~39</a>
+ <a href="https://scholar.google.com/scholar?cites=10102326358237382134"><code>Google Scholar</code></a>
   </small> 
 </li>				
 <li>J. Charbonnier, E. Pompe, C. Moore, S. Humphries, B. van Ginneken, B. Make, E. Regan, J. Crapo, E. van Rikxoort and D. Lynch, "Airway wall thickening on CT: Relation to smoking status and severity of COPD",
@@ -341,7 +341,7 @@ subtitle: The full list. With links to the pdf whenever the Taverne Amendment al
  <a href="/assets/pdf/char19.pdf"><code>PDF</code></a>
  <a href="https://doi.org/10.1016/j.rmed.2018.11.014"><code>DOI</code></a>
  <a href="http://www.ncbi.nlm.nih.gov/pubmed/30665516"><code>PubMed</code></a>
- <a href="https://scholar.google.com/scholar?cites=2044101552450383649">Cited by ~10</a>
+ <a href="https://scholar.google.com/scholar?cites=2044101552450383649"><code>Google Scholar</code></a>
   </small> 
 </li>				
 <li>N. Lessmann, P. de Jong, C. Celeng, R. Takx, M. Viergever, B. van Ginneken and I. Išgum, "Sex Differences in Coronary Artery and Thoracic Aorta Calcification and Their Association With Cardiovascular Mortality in Heavy Smokers",
@@ -359,7 +359,7 @@ subtitle: The full list. With links to the pdf whenever the Taverne Amendment al
  <a href="/assets/pdf/heuv19a.pdf"><code>PDF</code></a>
  <a href="https://doi.org/10.1016/j.ultrasmedbio.2018.09.015"><code>DOI</code></a>
  <a href="http://www.ncbi.nlm.nih.gov/pubmed/30573305"><code>PubMed</code></a>
- <a href="https://scholar.google.com/scholar?cites=7628412435066869852">Cited by ~15</a>
+ <a href="https://scholar.google.com/scholar?cites=7628412435066869852"><code>Google Scholar</code></a>
   </small> 
 </li>				
 <li>B. van Ginneken, "Deep Learning for Triage of Chest Radiographs: Should Every Institution Train Its Own System?",
@@ -420,7 +420,7 @@ subtitle: The full list. With links to the pdf whenever the Taverne Amendment al
  <a href="/assets/pdf/band18.pdf"><code>PDF</code></a>
  <a href="https://doi.org/10.1109/tmi.2018.2867350"><code>DOI</code></a>
  <a href="http://www.ncbi.nlm.nih.gov/pubmed/30716025"><code>PubMed</code></a>
- <a href="https://scholar.google.com/scholar?cites=13054230002586416609">Cited by ~54</a>
+ <a href="https://scholar.google.com/scholar?cites=13054230002586416609"><code>Google Scholar</code></a>
   </small> 
 </li>				
 <li>L. Maier-Hein, M. Eisenmann, A. Reinke, S. Onogur, M. Stankovic, P. Scholz, T. Arbel, H. Bogunovic, A. Bradley, A. Carass, C. Feldmann, A. Frangi, P. Full, B. van Ginneken, A. Hanbury, K. Honauer, M. Kozubek, B. Landman, K. Marz, O. Maier, K. Maier-Hein, B. Menze, H. Muller, P. Neher, W. Niessen, N. Rajpoot, G. Sharp, K. Sirinukunwattana, S. Speidel, C. Stock, D. Stoyanov, A. Taha, F. van der Sommen, C. Wang, M. Weber, G. Zheng, P. Jannin and A. Kopp-Schneider, "Why rankings of biomedical image analysis competitions should be interpreted with care",
@@ -429,7 +429,7 @@ subtitle: The full list. With links to the pdf whenever the Taverne Amendment al
  <a href="/assets/pdf/maie18a.pdf"><code>PDF</code></a>
  <a href="https://doi.org/10.1038/s41467-018-07619-7"><code>DOI</code></a>
  <a href="http://www.ncbi.nlm.nih.gov/pubmed/30523263"><code>PubMed</code></a>
- <a href="https://scholar.google.com/scholar?cites=3078574965052198238,9198386791607085917">Cited by ~56</a>
+ <a href="https://scholar.google.com/scholar?cites=3078574965052198238,9198386791607085917"><code>Google Scholar</code></a>
   </small> 
 </li>				
 <li>G. Chlebus, A. Schenk, J. Moltz, B. van Ginneken, H. Hahn and H. Meine, "Automatic liver tumor segmentation in CT with fully convolutional neural networks and object-based postprocessing",
@@ -438,7 +438,7 @@ subtitle: The full list. With links to the pdf whenever the Taverne Amendment al
  <a href="/assets/pdf/chle18.pdf"><code>PDF</code></a>
  <a href="https://doi.org/10.1038/s41598-018-33860-7"><code>DOI</code></a>
  <a href="http://www.ncbi.nlm.nih.gov/pubmed/30341319"><code>PubMed</code></a>
- <a href="https://scholar.google.com/scholar?cites=1182212609291447328">Cited by ~46</a>
+ <a href="https://scholar.google.com/scholar?cites=1182212609291447328"><code>Google Scholar</code></a>
   </small> 
 </li>				
 <li>T. van den Heuvel, D. de Bruijn, C. de Korte and B. van Ginneken, "Automated measurement of fetal head circumference using 2D ultrasound images",
@@ -447,7 +447,7 @@ subtitle: The full list. With links to the pdf whenever the Taverne Amendment al
  <a href="/assets/pdf/heuv18a.pdf"><code>PDF</code></a>
  <a href="https://doi.org/10.1371/journal.pone.0200412"><code>DOI</code></a>
  <a href="http://www.ncbi.nlm.nih.gov/pubmed/30138319"><code>PubMed</code></a>
- <a href="https://scholar.google.com/scholar?cites=11316581470777681571">Cited by ~26</a>
+ <a href="https://scholar.google.com/scholar?cites=11316581470777681571"><code>Google Scholar</code></a>
   </small> 
 </li>				
 <li>S. Zaidi, S. Habib, B. van Ginneken, R. Ferrand, J. Creswell, S. Khowaja and A. Khan, "Evaluation of the diagnostic accuracy of Computer-Aided Detection of tuberculosis on Chest radiography among private sector patients in Pakistan",
@@ -456,7 +456,7 @@ subtitle: The full list. With links to the pdf whenever the Taverne Amendment al
  <a href="/assets/pdf/zaid18.pdf"><code>PDF</code></a>
  <a href="https://doi.org/10.1038/s41598-018-30810-1"><code>DOI</code></a>
  <a href="http://www.ncbi.nlm.nih.gov/pubmed/30120345"><code>PubMed</code></a>
- <a href="https://scholar.google.com/scholar?cites=14712131535144362806">Cited by ~15</a>
+ <a href="https://scholar.google.com/scholar?cites=14712131535144362806"><code>Google Scholar</code></a>
   </small> 
 </li>				
 <li>T. van den Heuvel, D. de Bruijn, D. de Moens-van Moesdijk, A. Beverdam, B. van Ginneken and C. de Korte, "Comparison Study of Low-Cost Ultrasound Devices for Estimation of Gestational Age in Resource-Limited Countries",
@@ -483,7 +483,7 @@ subtitle: The full list. With links to the pdf whenever the Taverne Amendment al
  <a href="/assets/pdf/silv18a.pdf"><code>PDF</code></a>
  <a href="https://doi.org/10.1016/j.jtho.2018.06.013"><code>DOI</code></a>
  <a href="http://www.ncbi.nlm.nih.gov/pubmed/30026071"><code>PubMed</code></a>
- <a href="https://scholar.google.com/scholar?cites=4749736138620847044">Cited by ~15</a>
+ <a href="https://scholar.google.com/scholar?cites=4749736138620847044"><code>Google Scholar</code></a>
   </small> 
 </li>				
 <li>Z. Bian, J. Charbonnier, J. Liu, D. Zhao, D. Lynch and B. van Ginneken, "Small airway segmentation in thoracic computed tomography scans: a machine learning approach",
@@ -501,7 +501,7 @@ subtitle: The full list. With links to the pdf whenever the Taverne Amendment al
  <a href="/assets/pdf/schr18b.pdf"><code>PDF</code></a>
  <a href="https://doi.org/10.1148/radiol.2018172771"><code>DOI</code></a>
  <a href="http://www.ncbi.nlm.nih.gov/pubmed/29969076"><code>PubMed</code></a>
- <a href="https://scholar.google.com/scholar?cites=9860123135480948586">Cited by ~14</a>
+ <a href="https://scholar.google.com/scholar?cites=9860123135480948586"><code>Google Scholar</code></a>
   </small> 
 </li>				
 <li>B. Ehteshami Bejnordi, M. Mullooly, R. Pfeiffer, S. Fan, P. Vacek, D. Weaver, S. Herschorn, L. Brinton, B. van Ginneken, N. Karssemeijer, A. Beck, G. Gierach, J. van der Laak and M. Sherman, "Using deep convolutional neural networks to identify and classify tumor-associated stroma in diagnostic breast biopsies",
@@ -510,7 +510,7 @@ subtitle: The full list. With links to the pdf whenever the Taverne Amendment al
  <a href="/assets/pdf/ehte18.pdf"><code>PDF</code></a>
  <a href="https://doi.org/10.1038/s41379-018-0073-z"><code>DOI</code></a>
  <a href="http://www.ncbi.nlm.nih.gov/pubmed/29899550"><code>PubMed</code></a>
- <a href="https://scholar.google.com/scholar?cites=5374110760369104933">Cited by ~52</a>
+ <a href="https://scholar.google.com/scholar?cites=5374110760369104933"><code>Google Scholar</code></a>
   </small> 
 </li>				
 <li>K. Chung, O. Mets, P. Gerke, C. Jacobs, A. den Harder, E. Scholten, M. Prokop, P. de Jong, B. van Ginneken and C. Schaefer-Prokop, "Brock malignancy risk calculator for pulmonary nodules: validation outside a lung cancer screening population",
@@ -519,7 +519,7 @@ subtitle: The full list. With links to the pdf whenever the Taverne Amendment al
  <a href="/assets/pdf/chun18b.pdf"><code>PDF</code></a>
  <a href="https://doi.org/10.1136/thoraxjnl-2017-211372"><code>DOI</code></a>
  <a href="http://www.ncbi.nlm.nih.gov/pubmed/29777062"><code>PubMed</code></a>
- <a href="https://scholar.google.com/scholar?cites=13012009912748302045">Cited by ~18</a>
+ <a href="https://scholar.google.com/scholar?cites=13012009912748302045"><code>Google Scholar</code></a>
   </small> 
 </li>				
 <li>F. Venhuizen, B. van Ginneken, B. Liefers, F. van Asten, V. Schreur, S. Fauser, C. Hoyng, T. Theelen and C. Sánchez, "A Deep Learning Approach for Detection and Quantification of Intraretinal Cystoid Fluid in Multivendor Optical Coherence Tomography",
@@ -536,7 +536,7 @@ subtitle: The full list. With links to the pdf whenever the Taverne Amendment al
  <a href="/assets/pdf/mele18.pdf"><code>PDF</code></a>
  <a href="https://doi.org/10.5588/ijtld.17.0492"><code>DOI</code></a>
  <a href="http://www.ncbi.nlm.nih.gov/pubmed/29663963"><code>PubMed</code></a>
- <a href="https://scholar.google.com/scholar?cites=3793586673643236456">Cited by ~10</a>
+ <a href="https://scholar.google.com/scholar?cites=3793586673643236456"><code>Google Scholar</code></a>
   </small> 
 </li>				
 <li>O. Mets, K. Chung, P. Zanen, E. Scholten, W. Veldhuis, B. van Ginneken, M. Prokop, C. Schaefer-Prokop and P. de Jong, "In vivo growth of 60 non-screening detected lung cancers: a computed tomography study",
@@ -554,7 +554,7 @@ subtitle: The full list. With links to the pdf whenever the Taverne Amendment al
  <a href="/assets/pdf/schr18.pdf"><code>PDF</code></a>
  <a href="https://doi.org/10.1136/thoraxjnl-2017-211107"><code>DOI</code></a>
  <a href="http://www.ncbi.nlm.nih.gov/pubmed/29602813"><code>PubMed</code></a>
- <a href="https://scholar.google.com/scholar?cites=9268925672447372226">Cited by ~13</a>
+ <a href="https://scholar.google.com/scholar?cites=9268925672447372226"><code>Google Scholar</code></a>
   </small> 
 </li>				
 <li>M. Silva, C. Schaefer-Prokop, C. Jacobs, G. Capretti, F. Ciompi, B. van Ginneken, U. Pastorino and N. Sverzellati, "Detection of Subsolid Nodules in Lung Cancer Screening: Complementary Sensitivity of Visual Reading and Computer-Aided Diagnosis",
@@ -563,7 +563,7 @@ subtitle: The full list. With links to the pdf whenever the Taverne Amendment al
  <a href="/assets/pdf/silv18.pdf"><code>PDF</code></a>
  <a href="https://doi.org/10.1097/RLI.0000000000000464"><code>DOI</code></a>
  <a href="http://www.ncbi.nlm.nih.gov/pubmed/29543693"><code>PubMed</code></a>
- <a href="https://scholar.google.com/scholar?cites=3431674930923271869">Cited by ~13</a>
+ <a href="https://scholar.google.com/scholar?cites=3431674930923271869"><code>Google Scholar</code></a>
   </small> 
 </li>				
 <li>G. Humpire Mamani, A. Setio, B. van Ginneken and C. Jacobs, "Efficient organ localization using multi-label convolutional neural networks in thorax-abdomen CT scans",
@@ -572,7 +572,7 @@ subtitle: The full list. With links to the pdf whenever the Taverne Amendment al
  <a href="/assets/pdf/hump18.pdf"><code>PDF</code></a>
  <a href="https://doi.org/10.1088/1361-6560/aab4b3"><code>DOI</code></a>
  <a href="http://www.ncbi.nlm.nih.gov/pubmed/29512516"><code>PubMed</code></a>
- <a href="https://scholar.google.com/scholar?cites=16888189080982033735">Cited by ~11</a>
+ <a href="https://scholar.google.com/scholar?cites=16888189080982033735"><code>Google Scholar</code></a>
   </small> 
 </li>				
 <li>K. Chung, F. Ciompi, J. Scholten E. Th. Goo, M. Prokop, C. Jacobs, B. van Ginneken and C. Schaefer-Prokop, "Visual Discrimination of Screen-detected Persistent from Transient Subsolid Nodules: an Observer Study",
@@ -590,7 +590,7 @@ subtitle: The full list. With links to the pdf whenever the Taverne Amendment al
  <a href="/assets/pdf/less17.pdf"><code>PDF</code></a>
  <a href="https://doi.org/10.1109/TMI.2017.2769839"><code>DOI</code></a>
  <a href="http://www.ncbi.nlm.nih.gov/pubmed/29408789"><code>PubMed</code></a>
- <a href="https://scholar.google.com/scholar?cites=16774069466764003485">Cited by ~72</a>
+ <a href="https://scholar.google.com/scholar?cites=16774069466764003485"><code>Google Scholar</code></a>
   </small> 
 </li>				
 <li>J. Charbonnier, K. Chung, E. Scholten, E. van Rikxoort, C. Jacobs, N. Sverzellati, M. Silva, U. Pastorino, B. van Ginneken and F. Ciompi, "Automatic segmentation of the solid core and enclosed vessels in subsolid pulmonary nodules",
@@ -608,7 +608,7 @@ subtitle: The full list. With links to the pdf whenever the Taverne Amendment al
  <a href="/assets/pdf/mets18.pdf"><code>PDF</code></a>
  <a href="https://doi.org/10.1007/s00330-017-5055-x"><code>DOI</code></a>
  <a href="http://www.ncbi.nlm.nih.gov/pubmed/28986629"><code>PubMed</code></a>
- <a href="https://scholar.google.com/scholar?cites=8930722888609062115">Cited by ~15</a>
+ <a href="https://scholar.google.com/scholar?cites=8930722888609062115"><code>Google Scholar</code></a>
   </small> 
 </li>				
 <li>B. Bejnordi, G. Zuidhof, M. Balkenhol, M. Hermsen, P. Bult, B. van Ginneken, N. Karssemeijer, G. Litjens and J. van der Laak, "Context-aware stacked convolutional neural networks for classification of breast carcinomas in whole-slide histopathology images",
@@ -617,7 +617,7 @@ subtitle: The full list. With links to the pdf whenever the Taverne Amendment al
  <a href="/assets/pdf/bejn17b.pdf"><code>PDF</code></a>
  <a href="https://doi.org/10.1117/1.JMI.4.4.044504"><code>DOI</code></a>
  <a href="http://www.ncbi.nlm.nih.gov/pubmed/29285517"><code>PubMed</code></a>
- <a href="https://scholar.google.com/scholar?cites=10616853499280907465">Cited by ~75</a>
+ <a href="https://scholar.google.com/scholar?cites=10616853499280907465"><code>Google Scholar</code></a>
   </small> 
 </li>				
 <li>B. Ehteshami Bejnordi, M. Veta, P. van Diest, B. van Ginneken, N. Karssemeijer, G. Litjens, J. van der Laak, T. Consortium, M. Hermsen, Q. Manson, M. Balkenhol, O. Geessink, N. Stathonikos, M. van Dijk, P. Bult, F. Beca, A. Beck, D. Wang, A. Khosla, R. Gargeya, H. Irshad, A. Zhong, Q. Dou, Q. Li, H. Chen, H. Lin, P. Heng, C. Haß, E. Bruni, Q. Wong, U. Halici, M. Öner, R. Cetin-Atalay, M. Berseth, V. Khvatkov, A. Vylegzhanin, O. Kraus, M. Shaban, N. Rajpoot, R. Awan, K. Sirinukunwattana, T. Qaiser, Y. Tsang, D. Tellez, J. Annuscheit, P. Hufnagl, M. Valkonen, K. Kartasalo, L. Latonen, P. Ruusuvuori, K. Liimatainen, S. Albarqouni, B. Mungal, A. George, S. Demirci, N. Navab, S. Watanabe, S. Seno, Y. Takenaka, H. Matsuda, H. Ahmady Phoulady, V. Kovalev, A. Kalinovsky, V. Liauchuk, G. Bueno, M. Fernandez-Carrobles, I. Serrano, O. Deniz, D. Racoceanu and R. Venâncio, "Diagnostic Assessment of Deep Learning Algorithms for Detection of Lymph Node Metastases in Women With Breast Cancer",
@@ -626,7 +626,7 @@ subtitle: The full list. With links to the pdf whenever the Taverne Amendment al
  <a href="/assets/pdf/ehte17.pdf"><code>PDF</code></a>
  <a href="https://doi.org/10.1001/jama.2017.14585"><code>DOI</code></a>
  <a href="http://www.ncbi.nlm.nih.gov/pubmed/29234806"><code>PubMed</code></a>
- <a href="https://scholar.google.com/scholar?cites=6260116032142865268">Cited by ~791</a>
+ <a href="https://scholar.google.com/scholar?cites=6260116032142865268"><code>Google Scholar</code></a>
   </small> 
 </li>				
 <li>L. Gallardo-Estrella, E. Pompe, P. de Jong, C. Jacobs, E. van Rikxoort, M. Prokop, C. Sánchez and B. van Ginneken, "Normalized emphysema scores on low dose CT: Validation as an imaging biomarker for mortality",
@@ -644,7 +644,7 @@ subtitle: The full list. With links to the pdf whenever the Taverne Amendment al
  <a href="/assets/pdf/lief17b.pdf"><code>PDF</code></a>
  <a href="https://doi.org/10.1364/BOE.8.005160"><code>DOI</code></a>
  <a href="http://www.ncbi.nlm.nih.gov/pubmed/29188111"><code>PubMed</code></a>
- <a href="https://scholar.google.com/scholar?cites=16004483321806977582">Cited by ~13</a>
+ <a href="https://scholar.google.com/scholar?cites=16004483321806977582"><code>Google Scholar</code></a>
   </small> 
 </li>				
 <li>M. Meijs, A. Patel, S. van de Leemput, M. Prokop, E. van Dijk, F. de Leeuw, F. Meijer, B. van Ginneken and R. Manniesing, "Robust Segmentation of the Full Cerebral Vasculature in 4D CT Images of Suspected Stroke Patients",
@@ -661,7 +661,7 @@ subtitle: The full list. With links to the pdf whenever the Taverne Amendment al
  <a href="/assets/pdf/riel17a.pdf"><code>PDF</code></a>
  <a href="https://doi.org/10.1371/journal.pone.0185032"><code>DOI</code></a>
  <a href="http://www.ncbi.nlm.nih.gov/pubmed/29121063"><code>PubMed</code></a>
- <a href="https://scholar.google.com/scholar?cites=11335791003669055242">Cited by ~18</a>
+ <a href="https://scholar.google.com/scholar?cites=11335791003669055242"><code>Google Scholar</code></a>
   </small> 
 </li>				
 <li>F. Ciompi, K. Chung, S. van Riel, A. Setio, P. Gerke, C. Jacobs, E. Scholten, C. Schaefer-Prokop, M. Wille, A. Marchiano, U. Pastorino, M. Prokop and B. van Ginneken, "Towards automatic pulmonary nodule management in lung cancer screening with deep learning",
@@ -670,7 +670,7 @@ subtitle: The full list. With links to the pdf whenever the Taverne Amendment al
  <a href="/assets/pdf/ciom17a.pdf"><code>PDF</code></a>
  <a href="https://doi.org/10.1038/srep46479"><code>DOI</code></a>
  <a href="http://www.ncbi.nlm.nih.gov/pubmed/28880026"><code>PubMed</code></a>
- <a href="https://scholar.google.com/scholar?cites=8567006734401252147">Cited by ~171</a>
+ <a href="https://scholar.google.com/scholar?cites=8567006734401252147"><code>Google Scholar</code></a>
   </small> 
 </li>				
 <li>A. Devaraj, B. van Ginneken, A. Nair and D. Baldwin, "Use of Volumetry for Lung Nodule Management: Theory and Practice",
@@ -679,7 +679,7 @@ subtitle: The full list. With links to the pdf whenever the Taverne Amendment al
  <a href="/assets/pdf/deva17.pdf"><code>PDF</code></a>
  <a href="https://doi.org/10.1148/radiol.2017151022"><code>DOI</code></a>
  <a href="http://www.ncbi.nlm.nih.gov/pubmed/28825886"><code>PubMed</code></a>
- <a href="https://scholar.google.com/scholar?cites=2824529338802696200">Cited by ~48</a>
+ <a href="https://scholar.google.com/scholar?cites=2824529338802696200"><code>Google Scholar</code></a>
   </small> 
 </li>				
 <li>J. Melendez, R. Philipsen, P. Chanda-Kapata, V. Sunkutu, N. Kapata and B. van Ginneken, "Automatic versus human reading of chest X-rays in the Zambia National Tuberculosis Prevalence Survey",
@@ -688,7 +688,7 @@ subtitle: The full list. With links to the pdf whenever the Taverne Amendment al
  <a href="/assets/pdf/mele17.pdf"><code>PDF</code></a>
  <a href="https://doi.org/10.5588/ijtld.16.0851"><code>DOI</code></a>
  <a href="http://www.ncbi.nlm.nih.gov/pubmed/28786796"><code>PubMed</code></a>
- <a href="https://scholar.google.com/scholar?cites=14209453799880160478">Cited by ~10</a>
+ <a href="https://scholar.google.com/scholar?cites=14209453799880160478"><code>Google Scholar</code></a>
   </small> 
 </li>				
 <li>G. Litjens, T. Kooi, B. Ehteshami Bejnordi, A. Setio, F. Ciompi, M. Ghafoorian, J. van der Laak, B. van Ginneken and C. Sánchez, "A Survey on Deep Learning in Medical Image Analysis",
@@ -697,7 +697,7 @@ subtitle: The full list. With links to the pdf whenever the Taverne Amendment al
  <a href="/assets/pdf/litj17.pdf"><code>PDF</code></a>
  <a href="https://doi.org/10.1016/j.media.2017.07.005"><code>DOI</code></a>
  <a href="http://www.ncbi.nlm.nih.gov/pubmed/28778026"><code>PubMed</code></a>
- <a href="https://scholar.google.com/scholar?cites=17186798094825352745">Cited by ~3681</a>
+ <a href="https://scholar.google.com/scholar?cites=17186798094825352745"><code>Google Scholar</code></a>
   </small> 
 </li>				
 <li>A. Setio, A. Traverso, T. de Bel, M. Berens, C. Bogaard, P. Cerello, H. Chen, Q. Dou, M. Fantacci, B. Geurts, R. Gugten, P. Heng, B. Jansen, M. de Kaste, V. Kotov, J. Lin, J. Manders, A. Sonora-Mengana, J. Garcia-Naranjo, E. Papavasileiou, M. Prokop, M. Saletta, C. Schaefer-Prokop, E. Scholten, L. Scholten, M. Snoeren, E. Torres, J. Vandemeulebroucke, N. Walasek, G. Zuidhof, B. Ginneken and C. Jacobs, "Validation, comparison, and combination of algorithms for automatic detection of pulmonary nodules in computed tomography images: The LUNA16 challenge",
@@ -706,7 +706,7 @@ subtitle: The full list. With links to the pdf whenever the Taverne Amendment al
  <a href="/assets/pdf/seti17.pdf"><code>PDF</code></a>
  <a href="https://doi.org/10.1016/j.media.2017.06.015"><code>DOI</code></a>
  <a href="http://www.ncbi.nlm.nih.gov/pubmed/28732268"><code>PubMed</code></a>
- <a href="https://scholar.google.com/scholar?cites=2084538205545992787">Cited by ~291</a>
+ <a href="https://scholar.google.com/scholar?cites=2084538205545992787"><code>Google Scholar</code></a>
   </small> 
 </li>				
 <li>F. Venhuizen, B. van Ginneken, B. Liefers, Schreur, M. van Grinsven, S. Fauser, C. Hoyng, T. Theelen and C. Sánchez, "Robust Total Retina Thickness Segmentation in Optical Coherence Tomography Images using Convolutional Neural Networks",
@@ -715,7 +715,7 @@ subtitle: The full list. With links to the pdf whenever the Taverne Amendment al
  <a href="/assets/pdf/venh17b.pdf"><code>PDF</code></a>
  <a href="https://doi.org/10.1364/BOE.8.003292"><code>DOI</code></a>
  <a href="http://www.ncbi.nlm.nih.gov/pubmed/28717568"><code>PubMed</code></a>
- <a href="https://scholar.google.com/scholar?cites=14231747073311085579">Cited by ~59</a>
+ <a href="https://scholar.google.com/scholar?cites=14231747073311085579"><code>Google Scholar</code></a>
   </small> 
 </li>				
 <li>M. Ghafoorian, N. Karssemeijer, T. Heskes, I. van Uden, C. Sánchez, G. Litjens, F. de Leeuw, B. van Ginneken, E. Marchiori and B. Platel, "Location Sensitive Deep Convolutional Neural Networks for Segmentation of White Matter Hyperintensities",
@@ -724,7 +724,7 @@ subtitle: The full list. With links to the pdf whenever the Taverne Amendment al
  <a href="/assets/pdf/ghaf17c.pdf"><code>PDF</code></a>
  <a href="https://doi.org/10.1038/s41598-017-05300-5"><code>DOI</code></a>
  <a href="http://www.ncbi.nlm.nih.gov/pubmed/28698556"><code>PubMed</code></a>
- <a href="https://scholar.google.com/scholar?cites=5144190841808936245">Cited by ~117</a>
+ <a href="https://scholar.google.com/scholar?cites=5144190841808936245"><code>Google Scholar</code></a>
   </small> 
 </li>				
 <li>B. Lassen-Schmidt, J. Kuhnigk, O. Konrad, B. van Ginneken and E. van Rikxoort, "Fast interactive segmentation of the pulmonary lobes from thoracic computed tomography data",
@@ -751,7 +751,7 @@ subtitle: The full list. With links to the pdf whenever the Taverne Amendment al
  <a href="/assets/pdf/venh17a.pdf"><code>PDF</code></a>
  <a href="https://doi.org/10.1167/iovs.16-20541"><code>DOI</code></a>
  <a href="http://www.ncbi.nlm.nih.gov/pubmed/28437528"><code>PubMed</code></a>
- <a href="https://scholar.google.com/scholar?cites=8934997778421574924">Cited by ~37</a>
+ <a href="https://scholar.google.com/scholar?cites=8934997778421574924"><code>Google Scholar</code></a>
   </small> 
 </li>				
 <li>E. Pompe, P. de Jong, D. Lynch, N. Lessmann, I. Išgum, B. van Ginneken, J. Lammers and F. Mohamed Hoesein, "Computed tomographic findings in subjects who died from respiratory disease in the National Lung Screening Trial",
@@ -760,7 +760,7 @@ subtitle: The full list. With links to the pdf whenever the Taverne Amendment al
  <a href="/assets/pdf/pomp17.pdf"><code>PDF</code></a>
  <a href="https://doi.org/10.1183/13993003.01814-2016"><code>DOI</code></a>
  <a href="http://www.ncbi.nlm.nih.gov/pubmed/28424361"><code>PubMed</code></a>
- <a href="https://scholar.google.com/scholar?cites=3304458654067065492">Cited by ~10</a>
+ <a href="https://scholar.google.com/scholar?cites=3304458654067065492"><code>Google Scholar</code></a>
   </small> 
 </li>				
 <li>L. Gallardo Estrella, E. Pompe, J. Kuhnigk, D. Lynch, S. Bhatt, B. van Ginneken and E. van Rikxoort, "Computed tomography quantification of tracheal abnormalities in COPD and their influence on airflow limitation",
@@ -778,7 +778,7 @@ subtitle: The full list. With links to the pdf whenever the Taverne Amendment al
  <a href="/assets/pdf/chun17.pdf"><code>PDF</code></a>
  <a href="https://doi.org/10.1148/radiol.2017161624"><code>DOI</code></a>
  <a href="http://www.ncbi.nlm.nih.gov/pubmed/28339311"><code>PubMed</code></a>
- <a href="https://scholar.google.com/scholar?cites=6175266469384712630">Cited by ~32</a>
+ <a href="https://scholar.google.com/scholar?cites=6175266469384712630"><code>Google Scholar</code></a>
   </small> 
 </li>				
 <li>S. van Riel, F. Ciompi, C. Jacobs, M. Winkler Wille, E. Scholten, M. Naqibullah, S. Lam, M. Prokop, C. Schaefer-Prokop and B. van Ginneken, "Malignancy risk estimation of screen-detected nodules at baseline CT: comparison of the PanCan model, Lung-RADS and NCCN guidelines",
@@ -787,7 +787,7 @@ subtitle: The full list. With links to the pdf whenever the Taverne Amendment al
  <a href="/assets/pdf/riel17.pdf"><code>PDF</code></a>
  <a href="https://doi.org/10.1007/s00330-017-4767-2"><code>DOI</code></a>
  <a href="http://www.ncbi.nlm.nih.gov/pubmed/28293773"><code>PubMed</code></a>
- <a href="https://scholar.google.com/scholar?cites=3463244640968070105">Cited by ~28</a>
+ <a href="https://scholar.google.com/scholar?cites=3463244640968070105"><code>Google Scholar</code></a>
   </small> 
 </li>				
 <li>R. Manniesing, M. Oei, L. Oostveen, J. Melendez, E. Smit, B. Platel, C. Sánchez, F. Meijer, M. Prokop and B. van Ginneken, "White Matter and Gray Matter Segmentation in 4D Computed Tomography",
@@ -796,7 +796,7 @@ subtitle: The full list. With links to the pdf whenever the Taverne Amendment al
  <a href="/assets/pdf/mann17.pdf"><code>PDF</code></a>
  <a href="https://doi.org/10.1038/s41598-017-00239-z"><code>DOI</code></a>
  <a href="http://www.ncbi.nlm.nih.gov/pubmed/28273920"><code>PubMed</code></a>
- <a href="https://scholar.google.com/scholar?cites=7982996011980143322">Cited by ~17</a>
+ <a href="https://scholar.google.com/scholar?cites=7982996011980143322"><code>Google Scholar</code></a>
   </small> 
 </li>				
 <li>M. Ghafoorian, N. Karssemeijer, T. Heskes, M. Bergkamp, J. Wissink, J. Obels, K. Keizer, F. de Leeuw, B. Ginneken, E. Marchiori and B. Platel, "Deep multi-scale location-aware 3D convolutional neural networks for automated detection of lacunes of presumed vascular origin",
@@ -805,7 +805,7 @@ subtitle: The full list. With links to the pdf whenever the Taverne Amendment al
  <a href="/assets/pdf/ghaf17a.pdf"><code>PDF</code></a>
  <a href="https://doi.org/10.1016/j.nicl.2017.01.033"><code>DOI</code></a>
  <a href="http://www.ncbi.nlm.nih.gov/pubmed/28271039"><code>PubMed</code></a>
- <a href="https://scholar.google.com/scholar?cites=14192982400070367057">Cited by ~85</a>
+ <a href="https://scholar.google.com/scholar?cites=14192982400070367057"><code>Google Scholar</code></a>
   </small> 
 </li>				
 <li>B. van Ginneken, "Fifty years of computer analysis in chest imaging: rule-based, machine learning, deep learning",
@@ -814,7 +814,7 @@ subtitle: The full list. With links to the pdf whenever the Taverne Amendment al
  <a href="/assets/pdf/ginn17.pdf"><code>PDF</code></a>
  <a href="https://doi.org/10.1007/s12194-017-0394-5"><code>DOI</code></a>
  <a href="http://www.ncbi.nlm.nih.gov/pubmed/28211015"><code>PubMed</code></a>
- <a href="https://scholar.google.com/scholar?cites=14217309155856769796">Cited by ~76</a>
+ <a href="https://scholar.google.com/scholar?cites=14217309155856769796"><code>Google Scholar</code></a>
   </small> 
 </li>				
 <li>L. Hogeweg, C. Sánchez, P. Maduskar, R. Philipsen and B. van Ginneken, "Fast and effective quantification of symmetry in medical images for pathology detection: application to chest radiography",
@@ -832,7 +832,7 @@ subtitle: The full list. With links to the pdf whenever the Taverne Amendment al
  <a href="/assets/pdf/kooi17c.pdf"><code>PDF</code></a>
  <a href="https://doi.org/10.1002/mp.12110"><code>DOI</code></a>
  <a href="http://www.ncbi.nlm.nih.gov/pubmed/28094850"><code>PubMed</code></a>
- <a href="https://scholar.google.com/scholar?cites=12478615936975025414">Cited by ~63</a>
+ <a href="https://scholar.google.com/scholar?cites=12478615936975025414"><code>Google Scholar</code></a>
   </small> 
 </li>				
 <li>J. Cohen, H. Kim, S. Park, B. van Ginneken, G. Ferretti, C. Lee, J. Goo and C. Park, "Comparison of the effects of model-based iterative reconstruction and filtered back projection algorithms on software measurements in pulmonary subsolid nodules",
@@ -841,7 +841,7 @@ subtitle: The full list. With links to the pdf whenever the Taverne Amendment al
  <a href="/assets/pdf/cohe17.pdf"><code>PDF</code></a>
  <a href="https://doi.org/10.1007/s00330-016-4716-5"><code>DOI</code></a>
  <a href="http://www.ncbi.nlm.nih.gov/pubmed/28058482"><code>PubMed</code></a>
- <a href="https://scholar.google.com/scholar?cites=10862932001783753179">Cited by ~14</a>
+ <a href="https://scholar.google.com/scholar?cites=10862932001783753179"><code>Google Scholar</code></a>
   </small> 
 </li>				
 <li>A. Patel, B. van Ginneken, F. Meijer, E. van Dijk, M. Prokop and R. Manniesing, "Robust Cranial Cavity Segmentation in CT and CT Perfusion Images of Trauma and Suspected Stroke Patients",
@@ -850,7 +850,7 @@ subtitle: The full list. With links to the pdf whenever the Taverne Amendment al
  <a href="/assets/pdf/pate17b.pdf"><code>PDF</code></a>
  <a href="https://doi.org/10.1016/j.media.2016.12.002"><code>DOI</code></a>
  <a href="http://www.ncbi.nlm.nih.gov/pubmed/28011374"><code>PubMed</code></a>
- <a href="https://scholar.google.com/scholar?cites=5343166311394276117">Cited by ~23</a>
+ <a href="https://scholar.google.com/scholar?cites=5343166311394276117"><code>Google Scholar</code></a>
   </small> 
 </li>				
 <li>J. Charbonnier, E. van Rikxoort, A. Setio, C. Schaefer-Prokop, B. van Ginneken and F. Ciompi, "Improving Airway Segmentation in Computed Tomography using Leak Detection with Convolutional Networks",
@@ -859,7 +859,7 @@ subtitle: The full list. With links to the pdf whenever the Taverne Amendment al
  <a href="/assets/pdf/char16c.pdf"><code>PDF</code></a>
  <a href="https://doi.org/10.1016/j.media.2016.11.001"><code>DOI</code></a>
  <a href="http://www.ncbi.nlm.nih.gov/pubmed/27842236"><code>PubMed</code></a>
- <a href="https://scholar.google.com/scholar?cites=10119306392018768738">Cited by ~49</a>
+ <a href="https://scholar.google.com/scholar?cites=10119306392018768738"><code>Google Scholar</code></a>
   </small> 
 </li>				
 <li>M. Oei, F. Meijer, W. van der Woude, E. Smit, B. van Ginneken, M. Prokop and R. Manniesing, "Interleaving cerebral CT perfusion with neck CT angiography part I. Proof of concept and accuracy of cerebral perfusion values",
@@ -877,7 +877,7 @@ subtitle: The full list. With links to the pdf whenever the Taverne Amendment al
  <a href="/assets/pdf/oei17.pdf"><code>PDF</code></a>
  <a href="https://doi.org/10.1007/s00330-016-4592-z"><code>DOI</code></a>
  <a href="http://www.ncbi.nlm.nih.gov/pubmed/27651144"><code>PubMed</code></a>
- <a href="https://scholar.google.com/scholar?cites=3697066219334813948">Cited by ~10</a>
+ <a href="https://scholar.google.com/scholar?cites=3697066219334813948"><code>Google Scholar</code></a>
   </small> 
 </li>				
 <li>T. Kooi, G. Litjens, B. van Ginneken, A. Gubern-Mérida, C. Sánchez, R. Mann, A. den Heeten and N. Karssemeijer, "Large scale deep learning for computer aided detection of mammographic lesions",
@@ -886,7 +886,7 @@ subtitle: The full list. With links to the pdf whenever the Taverne Amendment al
  <a href="/assets/pdf/kooi17.pdf"><code>PDF</code></a>
  <a href="https://doi.org/10.1016/j.media.2016.07.007"><code>DOI</code></a>
  <a href="http://www.ncbi.nlm.nih.gov/pubmed/27497072"><code>PubMed</code></a>
- <a href="https://scholar.google.com/scholar?cites=4747474489852859159">Cited by ~432</a>
+ <a href="https://scholar.google.com/scholar?cites=4747474489852859159"><code>Google Scholar</code></a>
   </small> 
 </li>				
 <li>O. Mets, P. de Jong, E. Scholten, K. Chung, B. van Ginneken and C. Schaefer-Prokop, "Subsolid pulmonary nodule morphology and associated patient characteristics in a routine clinical population",
@@ -895,7 +895,7 @@ subtitle: The full list. With links to the pdf whenever the Taverne Amendment al
  <a href="/assets/pdf/mets17.pdf"><code>PDF</code></a>
  <a href="https://doi.org/10.1007/s00330-016-4429-9"><code>DOI</code></a>
  <a href="http://www.ncbi.nlm.nih.gov/pubmed/27255399"><code>PubMed</code></a>
- <a href="https://scholar.google.com/scholar?cites=6398901592421084320">Cited by ~15</a>
+ <a href="https://scholar.google.com/scholar?cites=6398901592421084320"><code>Google Scholar</code></a>
   </small> 
 </li>				
 <li>R. Manniesing, C. Brune, B. van Ginneken and M. Prokop, "A 4D CT Digital Phantom of an Individual Human Brain for Perfusion Analysis",
@@ -949,7 +949,7 @@ subtitle: The full list. With links to the pdf whenever the Taverne Amendment al
  <a href="/assets/pdf/litj16c.pdf"><code>PDF</code></a>
  <a href="https://doi.org/10.1038/srep26286"><code>DOI</code></a>
  <a href="http://www.ncbi.nlm.nih.gov/pubmed/27212078"><code>PubMed</code></a>
- <a href="https://scholar.google.com/scholar?cites=15076999051911417421">Cited by ~490</a>
+ <a href="https://scholar.google.com/scholar?cites=15076999051911417421"><code>Google Scholar</code></a>
   </small> 
 </li>				
 <li>J. Cohen, J. Goo, R. Yoo, S. Park, B. van Ginneken, G. Ferretti, C. Lee and C. Park, "The effect of late-phase contrast enhancement on semi-automatic software measurements of CT attenuation and volume of part-solid nodules in lung adenocarcinomas",
@@ -958,7 +958,7 @@ subtitle: The full list. With links to the pdf whenever the Taverne Amendment al
  <a href="/assets/pdf/cohe16a.pdf"><code>PDF</code></a>
  <a href="https://doi.org/10.1016/j.ejrad.2016.03.027"><code>DOI</code></a>
  <a href="http://www.ncbi.nlm.nih.gov/pubmed/27161068"><code>PubMed</code></a>
- <a href="https://scholar.google.com/scholar?cites=13638511362314366120">Cited by ~12</a>
+ <a href="https://scholar.google.com/scholar?cites=13638511362314366120"><code>Google Scholar</code></a>
   </small> 
 </li>				
 <li>J. Melendez, C. Sánchez, R. Philipsen, P. Maduskar, R. Dawson, G. Theron, K. Dheda and B. van Ginneken, "An automated tuberculosis screening strategy combining X-ray-based computer-aided detection and clinical information",
@@ -967,7 +967,7 @@ subtitle: The full list. With links to the pdf whenever the Taverne Amendment al
  <a href="/assets/pdf/mele16a.pdf"><code>PDF</code></a>
  <a href="https://doi.org/10.1038/srep25265"><code>DOI</code></a>
  <a href="http://www.ncbi.nlm.nih.gov/pubmed/27126741"><code>PubMed</code></a>
- <a href="https://scholar.google.com/scholar?cites=1152274775860878952">Cited by ~53</a>
+ <a href="https://scholar.google.com/scholar?cites=1152274775860878952"><code>Google Scholar</code></a>
   </small> 
 </li>				
 <li>J. Cohen, J. Goo, R. Yoo, C. Park, C. Lee, B. van Ginneken, D. Chung and Y. Kim, "Software performance in segmenting ground-glass and solid components of subsolid nodules in pulmonary adenocarcinomas",
@@ -976,7 +976,7 @@ subtitle: The full list. With links to the pdf whenever the Taverne Amendment al
  <a href="/assets/pdf/cohe16.pdf"><code>PDF</code></a>
  <a href="https://doi.org/10.1007/s00330-016-4317-3"><code>DOI</code></a>
  <a href="http://www.ncbi.nlm.nih.gov/pubmed/27048527"><code>PubMed</code></a>
- <a href="https://scholar.google.com/scholar?cites=3518501568376626554">Cited by ~31</a>
+ <a href="https://scholar.google.com/scholar?cites=3518501568376626554"><code>Google Scholar</code></a>
   </small> 
 </li>				
 <li>A. Ritchie, C. Sanghera, C. Jacobs, W. Zhang, J. Mayo, H. Schmidt, M. Gingras, S. Pasian, L. Stewart, S. Tsai, D. Manos, J. Seely, P. Burrowes, R. Bhatia, S. Atkar-Khattra, B. van Ginneken, M. Tammemagi, M. Tsao, S. Lam and the Pan-Canadian Early Detection of Lung Cancer Study Group, "Computer Vision Tool and Technician as First Reader of Lung Cancer Screening CT Scans",
@@ -985,7 +985,7 @@ subtitle: The full list. With links to the pdf whenever the Taverne Amendment al
  <a href="/assets/pdf/ritc16.pdf"><code>PDF</code></a>
  <a href="https://doi.org/10.1016/j.jtho.2016.01.021"><code>DOI</code></a>
  <a href="http://www.ncbi.nlm.nih.gov/pubmed/26994641"><code>PubMed</code></a>
- <a href="https://scholar.google.com/scholar?cites=3679975545286903047">Cited by ~14</a>
+ <a href="https://scholar.google.com/scholar?cites=3679975545286903047"><code>Google Scholar</code></a>
   </small> 
 </li>				
 <li>A. Setio, F. Ciompi, G. Litjens, P. Gerke, C. Jacobs, S. van Riel, M. Wille, M. Naqibullah, C. Sánchez and B. van Ginneken, "Pulmonary nodule detection in CT images: false positive reduction using multi-view convolutional networks",
@@ -994,7 +994,7 @@ subtitle: The full list. With links to the pdf whenever the Taverne Amendment al
  <a href="/assets/pdf/seti16.pdf"><code>PDF</code></a>
  <a href="https://doi.org/10.1109/TMI.2016.2536809"><code>DOI</code></a>
  <a href="http://www.ncbi.nlm.nih.gov/pubmed/26955024"><code>PubMed</code></a>
- <a href="https://scholar.google.com/scholar?cites=8158189024082045415">Cited by ~605</a>
+ <a href="https://scholar.google.com/scholar?cites=8158189024082045415"><code>Google Scholar</code></a>
   </small> 
 </li>				
 <li>O. Mets, P. de Jong, K. Chung, J. Lammers, B. van Ginneken and C. Schaefer-Prokop, "Fleischner recommendations for the management of subsolid pulmonary nodules: high awareness but limited conformance - a survey study",
@@ -1003,7 +1003,7 @@ subtitle: The full list. With links to the pdf whenever the Taverne Amendment al
  <a href="/assets/pdf/mets16.pdf"><code>PDF</code></a>
  <a href="https://doi.org/10.1007/s00330-016-4249-y"><code>DOI</code></a>
  <a href="http://www.ncbi.nlm.nih.gov/pubmed/26945759"><code>PubMed</code></a>
- <a href="https://scholar.google.com/scholar?cites=16090325245936356049">Cited by ~19</a>
+ <a href="https://scholar.google.com/scholar?cites=16090325245936356049"><code>Google Scholar</code></a>
   </small> 
 </li>				
 <li>M. van Grinsven, B. van Ginneken, C. Hoyng, T. Theelen and C. Sánchez., "Fast Convolutional Neural Network Training Using Selective Data Sampling: Application to Hemorrhage Detection in Color Fundus Images",
@@ -1012,7 +1012,7 @@ subtitle: The full list. With links to the pdf whenever the Taverne Amendment al
  <a href="/assets/pdf/grin16b.pdf"><code>PDF</code></a>
  <a href="https://doi.org/10.1109/TMI.2016.2526689"><code>DOI</code></a>
  <a href="http://www.ncbi.nlm.nih.gov/pubmed/26886969"><code>PubMed</code></a>
- <a href="https://scholar.google.com/scholar?cites=9170568847453666888">Cited by ~240</a>
+ <a href="https://scholar.google.com/scholar?cites=9170568847453666888"><code>Google Scholar</code></a>
   </small> 
 </li>				
 <li>S. Schalekamp, N. Karssemeijer, A. Cats, B. De Hoop, B. Geurts, O. Berger-Hartog, B. van Ginneken and C. Schaefer-Prokop, "The Effect of Supplementary Bone-Suppressed Chest Radiographs on the Assessment of a Variety of Common Pulmonary Abnormalities: Results of an Observer Study",
@@ -1030,7 +1030,7 @@ subtitle: The full list. With links to the pdf whenever the Taverne Amendment al
  <a href="/assets/pdf/madu16.pdf"><code>PDF</code></a>
  <a href="https://doi.org/10.1016/j.media.2015.09.004"><code>DOI</code></a>
  <a href="http://www.ncbi.nlm.nih.gov/pubmed/26688067"><code>PubMed</code></a>
- <a href="https://scholar.google.com/scholar?cites=8541446038177947163">Cited by ~19</a>
+ <a href="https://scholar.google.com/scholar?cites=8541446038177947163"><code>Google Scholar</code></a>
   </small> 
 </li>				
 <li>J. Melendez, B. van Ginneken, P. Maduskar, R. Philipsen, H. Ayles and C. Sánchez, "On Combining Multiple-Instance Learning and Active Learning for Computer-Aided Detection of Tuberculosis",
@@ -1039,7 +1039,7 @@ subtitle: The full list. With links to the pdf whenever the Taverne Amendment al
  <a href="/assets/pdf/mele16.pdf"><code>PDF</code></a>
  <a href="https://doi.org/10.1109/TMI.2015.2505672"><code>DOI</code></a>
  <a href="http://www.ncbi.nlm.nih.gov/pubmed/26660889"><code>PubMed</code></a>
- <a href="https://scholar.google.com/scholar?cites=14270097264018368898">Cited by ~28</a>
+ <a href="https://scholar.google.com/scholar?cites=14270097264018368898"><code>Google Scholar</code></a>
   </small> 
 </li>				
 <li>C. Jacobs, E. van Rikxoort, K. Murphy, M. Prokop, C. Schaefer-Prokop and B. van Ginneken, "Computer-aided detection of pulmonary nodules: a comparative study using the public LIDC/IDRI database",
@@ -1048,7 +1048,7 @@ subtitle: The full list. With links to the pdf whenever the Taverne Amendment al
  <a href="/assets/pdf/jaco15a.pdf"><code>PDF</code></a>
  <a href="https://doi.org/10.1007/s00330-015-4030-7"><code>DOI</code></a>
  <a href="http://www.ncbi.nlm.nih.gov/pubmed/26443601"><code>PubMed</code></a>
- <a href="https://scholar.google.com/scholar?cites=16131269046526513617">Cited by ~54</a>
+ <a href="https://scholar.google.com/scholar?cites=16131269046526513617"><code>Google Scholar</code></a>
   </small> 
 </li>				
 <li>R. Manniesing, M. Oei, B. van Ginneken and M. Prokop, "Quantitative Dose Dependency Analysis of Whole-Brain CT Perfusion Imaging",
@@ -1057,7 +1057,7 @@ subtitle: The full list. With links to the pdf whenever the Taverne Amendment al
  <a href="/assets/pdf/mann16.pdf"><code>PDF</code></a>
  <a href="https://doi.org/10.1148/radiol.2015142230"><code>DOI</code></a>
  <a href="http://www.ncbi.nlm.nih.gov/pubmed/26114226"><code>PubMed</code></a>
- <a href="https://scholar.google.com/scholar?cites=681530597847692433">Cited by ~18</a>
+ <a href="https://scholar.google.com/scholar?cites=681530597847692433"><code>Google Scholar</code></a>
   </small> 
 </li>				
 <li>L. Gallardo-Estrella, D. Lynch, M. Prokop, D. Stinson, J. Zach, P. Judy, B. van Ginneken and E. van Rikxoort, "Normalizing computed tomography data reconstructed with different filter kernels: effect on emphysema quantification",
@@ -1066,7 +1066,7 @@ subtitle: The full list. With links to the pdf whenever the Taverne Amendment al
  <a href="/assets/pdf/gall16.pdf"><code>PDF</code></a>
  <a href="https://doi.org/10.1007/s00330-015-3824-y"><code>DOI</code></a>
  <a href="http://www.ncbi.nlm.nih.gov/pubmed/26002132"><code>PubMed</code></a>
- <a href="https://scholar.google.com/scholar?cites=15682115650147851893">Cited by ~32</a>
+ <a href="https://scholar.google.com/scholar?cites=15682115650147851893"><code>Google Scholar</code></a>
   </small> 
 </li>				
 <li>H. Greenspan, R. Summers and B. van Ginneken, "Deep Learning in Medical Imaging: Overview and Future Promise of an Exciting New Technique",
@@ -1089,7 +1089,7 @@ subtitle: The full list. With links to the pdf whenever the Taverne Amendment al
  <a href="/assets/pdf/stei15.pdf"><code>PDF</code></a>
  <a href="https://doi.org/10.5588/pha.15.0037"><code>DOI</code></a>
  <a href="http://www.ncbi.nlm.nih.gov/pubmed/26767179"><code>PubMed</code></a>
- <a href="https://scholar.google.com/scholar?cites=16224410692512843779">Cited by ~15</a>
+ <a href="https://scholar.google.com/scholar?cites=16224410692512843779"><code>Google Scholar</code></a>
   </small> 
 </li>				
 <li>F. Ciompi, B. de Hoop, S. van Riel, K. Chung, E. Scholten, M. Oudkerk, P. de Jong, M. Prokop and B. van Ginneken, "Automatic classification of pulmonary peri-fissural nodules in computed tomography using an ensemble of 2D views and a convolutional neural network out-of-the-box",
@@ -1098,7 +1098,7 @@ subtitle: The full list. With links to the pdf whenever the Taverne Amendment al
  <a href="/assets/pdf/ciom15a.pdf"><code>PDF</code></a>
  <a href="https://doi.org/10.1016/j.media.2015.08.001"><code>DOI</code></a>
  <a href="http://www.ncbi.nlm.nih.gov/pubmed/26458112"><code>PubMed</code></a>
- <a href="https://scholar.google.com/scholar?cites=14568521204042342742">Cited by ~191</a>
+ <a href="https://scholar.google.com/scholar?cites=14568521204042342742"><code>Google Scholar</code></a>
   </small> 
 </li>				
 <li>A. Setio, C. Jacobs, J. Gelderblom and B. van Ginneken, "Automatic detection of large pulmonary solid nodules in thoracic CT images",
@@ -1107,7 +1107,7 @@ subtitle: The full list. With links to the pdf whenever the Taverne Amendment al
  <a href="/assets/pdf/seti15a.pdf"><code>PDF</code></a>
  <a href="https://doi.org/10.1118/1.4929562"><code>DOI</code></a>
  <a href="http://www.ncbi.nlm.nih.gov/pubmed/26429238"><code>PubMed</code></a>
- <a href="https://scholar.google.com/scholar?cites=14121163271329355688">Cited by ~88</a>
+ <a href="https://scholar.google.com/scholar?cites=14121163271329355688"><code>Google Scholar</code></a>
   </small> 
 </li>				
 <li>R. Philipsen, C. Sánchez, P. Maduskar, J. Melendez, L. Peters-Bax, J. Peter, R. Dawson, G. Theron, K. Dheda and B. van Ginneken, "Automated chest-radiography as a triage for Xpert testing in resource-constrained settings: a prospective study of diagnostic accuracy and costs",
@@ -1116,7 +1116,7 @@ subtitle: The full list. With links to the pdf whenever the Taverne Amendment al
  <a href="/assets/pdf/phil15b.pdf"><code>PDF</code></a>
  <a href="https://doi.org/10.1038/srep12215"><code>DOI</code></a>
  <a href="http://www.ncbi.nlm.nih.gov/pubmed/26212560"><code>PubMed</code></a>
- <a href="https://scholar.google.com/scholar?cites=6367627082351532761">Cited by ~36</a>
+ <a href="https://scholar.google.com/scholar?cites=6367627082351532761"><code>Google Scholar</code></a>
   </small> 
 </li>				
 <li>E. Smit, E. Vonken, F. Meijer, J. Dankbaar, A. Horsch, B. van Ginneken, B. Velthuis, I. van der Schaaf and M. Prokop, "Timing-Invariant CT Angiography Derived from CT Perfusion Imaging in Acute Stroke: A Diagnostic Performance Study",
@@ -1125,7 +1125,7 @@ subtitle: The full list. With links to the pdf whenever the Taverne Amendment al
  <a href="/assets/pdf/smit15.pdf"><code>PDF</code></a>
  <a href="https://doi.org/10.3174/ajnr.A4376"><code>DOI</code></a>
  <a href="http://www.ncbi.nlm.nih.gov/pubmed/26113070"><code>PubMed</code></a>
- <a href="https://scholar.google.com/scholar?cites=7113799955940245108">Cited by ~16</a>
+ <a href="https://scholar.google.com/scholar?cites=7113799955940245108"><code>Google Scholar</code></a>
   </small> 
 </li>				
 <li>S. van Riel, C. Sánchez, A. Bankier, D. Naidich, J. Verschakelen, E. Scholten, P. de Jong, C. Jacobs, E. van Rikxoort, L. Peters-Bax, M. Snoeren, M. Prokop, B. van Ginneken and C. Schaefer-Prokop, "Observer Variability for Classification of Pulmonary Nodules on Low-Dose CT Images and Its Effect on Nodule Management",
@@ -1134,7 +1134,7 @@ subtitle: The full list. With links to the pdf whenever the Taverne Amendment al
  <a href="/assets/pdf/riel15.pdf"><code>PDF</code></a>
  <a href="https://doi.org/10.1148/radiol.2015142700"><code>DOI</code></a>
  <a href="http://www.ncbi.nlm.nih.gov/pubmed/26020438"><code>PubMed</code></a>
- <a href="https://scholar.google.com/scholar?cites=13650233394438006732">Cited by ~113</a>
+ <a href="https://scholar.google.com/scholar?cites=13650233394438006732"><code>Google Scholar</code></a>
   </small> 
 </li>				
 <li>E. Pompe, E. van Rikxoort, M. Schmidt, J. Rühaak, L. Gallardo-Estrella, R. Vliegenthart, M. Oudkerk, H. de Koning, B. van Ginneken, P. de Jong, J. Lammers and F. Mohamed Hoesein, "Parametric response mapping adds value to current computed tomography biomarkers in diagnosing chronic obstructive pulmonary disease",
@@ -1143,7 +1143,7 @@ subtitle: The full list. With links to the pdf whenever the Taverne Amendment al
  <a href="/assets/pdf/pomp15.pdf"><code>PDF</code></a>
  <a href="https://doi.org/10.1164/rccm.201411-2105LE"><code>DOI</code></a>
  <a href="http://www.ncbi.nlm.nih.gov/pubmed/25932766"><code>PubMed</code></a>
- <a href="https://scholar.google.com/scholar?cites=2861070141397780388">Cited by ~16</a>
+ <a href="https://scholar.google.com/scholar?cites=2861070141397780388"><code>Google Scholar</code></a>
   </small> 
 </li>				
 <li>R. Philipsen, P. Maduskar, L. Hogeweg, J. Melendez, C. Sánchez and B. van Ginneken, "Localized energy-based normalization of medical images: application to chest radiography",
@@ -1152,7 +1152,7 @@ subtitle: The full list. With links to the pdf whenever the Taverne Amendment al
  <a href="/assets/pdf/phil15.pdf"><code>PDF</code></a>
  <a href="https://doi.org/10.1109/TMI.2015.2418031"><code>DOI</code></a>
  <a href="http://www.ncbi.nlm.nih.gov/pubmed/25838517"><code>PubMed</code></a>
- <a href="https://scholar.google.com/scholar?cites=15559638283935030636">Cited by ~27</a>
+ <a href="https://scholar.google.com/scholar?cites=15559638283935030636"><code>Google Scholar</code></a>
   </small> 
 </li>				
 <li>M. Winkler Wille, S. van Riel, Z. Saghir, A. Dirksen, J. Pedersen, C. Jacobs, L. Thomsen, E. Scholten, L. Skovgaard and B. van Ginneken, "Predictive Accuracy of the PanCan Lung Cancer Risk Prediction Model -External Validation based on CT from the Danish Lung Cancer Screening Trial",
@@ -1161,7 +1161,7 @@ subtitle: The full list. With links to the pdf whenever the Taverne Amendment al
  <a href="/assets/pdf/wink15a.pdf"><code>PDF</code></a>
  <a href="https://doi.org/10.1007/s00330-015-3689-0"><code>DOI</code></a>
  <a href="http://www.ncbi.nlm.nih.gov/pubmed/25764091"><code>PubMed</code></a>
- <a href="https://scholar.google.com/scholar?cites=5188005511580764305">Cited by ~51</a>
+ <a href="https://scholar.google.com/scholar?cites=5188005511580764305"><code>Google Scholar</code></a>
   </small> 
 </li>				
 <li>L. Hogeweg, C. Sánchez, P. Maduskar, R. Philipsen, A. Story, R. Dawson, G. Theron, K. Dheda, L. Peters-Bax and B. van Ginneken, "Automatic detection of tuberculosis in chest radiographs using a combination of textural, focal, and shape abnormality analysis",
@@ -1170,7 +1170,7 @@ subtitle: The full list. With links to the pdf whenever the Taverne Amendment al
  <a href="/assets/pdf/hoge15.pdf"><code>PDF</code></a>
  <a href="https://doi.org/10.1109/TMI.2015.2405761"><code>DOI</code></a>
  <a href="http://www.ncbi.nlm.nih.gov/pubmed/25706581"><code>PubMed</code></a>
- <a href="https://scholar.google.com/scholar?cites=9749688157397588773">Cited by ~51</a>
+ <a href="https://scholar.google.com/scholar?cites=9749688157397588773"><code>Google Scholar</code></a>
   </small> 
 </li>				
 <li>F. Mohamed Hoesein, P. de Jong, J. Lammers, W. Mali, M. Schmidt, H. de Koning, C. van der Aalst, M. Oudkerk, R. Vliegenthart, H. Groen, B. van Ginneken, E. van Rikxoort and P. Zanen, "Airway wall thickness associated with forced expiratory volume in 1 second decline and development of airflow limitation",
@@ -1179,7 +1179,7 @@ subtitle: The full list. With links to the pdf whenever the Taverne Amendment al
  <a href="/assets/pdf/moha15.pdf"><code>PDF</code></a>
  <a href="https://doi.org/10.1183/09031936.00020714"><code>DOI</code></a>
  <a href="http://www.ncbi.nlm.nih.gov/pubmed/25614166"><code>PubMed</code></a>
- <a href="https://scholar.google.com/scholar?cites=13584450798353585582">Cited by ~24</a>
+ <a href="https://scholar.google.com/scholar?cites=13584450798353585582"><code>Google Scholar</code></a>
   </small> 
 </li>				
 <li>B. Lassen, C. Jacobs, J. Kuhnigk, B. van Ginneken and E. van Rikxoort, "Robust semi-automatic segmentation of pulmonary subsolid nodules in chest computed tomography scans",
@@ -1188,7 +1188,7 @@ subtitle: The full list. With links to the pdf whenever the Taverne Amendment al
  <a href="/assets/pdf/lass15.pdf"><code>PDF</code></a>
  <a href="https://doi.org/10.1088/0031-9155/60/3/1307"><code>DOI</code></a>
  <a href="http://www.ncbi.nlm.nih.gov/pubmed/25591989"><code>PubMed</code></a>
- <a href="https://scholar.google.com/scholar?cites=9522455507672982699">Cited by ~51</a>
+ <a href="https://scholar.google.com/scholar?cites=9522455507672982699"><code>Google Scholar</code></a>
   </small> 
 </li>				
 <li>M. van Grinsven, G. Buitendijk, C. Brussee, B. van Ginneken, C. Hoyng, T. Theelen, C. Klaver and C. Sánchez, "Automatic identification of reticular pseudodrusen using multimodal retinal image analysis",
@@ -1197,7 +1197,7 @@ subtitle: The full list. With links to the pdf whenever the Taverne Amendment al
  <a href="/assets/pdf/grin15.pdf"><code>PDF</code></a>
  <a href="https://doi.org/10.1167/iovs.14-15019"><code>DOI</code></a>
  <a href="http://www.ncbi.nlm.nih.gov/pubmed/25574052"><code>PubMed</code></a>
- <a href="https://scholar.google.com/scholar?cites=2566342930661349456">Cited by ~21</a>
+ <a href="https://scholar.google.com/scholar?cites=2566342930661349456"><code>Google Scholar</code></a>
   </small> 
 </li>				
 <li>A. Dijkstra, D. Postma, B. van Ginneken, M. Wielpütz, M. Schmidt, N. Becker, M. Owsijewitsch, H. Kauczor, H. de Koning, J. Lammers, M. Oudkerk, C. Brandsma, Y. Bossé, D. Nickle, D. Sin, P. Hiemstra, C. Wijmenga, J. Smolonska, P. Zanen, J. Vonk, M. van den Berge, H. Boezen and H. Groen, "Novel Genes for Airway Wall Thickness Identified with Combined Genome Wide Association and Expression Analyses",
@@ -1206,7 +1206,7 @@ subtitle: The full list. With links to the pdf whenever the Taverne Amendment al
  <a href="/assets/pdf/dijk15.pdf"><code>PDF</code></a>
  <a href="https://doi.org/10.1164/rccm.201405-0840OC"><code>DOI</code></a>
  <a href="http://www.ncbi.nlm.nih.gov/pubmed/25517131"><code>PubMed</code></a>
- <a href="https://scholar.google.com/scholar?cites=13303851726201550707">Cited by ~20</a>
+ <a href="https://scholar.google.com/scholar?cites=13303851726201550707"><code>Google Scholar</code></a>
   </small> 
 </li>				
 <li>C. Jacobs, E. van Rikxoort, E. Scholten, P. de Jong, M. Prokop, C. Schaefer-Prokop and B. van Ginneken, "Solid, Part-Solid, or Non-solid?: Classification of Pulmonary Nodules in Low-Dose Chest Computed Tomography by a Computer-Aided Diagnosis System",
@@ -1215,7 +1215,7 @@ subtitle: The full list. With links to the pdf whenever the Taverne Amendment al
  <a href="/assets/pdf/jaco15.pdf"><code>PDF</code></a>
  <a href="https://doi.org/10.1097/RLI.0000000000000121"><code>DOI</code></a>
  <a href="http://www.ncbi.nlm.nih.gov/pubmed/25478740"><code>PubMed</code></a>
- <a href="https://scholar.google.com/scholar?cites=17914761474692895903">Cited by ~40</a>
+ <a href="https://scholar.google.com/scholar?cites=17914761474692895903"><code>Google Scholar</code></a>
   </small> 
 </li>				
 <li>J. Ramos, T. Kockelkorn, I. Ramos, R. Ramos, B. van Ginneken, M. Viergever, A. Campilho and J. Grutters, "Content Based Image Retrieval by Metric Learning from Radiology Reports: Application to Interstitial Lung Diseases",
@@ -1224,7 +1224,7 @@ subtitle: The full list. With links to the pdf whenever the Taverne Amendment al
  <a href="/assets/pdf/ramo15.pdf"><code>PDF</code></a>
  <a href="https://doi.org/10.1109/JBHI.2014.2375491"><code>DOI</code></a>
  <a href="http://www.ncbi.nlm.nih.gov/pubmed/25438332"><code>PubMed</code></a>
- <a href="https://scholar.google.com/scholar?cites=11929678439974614784">Cited by ~26</a>
+ <a href="https://scholar.google.com/scholar?cites=11929678439974614784"><code>Google Scholar</code></a>
   </small> 
 </li>				
 <li>E. Scholten, P. de Jong, B. de Hoop, R. van Klaveren, S. van de Amelsvoort-van Vorst, M. Oudkerk, R. Vliegenthart, H. de Koning, C. van der Aalst, R. Vernhout, H. Groen, J. Lammers, B. van Ginneken, C. Jacobs, W. Mali, N. Horeweg, C. Weenink, E. Thunnissen, M. Prokop and H. Gietema, "Towards a close computed tomography monitoring approach for screen detected subsolid pulmonary nodules?",
@@ -1233,7 +1233,7 @@ subtitle: The full list. With links to the pdf whenever the Taverne Amendment al
  <a href="/assets/pdf/scho14c.pdf"><code>PDF</code></a>
  <a href="https://doi.org/10.1183/09031936.00005914"><code>DOI</code></a>
  <a href="http://www.ncbi.nlm.nih.gov/pubmed/25431271"><code>PubMed</code></a>
- <a href="https://scholar.google.com/scholar?cites=16713008169098417611,9948573486239255340">Cited by ~55</a>
+ <a href="https://scholar.google.com/scholar?cites=16713008169098417611,9948573486239255340"><code>Google Scholar</code></a>
   </small> 
 </li>				
 <li>F. Ciompi, C. Jacobs, E. Scholten, M. Winkler Wille, P. de Jong, M. Prokop and B. van Ginneken, "Bag of frequencies: a descriptor of pulmonary nodules in Computed Tomography images",
@@ -1242,7 +1242,7 @@ subtitle: The full list. With links to the pdf whenever the Taverne Amendment al
  <a href="/assets/pdf/ciom14c.pdf"><code>PDF</code></a>
  <a href="https://doi.org/10.1109/TMI.2014.2371821"><code>DOI</code></a>
  <a href="http://www.ncbi.nlm.nih.gov/pubmed/25420257"><code>PubMed</code></a>
- <a href="https://scholar.google.com/scholar?cites=4309508126026672345">Cited by ~41</a>
+ <a href="https://scholar.google.com/scholar?cites=4309508126026672345"><code>Google Scholar</code></a>
   </small> 
 </li>				
 <li>E. Scholten, P. de Jong, C. Jacobs, B. van Ginneken, S. van Riel, M. Willemink, R. Vliegenthart, M. Oudkerk, H. de Koning, N. Horeweg, M. Prokop, W. Mali and H. Gietema, "Interscan variation of semi-automated volumetry of subsolid pulmonary nodules",
@@ -1251,7 +1251,7 @@ subtitle: The full list. With links to the pdf whenever the Taverne Amendment al
  <a href="/assets/pdf/scho14f.pdf"><code>PDF</code></a>
  <a href="https://doi.org/10.1007/s00330-014-3478-1"><code>DOI</code></a>
  <a href="http://www.ncbi.nlm.nih.gov/pubmed/25413965"><code>PubMed</code></a>
- <a href="https://scholar.google.com/scholar?cites=2011905741890872805">Cited by ~24</a>
+ <a href="https://scholar.google.com/scholar?cites=2011905741890872805"><code>Google Scholar</code></a>
   </small> 
 </li>				
 <li>E. Scholten, C. Jacobs, B. van Ginneken, S. van Riel, R. Vliegenthart, M. Oudkerk, H. de Koning, N. Horeweg, M. Prokop, H. Gietema, W. Mali and P. de Jong, "Detection and quantification of the solid component in pulmonary subsolid nodules by semiautomatic segmentation",
@@ -1277,7 +1277,7 @@ subtitle: The full list. With links to the pdf whenever the Taverne Amendment al
  <a href="/assets/pdf/mele14a.pdf"><code>PDF</code></a>
  <a href="https://doi.org/10.1109/TMI.2014.2350539"><code>DOI</code></a>
  <a href="http://www.ncbi.nlm.nih.gov/pubmed/25163057"><code>PubMed</code></a>
- <a href="https://scholar.google.com/scholar?cites=4430711056723080400">Cited by ~52</a>
+ <a href="https://scholar.google.com/scholar?cites=4430711056723080400"><code>Google Scholar</code></a>
   </small> 
 </li>				
 <li>S. Schalekamp, B. van Ginneken, I. van den Berk, I. Hartmann, M. Snoeren, A. Odink, W. van Lankeren, S. Pegge, L. Schijf, N. Karssemeijer and C. Schaefer-Prokop, "Bone suppression increases the visibility of invasive pulmonary aspergillosis in chest radiographs",
@@ -1295,7 +1295,7 @@ subtitle: The full list. With links to the pdf whenever the Taverne Amendment al
  <a href="/assets/pdf/breu14.pdf"><code>PDF</code></a>
  <a href="https://doi.org/10.1371/journal.pone.0106381"><code>DOI</code></a>
  <a href="http://www.ncbi.nlm.nih.gov/pubmed/25192172"><code>PubMed</code></a>
- <a href="https://scholar.google.com/scholar?cites=7079580458158799529">Cited by ~60</a>
+ <a href="https://scholar.google.com/scholar?cites=7079580458158799529"><code>Google Scholar</code></a>
   </small> 
 </li>				
 <li>R. Rudyanto, S. Kerkstra, E. van Rikxoort, C. Fetita, P. Brillet, C. Lefevre, W. Xue, X. Zhu, J. Liang, I. Öksüz, D. Ünay, K. Kadipasaoglu, R. Estépar, J. Ross, G. Washko, J. Prieto, M. Hoyos, M. Orkisz, H. Meine, M. Hüllebrand, C. Stöcker, F. Mir, V. Naranjo, E. Villanueva, M. Staring, C. Xiao, B. Stoel, A. Fabijanska, E. Smistad, A. Elster, F. Lindseth, A. Foruzan, R. Kiros, K. Popuri, D. Cobzas, D. Jimenez-Carretero, A. Santos, M. Ledesma-Carbayo, M. Helmberger, M. Urschler, M. Pienn, D. Bosboom, A. Campo, M. Prokop, P. de Jong, C. Ortiz-de-Solorzano, A. Muñoz-Barrutia and B. van Ginneken, "Comparing algorithms for automated vessel segmentation in computed tomography scans of the lung: The VESSEL12 study",
@@ -1304,7 +1304,7 @@ subtitle: The full list. With links to the pdf whenever the Taverne Amendment al
  <a href="/assets/pdf/rudy14.pdf"><code>PDF</code></a>
  <a href="https://doi.org/10.1016/j.media.2014.07.003"><code>DOI</code></a>
  <a href="http://www.ncbi.nlm.nih.gov/pubmed/25113321"><code>PubMed</code></a>
- <a href="https://scholar.google.com/scholar?cites=5886181063228782">Cited by ~104</a>
+ <a href="https://scholar.google.com/scholar?cites=5886181063228782"><code>Google Scholar</code></a>
   </small> 
 </li>				
 <li>F. Mohamed Hoesein, P. de Jong, J. Lammers, W. Mali, O. Mets, M. Schmidt, H. de Koning, C. van der Aalst, M. Oudkerk, R. Vliegenthart, B. van Ginneken, E. van Rikxoort and P. Zanen, "Contribution of CT Quantified Emphysema, Air Trapping and Airway Wall Thickness on Pulmonary Function in Male Smokers With and Without COPD",
@@ -1313,7 +1313,7 @@ subtitle: The full list. With links to the pdf whenever the Taverne Amendment al
  <a href="/assets/pdf/moha14.pdf"><code>PDF</code></a>
  <a href="https://doi.org/10.3109/15412555.2014.933952"><code>DOI</code></a>
  <a href="http://www.ncbi.nlm.nih.gov/pubmed/25093696"><code>PubMed</code></a>
- <a href="https://scholar.google.com/scholar?cites=12560823050881457785">Cited by ~43</a>
+ <a href="https://scholar.google.com/scholar?cites=12560823050881457785"><code>Google Scholar</code></a>
   </small> 
 </li>				
 <li>T. Kockelkorn, C. Schaefer-Prokop, G. Bozovic, A. Muñoz-Barrutia, E. van Rikxoort, M. Brown, P. de Jong, M. Viergever and B. van Ginneken, "Interactive lung segmentation in abnormal human and animal chest CT scans",
@@ -1322,7 +1322,7 @@ subtitle: The full list. With links to the pdf whenever the Taverne Amendment al
  <a href="/assets/pdf/kock14.pdf"><code>PDF</code></a>
  <a href="https://doi.org/10.1118/1.4890597"><code>DOI</code></a>
  <a href="http://www.ncbi.nlm.nih.gov/pubmed/25086546"><code>PubMed</code></a>
- <a href="https://scholar.google.com/scholar?cites=6125975055231559958">Cited by ~10</a>
+ <a href="https://scholar.google.com/scholar?cites=6125975055231559958"><code>Google Scholar</code></a>
   </small> 
 </li>				
 <li>J. Melendez, C. Sánchez, B. van Ginneken and N. Karssemeijer, "Improving mass candidate detection in mammograms via feature maxima propagation and local feature selection",
@@ -1358,7 +1358,7 @@ subtitle: The full list. With links to the pdf whenever the Taverne Amendment al
  <a href="/assets/pdf/muyo14.pdf"><code>PDF</code></a>
  <a href="https://doi.org/10.1371/journal.pone.0093757"><code>DOI</code></a>
  <a href="http://www.ncbi.nlm.nih.gov/pubmed/24705629"><code>PubMed</code></a>
- <a href="https://scholar.google.com/scholar?cites=4954392116893371357">Cited by ~63</a>
+ <a href="https://scholar.google.com/scholar?cites=4954392116893371357"><code>Google Scholar</code></a>
   </small> 
 </li>				
 <li>S. Schalekamp, B. van Ginneken, E. Koedam, M. Snoeren, A. Tiehuis, R. Wittenberg, N. Karssemeijer and C. Schaefer-Prokop, "Computer-aided detection improves detection of pulmonary nodules in chest radiographs beyond the support by bone-suppressed images",
@@ -1367,7 +1367,7 @@ subtitle: The full list. With links to the pdf whenever the Taverne Amendment al
  <a href="/assets/pdf/scha14e.pdf"><code>PDF</code></a>
  <a href="https://doi.org/10.1148/radiol.14131315"><code>DOI</code></a>
  <a href="http://www.ncbi.nlm.nih.gov/pubmed/24635675"><code>PubMed</code></a>
- <a href="https://scholar.google.com/scholar?cites=773280616186312110">Cited by ~35</a>
+ <a href="https://scholar.google.com/scholar?cites=773280616186312110"><code>Google Scholar</code></a>
   </small> 
 </li>				
 <li>S. Schalekamp, B. van Ginneken, E. Koedam, M. Snoeren, A. Tiehuis, R. Wittenberg, N. Karssemeijer and C. Schaefer-Prokop, "Computer aided detection improves detection of pulmonary nodules in chest radiographs beyond the support by bone suppressed images",
@@ -1393,7 +1393,7 @@ subtitle: The full list. With links to the pdf whenever the Taverne Amendment al
  <a href="/assets/pdf/muen14.pdf"><code>PDF</code></a>
  <a href="https://doi.org/10.1016/j.media.2013.12.006"><code>DOI</code></a>
  <a href="http://www.ncbi.nlm.nih.gov/pubmed/24556079"><code>PubMed</code></a>
- <a href="https://scholar.google.com/scholar?cites=17113415496324263537">Cited by ~28</a>
+ <a href="https://scholar.google.com/scholar?cites=17113415496324263537"><code>Google Scholar</code></a>
   </small> 
 </li>				
 <li>S. Schalekamp, B. van Ginneken, N. Karssemeijer and C. Schaefer-Prokop, "Chest radiography: new technological developments and their applications",
@@ -1402,7 +1402,7 @@ subtitle: The full list. With links to the pdf whenever the Taverne Amendment al
  <a href="/assets/pdf/scha14.pdf"><code>PDF</code></a>
  <a href="https://doi.org/10.1055/s-0033-1363447"><code>DOI</code></a>
  <a href="http://www.ncbi.nlm.nih.gov/pubmed/24481755"><code>PubMed</code></a>
- <a href="https://scholar.google.com/scholar?cites=16185250871510695519">Cited by ~16</a>
+ <a href="https://scholar.google.com/scholar?cites=16185250871510695519"><code>Google Scholar</code></a>
   </small> 
 </li>				
 <li>C. Jacobs, E. van Rikxoort, T. Twellmann, E. Scholten, P. de Jong, J. Kuhnigk, M. Oudkerk, H. de Koning, M. Prokop, C. Schaefer-Prokop and B. van Ginneken, "Automatic Detection of Subsolid Pulmonary Nodules in Thoracic Computed Tomography Images",
@@ -1411,7 +1411,7 @@ subtitle: The full list. With links to the pdf whenever the Taverne Amendment al
  <a href="/assets/pdf/jaco14.pdf"><code>PDF</code></a>
  <a href="https://doi.org/10.1016/j.media.2013.12.001"><code>DOI</code></a>
  <a href="http://www.ncbi.nlm.nih.gov/pubmed/24434166"><code>PubMed</code></a>
- <a href="https://scholar.google.com/scholar?cites=13872923651436646410">Cited by ~164</a>
+ <a href="https://scholar.google.com/scholar?cites=13872923651436646410"><code>Google Scholar</code></a>
   </small> 
 </li>				
 <li>G. Litjens, R. Toth, W. van de Ven, C. Hoeks, S. Kerkstra, B. van Ginneken, G. Vincent, G. Guillard, N. Birbeck, J. Zhang, R. Strand, F. Malmberg, Y. Ou, C. Davatzikos, M. Kirschner, F. Jung, J. Yuan, W. Qiu, Q. Gao, P. Edwards, B. Maan, F. van der Heijden, S. Ghose, J. Mitra, J. Dowling, D. Barratt, H. Huisman and A. Madabhushi, "Evaluation of prostate segmentation algorithms for MRI: The PROMISE12 challenge",
@@ -1420,7 +1420,7 @@ subtitle: The full list. With links to the pdf whenever the Taverne Amendment al
  <a href="/assets/pdf/litj14.pdf"><code>PDF</code></a>
  <a href="https://doi.org/10.1016/j.media.2013.12.002"><code>DOI</code></a>
  <a href="http://www.ncbi.nlm.nih.gov/pubmed/24418598"><code>PubMed</code></a>
- <a href="https://scholar.google.com/scholar?cites=12911375061118389379">Cited by ~275</a>
+ <a href="https://scholar.google.com/scholar?cites=12911375061118389379"><code>Google Scholar</code></a>
   </small> 
 </li>				
 <li>F. Mohamed Hoesein, M. Schmidt, O. Mets, H. Gietema, J. Lammers, P. Zanen, H. de Koning, C. van der Aalst, M. Oudkerk, R. Vliegenthart, I. Išgum, M. Prokop, B. van Ginneken, E. van Rikxoort and P. de Jong, "Discriminating dominant computed tomography phenotypes in smokers without or with mild COPD",
@@ -1429,7 +1429,7 @@ subtitle: The full list. With links to the pdf whenever the Taverne Amendment al
  <a href="/assets/pdf/moha13a.pdf"><code>PDF</code></a>
  <a href="https://doi.org/10.1016/j.rmed.2013.08.014"><code>DOI</code></a>
  <a href="http://www.ncbi.nlm.nih.gov/pubmed/24035313"><code>PubMed</code></a>
- <a href="https://scholar.google.com/scholar?cites=5267033159797573513">Cited by ~26</a>
+ <a href="https://scholar.google.com/scholar?cites=5267033159797573513"><code>Google Scholar</code></a>
   </small> 
 </li>				
 <li>S. Schalekamp, B. van Ginneken, C. Schaefer-Prokop and N. Karssemeijer, "Influence of study design in receiver operating characteristics studies: sequential versus independent reading",
@@ -1446,7 +1446,7 @@ subtitle: The full list. With links to the pdf whenever the Taverne Amendment al
  <a href="/assets/pdf/scho13b.pdf"><code>PDF</code></a>
  <a href="https://doi.org/10.1371/journal.pone.0080249"><code>DOI</code></a>
  <a href="http://www.ncbi.nlm.nih.gov/pubmed/24278264"><code>PubMed</code></a>
- <a href="https://scholar.google.com/scholar?cites=14511785431496206226">Cited by ~17</a>
+ <a href="https://scholar.google.com/scholar?cites=14511785431496206226"><code>Google Scholar</code></a>
   </small> 
 </li>				
 <li>P. Maduskar, M. Muyoyeta, H. Ayles, L. Hogeweg, L. Peters-Bax and B. van Ginneken, "Detection of tuberculosis with digital chest radiography: automatic reading versus interpretation by clinical officers",
@@ -1463,7 +1463,7 @@ subtitle: The full list. With links to the pdf whenever the Taverne Amendment al
  <a href="/assets/pdf/scha13a.pdf"><code>PDF</code></a>
  <a href="https://doi.org/10.1016/j.ejrad.2013.09.016"><code>DOI</code></a>
  <a href="http://www.ncbi.nlm.nih.gov/pubmed/24113431"><code>PubMed</code></a>
- <a href="https://scholar.google.com/scholar?cites=8460371450451194013">Cited by ~19</a>
+ <a href="https://scholar.google.com/scholar?cites=8460371450451194013"><code>Google Scholar</code></a>
   </small> 
 </li>				
 <li>E. van Rikxoort and B. van Ginneken, "Automated segmentation of pulmonary structures in thoracic computed tomography scans: a review",
@@ -1472,7 +1472,7 @@ subtitle: The full list. With links to the pdf whenever the Taverne Amendment al
  <a href="/assets/pdf/rikx13.pdf"><code>PDF</code></a>
  <a href="https://doi.org/10.1088/0031-9155/58/17/R187"><code>DOI</code></a>
  <a href="http://www.ncbi.nlm.nih.gov/pubmed/23956328"><code>PubMed</code></a>
- <a href="https://scholar.google.com/scholar?cites=7858654548922786505">Cited by ~101</a>
+ <a href="https://scholar.google.com/scholar?cites=7858654548922786505"><code>Google Scholar</code></a>
   </small> 
 </li>				
 <li>E. Scholten, C. Jacobs, B. van Ginneken, M. Willemink, J. Kuhnigk, P. van Ooijen, M. Oudkerk, W. Mali and P. de Jong, "Computer-Aided Segmentation and Volumetry of Artificial Ground-Glass Nodules at Chest CT",
@@ -1481,7 +1481,7 @@ subtitle: The full list. With links to the pdf whenever the Taverne Amendment al
  <a href="/assets/pdf/scho13a.pdf"><code>PDF</code></a>
  <a href="https://doi.org/10.2214/AJR.12.9640"><code>DOI</code></a>
  <a href="http://www.ncbi.nlm.nih.gov/pubmed/23883209"><code>PubMed</code></a>
- <a href="https://scholar.google.com/scholar?cites=5997033147149702974">Cited by ~29</a>
+ <a href="https://scholar.google.com/scholar?cites=5997033147149702974"><code>Google Scholar</code></a>
   </small> 
 </li>				
 <li>L. Hogeweg, C. Sánchez and B. van Ginneken, "Suppression of translucent elongated structures: applications in chest radiography",
@@ -1490,7 +1490,7 @@ subtitle: The full list. With links to the pdf whenever the Taverne Amendment al
  <a href="/assets/pdf/hoge13a.pdf"><code>PDF</code></a>
  <a href="https://doi.org/10.1109/TMI.2013.2274212"><code>DOI</code></a>
  <a href="http://www.ncbi.nlm.nih.gov/pubmed/23880041"><code>PubMed</code></a>
- <a href="https://scholar.google.com/scholar?cites=8722134071273679653">Cited by ~17</a>
+ <a href="https://scholar.google.com/scholar?cites=8722134071273679653"><code>Google Scholar</code></a>
   </small> 
 </li>				
 <li>L. Hogeweg, C. Sánchez, J. Melendez, P. Maduskar, A. Story, A. Hayward and B. van Ginneken, "Foreign object detection and removal to improve automated analysis of chest radiographs",
@@ -1516,7 +1516,7 @@ subtitle: The full list. With links to the pdf whenever the Taverne Amendment al
  <a href="/assets/pdf/smit13.pdf"><code>PDF</code></a>
  <a href="https://doi.org/10.1161/STROKEAHA.111.000675"><code>DOI</code></a>
  <a href="http://www.ncbi.nlm.nih.gov/pubmed/23760216"><code>PubMed</code></a>
- <a href="https://scholar.google.com/scholar?cites=15052282752148575019">Cited by ~95</a>
+ <a href="https://scholar.google.com/scholar?cites=15052282752148575019"><code>Google Scholar</code></a>
   </small> 
 </li>				
 <li>O. Mets, M. Schmidt, C. Buckens, M. Gondrie, I. Išgum, M. Oudkerk, R. Vliegenthart, H. de Koning, C. van der Aalst, M. Prokop, J. Lammers, P. Zanen, F. Mohamed Hoesein, W. Mali, B. van Ginneken, E. van Rikxoort and P. de Jong, "Diagnosis of chronic obstructive pulmonary disease in lung cancer screening Computed Tomography scans: independent contribution of emphysema, air trapping and bronchial wall thickening",
@@ -1525,7 +1525,7 @@ subtitle: The full list. With links to the pdf whenever the Taverne Amendment al
  <a href="/assets/pdf/mets13b.pdf"><code>PDF</code></a>
  <a href="https://doi.org/10.1186/1465-9921-14-59"><code>DOI</code></a>
  <a href="http://www.ncbi.nlm.nih.gov/pubmed/23711184"><code>PubMed</code></a>
- <a href="https://scholar.google.com/scholar?cites=14303730188902322930">Cited by ~51</a>
+ <a href="https://scholar.google.com/scholar?cites=14303730188902322930"><code>Google Scholar</code></a>
   </small> 
 </li>				
 <li>F. Mohamed Hoesein, P. Zanen, P. de Jong, B. van Ginneken, H. Boezen, H. Groen, M. Oudkerk, H. de Koning, D. Postma and J. Lammers, "Rate of progression of CT-quantified emphysema in male current and ex-smokers: a follow-up study",
@@ -1534,7 +1534,7 @@ subtitle: The full list. With links to the pdf whenever the Taverne Amendment al
  <a href="/assets/pdf/moha13.pdf"><code>PDF</code></a>
  <a href="https://doi.org/10.1186/1465-9921-14-55"><code>DOI</code></a>
  <a href="http://www.ncbi.nlm.nih.gov/pubmed/23688060"><code>PubMed</code></a>
- <a href="https://scholar.google.com/scholar?cites=283001529912021713">Cited by ~24</a>
+ <a href="https://scholar.google.com/scholar?cites=283001529912021713"><code>Google Scholar</code></a>
   </small> 
 </li>				
 <li>O. Mets, P. de Jong, B. van Ginneken, C. Kruitwagen, M. Prokop, M. Oudkerk, J. Lammers and P. Zanen, "CT Air Trapping Is Independently Associated with Lung Function Reduction over Time",
@@ -1543,7 +1543,7 @@ subtitle: The full list. With links to the pdf whenever the Taverne Amendment al
  <a href="/assets/pdf/mets13a.pdf"><code>PDF</code></a>
  <a href="https://doi.org/10.1371/journal.pone.0061783"><code>DOI</code></a>
  <a href="http://www.ncbi.nlm.nih.gov/pubmed/23613934"><code>PubMed</code></a>
- <a href="https://scholar.google.com/scholar?cites=8130074603070439298">Cited by ~13</a>
+ <a href="https://scholar.google.com/scholar?cites=8130074603070439298"><code>Google Scholar</code></a>
   </small> 
 </li>				
 <li>E. Scholten, W. Mali, M. Prokop, B. van Ginneken, R. Glandorf, R. van Klaveren, M. Oudkerk and P. de Jong, "Non-solid lung nodules on low-dose computed tomography: comparison of detection rate between 3 visualization techniques",
@@ -1561,7 +1561,7 @@ subtitle: The full list. With links to the pdf whenever the Taverne Amendment al
  <a href="/assets/pdf/grin13.pdf"><code>PDF</code></a>
  <a href="https://doi.org/10.1167/iovs.12-11449"><code>DOI</code></a>
  <a href="http://www.ncbi.nlm.nih.gov/pubmed/23572106"><code>PubMed</code></a>
- <a href="https://scholar.google.com/scholar?cites=4549341628942225242">Cited by ~30</a>
+ <a href="https://scholar.google.com/scholar?cites=4549341628942225242"><code>Google Scholar</code></a>
   </small> 
 </li>				
 <li>N. Fens, A. van Rossum, P. Zanen, B. van Ginneken, R. van Klaveren, A. Zwinderman and P. Sterk, "Subphenotypes of Mild-to-Moderate COPD by Factor and Cluster Analysis of Pulmonary Function, CT Imaging and Breathomics in a Population-Based Survey",
@@ -1570,7 +1570,7 @@ subtitle: The full list. With links to the pdf whenever the Taverne Amendment al
  <a href="/assets/pdf/fens13.pdf"><code>PDF</code></a>
  <a href="https://doi.org/10.3109/15412555.2012.744388"><code>DOI</code></a>
  <a href="http://www.ncbi.nlm.nih.gov/pubmed/23536961"><code>PubMed</code></a>
- <a href="https://scholar.google.com/scholar?cites=14645718639357321343">Cited by ~33</a>
+ <a href="https://scholar.google.com/scholar?cites=14645718639357321343"><code>Google Scholar</code></a>
   </small> 
 </li>				
 <li>A. Dijkstra, D. Postma, N. Ten Hacken, J. Vonk, M. Oudkerk, P. van Ooijen, P. Zanen, F. Mohamed Hoesein, B. van Ginneken, M. Schmidt and H. Groen, "Low-dose CT measurements of airway dimensions and emphysema associated with airflow limitation in heavy smokers: a cross sectional study",
@@ -1579,7 +1579,7 @@ subtitle: The full list. With links to the pdf whenever the Taverne Amendment al
  <a href="/assets/pdf/dijk13.pdf"><code>PDF</code></a>
  <a href="https://doi.org/10.1186/1465-9921-14-11"><code>DOI</code></a>
  <a href="http://www.ncbi.nlm.nih.gov/pubmed/23356533"><code>PubMed</code></a>
- <a href="https://scholar.google.com/scholar?cites=9922086244292779435">Cited by ~33</a>
+ <a href="https://scholar.google.com/scholar?cites=9922086244292779435"><code>Google Scholar</code></a>
   </small> 
 </li>				
 <li>B. Lassen, E. van Rikxoort, M. Schmidt, S. Kerkstra, B. van Ginneken and J. Kuhnigk, "Automatic segmentation of the pulmonary lobes from chest CT scans based on fissures, vessels, and bronchi",
@@ -1588,7 +1588,7 @@ subtitle: The full list. With links to the pdf whenever the Taverne Amendment al
  <a href="/assets/pdf/lass12b.pdf"><code>PDF</code></a>
  <a href="https://doi.org/10.1109/TMI.2012.2219881"><code>DOI</code></a>
  <a href="http://www.ncbi.nlm.nih.gov/pubmed/23014712"><code>PubMed</code></a>
- <a href="https://scholar.google.com/scholar?cites=1728731555240293040">Cited by ~105</a>
+ <a href="https://scholar.google.com/scholar?cites=1728731555240293040"><code>Google Scholar</code></a>
   </small> 
 </li>				
 <li>O. Mets, P. Zanen, J. Lammers, I. Išgum, H. Gietema, B. van Ginneken, M. Prokop and P. de Jong, "Early Identification of Small Airways Disease on Lung Cancer Screening CT: Comparison of Current Air Trapping Measures",
@@ -1597,7 +1597,7 @@ subtitle: The full list. With links to the pdf whenever the Taverne Amendment al
  <a href="/assets/pdf/mets12h.pdf"><code>PDF</code></a>
  <a href="https://doi.org/10.1007/s00408-012-9422-8"><code>DOI</code></a>
  <a href="http://www.ncbi.nlm.nih.gov/pubmed/23064488"><code>PubMed</code></a>
- <a href="https://scholar.google.com/scholar?cites=8262566518944908606">Cited by ~52</a>
+ <a href="https://scholar.google.com/scholar?cites=8262566518944908606"><code>Google Scholar</code></a>
   </small> 
 </li>				
 <li>L. Hogeweg, C. Sánchez, P. de Jong, P. Maduskar and B. van Ginneken, "Clavicle segmentation in chest radiographs",
@@ -1606,7 +1606,7 @@ subtitle: The full list. With links to the pdf whenever the Taverne Amendment al
  <a href="/assets/pdf/hoge12.pdf"><code>PDF</code></a>
  <a href="https://doi.org/10.1016/j.media.2012.06.009"><code>DOI</code></a>
  <a href="http://www.ncbi.nlm.nih.gov/pubmed/22998970"><code>PubMed</code></a>
- <a href="https://scholar.google.com/scholar?cites=15700805333399506982">Cited by ~45</a>
+ <a href="https://scholar.google.com/scholar?cites=15700805333399506982"><code>Google Scholar</code></a>
   </small> 
 </li>				
 <li>S. Muenzing, B. van Ginneken, K. Murphy and J. Pluim, "Supervised Quality Assessment Of Medical Image Registration: Application to intra-patient CT lung registration",
@@ -1615,7 +1615,7 @@ subtitle: The full list. With links to the pdf whenever the Taverne Amendment al
  <a href="/assets/pdf/muen12a.pdf"><code>PDF</code></a>
  <a href="https://doi.org/10.1016/j.media.2012.06.010"><code>DOI</code></a>
  <a href="http://www.ncbi.nlm.nih.gov/pubmed/22981428"><code>PubMed</code></a>
- <a href="https://scholar.google.com/scholar?cites=18008631097448211397">Cited by ~43</a>
+ <a href="https://scholar.google.com/scholar?cites=18008631097448211397"><code>Google Scholar</code></a>
   </small> 
 </li>				
 <li>I. Išgum, M. Prokop, M. Niemeijer, M. Viergever and B. van Ginneken, "Automatic coronary calcium scoring in low-dose chest computed tomography",
@@ -1624,7 +1624,7 @@ subtitle: The full list. With links to the pdf whenever the Taverne Amendment al
  <a href="/assets/pdf/isgu12.pdf"><code>PDF</code></a>
  <a href="https://doi.org/10.1109/TMI.2012.2216889"><code>DOI</code></a>
  <a href="http://www.ncbi.nlm.nih.gov/pubmed/22961297"><code>PubMed</code></a>
- <a href="https://scholar.google.com/scholar?cites=12501517643677936280">Cited by ~83</a>
+ <a href="https://scholar.google.com/scholar?cites=12501517643677936280"><code>Google Scholar</code></a>
   </small> 
 </li>				
 <li>B. de Hoop, B. van Ginneken, H. Gietema and M. Prokop, "Pulmonary Perifissural Nodules on CT Scans: Rapid Growth Is Not a Predictor of Malignancy",
@@ -1633,7 +1633,7 @@ subtitle: The full list. With links to the pdf whenever the Taverne Amendment al
  <a href="/assets/pdf/hoop12.pdf"><code>PDF</code></a>
  <a href="https://doi.org/10.1148/radiol.12112351"><code>DOI</code></a>
  <a href="http://www.ncbi.nlm.nih.gov/pubmed/22929331"><code>PubMed</code></a>
- <a href="https://scholar.google.com/scholar?cites=18085872374519145921">Cited by ~117</a>
+ <a href="https://scholar.google.com/scholar?cites=18085872374519145921"><code>Google Scholar</code></a>
   </small> 
 </li>				
 <li>P. Lo, B. van Ginneken, J. Reinhardt, Y. Tarunashree, P. de Jong, B. Irving, C. Fetita, M. Ortner, R. Pinho, J. Sijbers, M. Feuerstein, A. Fabijanska, C. Bauer, R. Beichel, C. Mendoza, R. Wiemker, J. Lee, A. Reeves, S. Born, O. Weinheimer, E. van Rikxoort, J. Tschirren, K. Mori, B. Odry, D. Naidich, I. Hartmann, E. Hoffman, M. Prokop, J. Pedersen and M. de Bruijne, "Extraction of Airways from CT (EXACT'09)",
@@ -1642,7 +1642,7 @@ subtitle: The full list. With links to the pdf whenever the Taverne Amendment al
  <a href="/assets/pdf/lo12.pdf"><code>PDF</code></a>
  <a href="https://doi.org/10.1109/TMI.2012.2209674"><code>DOI</code></a>
  <a href="http://www.ncbi.nlm.nih.gov/pubmed/22855226"><code>PubMed</code></a>
- <a href="https://scholar.google.com/scholar?cites=7968104102758490533">Cited by ~187</a>
+ <a href="https://scholar.google.com/scholar?cites=7968104102758490533"><code>Google Scholar</code></a>
   </small> 
 </li>				
 <li>O. Mets, R. van Hulst, C. Jacobs, B. van Ginneken and P. de Jong, "Normal Range of Emphysema and Air Trapping on CT in Young Men",
@@ -1651,7 +1651,7 @@ subtitle: The full list. With links to the pdf whenever the Taverne Amendment al
  <a href="/assets/pdf/mets12e.pdf"><code>PDF</code></a>
  <a href="https://doi.org/10.2214/AJR.11.7808"><code>DOI</code></a>
  <a href="http://www.ncbi.nlm.nih.gov/pubmed/22826394"><code>PubMed</code></a>
- <a href="https://scholar.google.com/scholar?cites=9417645695025612100">Cited by ~35</a>
+ <a href="https://scholar.google.com/scholar?cites=9417645695025612100"><code>Google Scholar</code></a>
   </small> 
 </li>				
 <li>F. Mohamed Hoesein, P. Zanen, H. Boezen, H. Groen, B. van Ginneken, P. de Jong, D. Postma and J. Lammers, "Lung function decline in heavy male smokers relates to baseline airflow obstruction severity",
@@ -1668,7 +1668,7 @@ subtitle: The full list. With links to the pdf whenever the Taverne Amendment al
  <a href="/assets/pdf/mend12.pdf"><code>PDF</code></a>
  <a href="https://doi.org/10.3174/ajnr.A3118"><code>DOI</code></a>
  <a href="http://www.ncbi.nlm.nih.gov/pubmed/22627803"><code>PubMed</code></a>
- <a href="https://scholar.google.com/scholar?cites=12508173963296523395">Cited by ~11</a>
+ <a href="https://scholar.google.com/scholar?cites=12508173963296523395"><code>Google Scholar</code></a>
   </small> 
 </li>				
 <li>K. Murphy, J. Pluim, E. van Rikxoort, P. de Jong, B. de Hoop, H. Gietema, O. Mets, M. de Bruijne, P. Lo, M. Prokop and B. van Ginneken, "Toward automatic regional analysis of pulmonary function using inspiration and expiration thoracic CT",
@@ -1677,7 +1677,7 @@ subtitle: The full list. With links to the pdf whenever the Taverne Amendment al
  <a href="/assets/pdf/murp12.pdf"><code>PDF</code></a>
  <a href="https://doi.org/10.1118/1.3687891"><code>DOI</code></a>
  <a href="http://www.ncbi.nlm.nih.gov/pubmed/22380397"><code>PubMed</code></a>
- <a href="https://scholar.google.com/scholar?cites=4159560996296390373">Cited by ~49</a>
+ <a href="https://scholar.google.com/scholar?cites=4159560996296390373"><code>Google Scholar</code></a>
   </small> 
 </li>				
 <li>P. Jacobs, M. Gondrie, Y. van der Graaf, H. de Koning, I. Išgum, B. van Ginneken and W. Mali, "Coronary Artery Calcium Can Predict All-Cause Mortality and Cardiovascular Events on Low-Dose CT Screening for Lung Cancer",
@@ -1686,7 +1686,7 @@ subtitle: The full list. With links to the pdf whenever the Taverne Amendment al
  <a href="/assets/pdf/jaco12a.pdf"><code>PDF</code></a>
  <a href="https://doi.org/10.2214/AJR.10.5577"><code>DOI</code></a>
  <a href="http://www.ncbi.nlm.nih.gov/pubmed/22357989"><code>PubMed</code></a>
- <a href="https://scholar.google.com/scholar?cites=10217888044027227279">Cited by ~101</a>
+ <a href="https://scholar.google.com/scholar?cites=10217888044027227279"><code>Google Scholar</code></a>
   </small> 
 </li>				
 <li>E. Smit, E. Vonken, I. van der Schaaf, A. Mendrik, J. Dankbaar, A. Horsch, T. van Seeters, B. van Ginneken and M. Prokop, "Timing-Invariant Reconstruction for Deriving High-quality CT Angiographic Data from Cerebral CT Perfusion Data",
@@ -1695,7 +1695,7 @@ subtitle: The full list. With links to the pdf whenever the Taverne Amendment al
  <a href="/assets/pdf/smit12.pdf"><code>PDF</code></a>
  <a href="https://doi.org/10.1148/radiol.11111068"><code>DOI</code></a>
  <a href="http://www.ncbi.nlm.nih.gov/pubmed/22332063"><code>PubMed</code></a>
- <a href="https://scholar.google.com/scholar?cites=11443188990303908052">Cited by ~61</a>
+ <a href="https://scholar.google.com/scholar?cites=11443188990303908052"><code>Google Scholar</code></a>
   </small> 
 </li>				
 <li>F. Mohamed Hoesein, E. van Rikxoort, B. van Ginneken, P. de Jong, M. Prokop, J. Lammers and P. Zanen, "CT-quantified emphysema distribution is associated with lung function decline",
@@ -1704,7 +1704,7 @@ subtitle: The full list. With links to the pdf whenever the Taverne Amendment al
  <a href="/assets/pdf/hoes12.pdf"><code>PDF</code></a>
  <a href="https://doi.org/10.1183/09031936.00186311"><code>DOI</code></a>
  <a href="http://www.ncbi.nlm.nih.gov/pubmed/22323577"><code>PubMed</code></a>
- <a href="https://scholar.google.com/scholar?cites=1084747010435036452">Cited by ~49</a>
+ <a href="https://scholar.google.com/scholar?cites=1084747010435036452"><code>Google Scholar</code></a>
   </small> 
 </li>				
 <li>O. Mets, P. de Jong, B. van Ginneken, H. Gietema and J. Lammers, "Quantitative Computed Tomography in COPD: Possibilities and Limitations",
@@ -1713,7 +1713,7 @@ subtitle: The full list. With links to the pdf whenever the Taverne Amendment al
  <a href="/assets/pdf/mets12a.pdf"><code>PDF</code></a>
  <a href="https://doi.org/10.1007/s00408-011-9353-9"><code>DOI</code></a>
  <a href="http://www.ncbi.nlm.nih.gov/pubmed/22179694"><code>PubMed</code></a>
- <a href="https://scholar.google.com/scholar?cites=12983185550555310641">Cited by ~114</a>
+ <a href="https://scholar.google.com/scholar?cites=12983185550555310641"><code>Google Scholar</code></a>
   </small> 
 </li>				
 <li>E. van Rikxoort, J. Goldin, F. Abtin, H. Kim, P. Lu, B. van Ginneken, G. Shaw, M. Galperin-Aizenberg and M. Brown, "A method for the automatic quantification of the completeness of pulmonary fissures: evaluation in a database of subjects with severe emphysema",
@@ -1722,7 +1722,7 @@ subtitle: The full list. With links to the pdf whenever the Taverne Amendment al
  <a href="/assets/pdf/rikx12a.pdf"><code>PDF</code></a>
  <a href="https://doi.org/10.1007/s00330-011-2278-0"><code>DOI</code></a>
  <a href="http://www.ncbi.nlm.nih.gov/pubmed/21984417"><code>PubMed</code></a>
- <a href="https://scholar.google.com/scholar?cites=9186093955945686788">Cited by ~58</a>
+ <a href="https://scholar.google.com/scholar?cites=9186093955945686788"><code>Google Scholar</code></a>
   </small> 
 </li>				
 <li>O. Mets, K. Murphy, P. Zanen, H. Gietema, J. Lammers, B. van Ginneken, M. Prokop and P. de Jong, "The relationship between lung function impairment and quantitative computed tomography in chronic obstructive pulmonary disease",
@@ -1731,7 +1731,7 @@ subtitle: The full list. With links to the pdf whenever the Taverne Amendment al
  <a href="/assets/pdf/mets12.pdf"><code>PDF</code></a>
  <a href="https://doi.org/10.1007/s00330-011-2237-9"><code>DOI</code></a>
  <a href="http://www.ncbi.nlm.nih.gov/pubmed/21837396"><code>PubMed</code></a>
- <a href="https://scholar.google.com/scholar?cites=3220250186597997230">Cited by ~70</a>
+ <a href="https://scholar.google.com/scholar?cites=3220250186597997230"><code>Google Scholar</code></a>
   </small> 
 </li>				
 <li>C. Sánchez, M. Niemeijer, I. Išgum, A. Dumitrescu, M. Suttorp-Schulten, M. Abràmoff and B. van Ginneken, "Contextual computer-aided detection: Improving bright lesion detection in retinal images and coronary calcification identification in CT scans",
@@ -1740,7 +1740,7 @@ subtitle: The full list. With links to the pdf whenever the Taverne Amendment al
  <a href="/assets/pdf/sanc12.pdf"><code>PDF</code></a>
  <a href="https://doi.org/10.1016/j.media.2011.05.004"><code>DOI</code></a>
  <a href="http://www.ncbi.nlm.nih.gov/pubmed/21689964"><code>PubMed</code></a>
- <a href="https://scholar.google.com/scholar?cites=13166674494125805160">Cited by ~43</a>
+ <a href="https://scholar.google.com/scholar?cites=13166674494125805160"><code>Google Scholar</code></a>
   </small> 
 </li>				
 <li>B. van Ginneken, C. Schaefer-Prokop and M. Prokop, "Computer-aided Diagnosis: how to Move from the Laboratory to the Clinic",
@@ -1749,7 +1749,7 @@ subtitle: The full list. With links to the pdf whenever the Taverne Amendment al
  <a href="/assets/pdf/ginn11.pdf"><code>PDF</code></a>
  <a href="https://doi.org/10.1148/radiol.11091710"><code>DOI</code></a>
  <a href="http://www.ncbi.nlm.nih.gov/pubmed/22095995"><code>PubMed</code></a>
- <a href="https://scholar.google.com/scholar?cites=11154494557308057950,14993629594919203131">Cited by ~197</a>
+ <a href="https://scholar.google.com/scholar?cites=11154494557308057950,14993629594919203131"><code>Google Scholar</code></a>
   </small> 
 </li>				
 <li>O. Mets, C. Buckens, P. Zanen, I. Išgum, B. van Ginneken, M. Prokop, H. Gietema, J. Lammers, R. Vliegenthart, M. Oudkerk, R. van Klaveren, H. de Koning, W. Mali and P. de Jong, "Identification of Chronic Obstructive Pulmonary Disease in Lung Cancer Screening Computed Tomographic Scans",
@@ -1758,7 +1758,7 @@ subtitle: The full list. With links to the pdf whenever the Taverne Amendment al
  <a href="/assets/pdf/mets11a.pdf"><code>PDF</code></a>
  <a href="https://doi.org/10.1001/jama.2011.1531"><code>DOI</code></a>
  <a href="http://www.ncbi.nlm.nih.gov/pubmed/22028353"><code>PubMed</code></a>
- <a href="https://scholar.google.com/scholar?cites=9535176740666077921">Cited by ~122</a>
+ <a href="https://scholar.google.com/scholar?cites=9535176740666077921"><code>Google Scholar</code></a>
   </small> 
 </li>				
 <li>M. Niemeijer, X. Xu, A. Dumitrescu, P. Gupta, B. van Ginneken, J. Folk and M. Abràmoff, "Automated measurement of the arteriolar-to-venular width ratio in digital color fundus photographs",
@@ -1767,7 +1767,7 @@ subtitle: The full list. With links to the pdf whenever the Taverne Amendment al
  <a href="/assets/pdf/niem11b.pdf"><code>PDF</code></a>
  <a href="https://doi.org/10.1109/TMI.2011.2159619"><code>DOI</code></a>
  <a href="http://www.ncbi.nlm.nih.gov/pubmed/21690008"><code>PubMed</code></a>
- <a href="https://scholar.google.com/scholar?cites=14355423160597618268">Cited by ~149</a>
+ <a href="https://scholar.google.com/scholar?cites=14355423160597618268"><code>Google Scholar</code></a>
   </small> 
 </li>				
 <li>A. Mendrik, E. Vonken, B. van Ginneken, H. de Jong, A. Riordan, T. van Seeters, E. Smit, M. Viergever and M. Prokop, "TIPS bilateral noise reduction in 4D CT perfusion scans produces high-quality cerebral blood flow maps",
@@ -1776,7 +1776,7 @@ subtitle: The full list. With links to the pdf whenever the Taverne Amendment al
  <a href="/assets/pdf/mend11.pdf"><code>PDF</code></a>
  <a href="https://doi.org/10.1088/0031-9155/56/13/008"><code>DOI</code></a>
  <a href="http://www.ncbi.nlm.nih.gov/pubmed/21654042"><code>PubMed</code></a>
- <a href="https://scholar.google.com/scholar?cites=12609398248666249823">Cited by ~84</a>
+ <a href="https://scholar.google.com/scholar?cites=12609398248666249823"><code>Google Scholar</code></a>
   </small> 
 </li>				
 <li>K. Murphy, B. van Ginneken, J. Reinhardt, S. Kabus, K. Ding, X. Deng, K. Cao, K. Du, G. Christensen, V. Garcia, T. Vercauteren, N. Ayache, O. Commowick, G. Malandain, B. Glocker, N. Paragios, N. Navab, V. Gorbunova, J. Sporring, M. de Bruijne, X. Han, M. Heinrich, J. Schnabel, M. Jenkinson, C. Lorenz, M. Modat, J. McClelland, S. Ourselin, S. Muenzing, M. Viergever, D. Nigris, D. Collins, T. Arbel, M. Peroni, R. Li, G. Sharp, A. Schmidt-Richberg, J. Ehrhardt, R. Werner, D. Smeets, D. Loeckx, G. Song, N. Tustison, B. Avants, J. Gee, M. Staring, S. Klein, B. Stoel, M. Urschler, M. Werlberger, J. Vandemeulebroucke, S. Rit, D. Sarrut and J. Pluim, "Evaluation of Registration Methods on Thoracic CT: The EMPIRE10 Challenge",
@@ -1785,7 +1785,7 @@ subtitle: The full list. With links to the pdf whenever the Taverne Amendment al
  <a href="/assets/pdf/murp11a.pdf"><code>PDF</code></a>
  <a href="https://doi.org/10.1109/TMI.2011.2158349"><code>DOI</code></a>
  <a href="http://www.ncbi.nlm.nih.gov/pubmed/21632295"><code>PubMed</code></a>
- <a href="https://scholar.google.com/scholar?cites=11653185328679959383">Cited by ~391</a>
+ <a href="https://scholar.google.com/scholar?cites=11653185328679959383"><code>Google Scholar</code></a>
   </small> 
 </li>				
 <li>F. Mohamed Hoesein, P. Zanen, B. van Ginneken, R. van Klaveren and J. Lammers, "Association of the transfer coefficient of the lung for carbon monoxide with emphysema progression in male smokers",
@@ -1794,7 +1794,7 @@ subtitle: The full list. With links to the pdf whenever the Taverne Amendment al
  <a href="/assets/pdf/hoes11.pdf"><code>PDF</code></a>
  <a href="https://doi.org/10.1183/09031936.00050711"><code>DOI</code></a>
  <a href="http://www.ncbi.nlm.nih.gov/pubmed/21565924"><code>PubMed</code></a>
- <a href="https://scholar.google.com/scholar?cites=10827837198402292096">Cited by ~26</a>
+ <a href="https://scholar.google.com/scholar?cites=10827837198402292096"><code>Google Scholar</code></a>
   </small> 
 </li>				
 <li>C. Sánchez, M. Niemeijer, A. Dumitrescu, M. Suttorp-Schulten, M. Abràmoff and B. van Ginneken, "Evaluation of a Computer-Aided Diagnosis system for Diabetic Retinopathy screening on public data",
@@ -1803,7 +1803,7 @@ subtitle: The full list. With links to the pdf whenever the Taverne Amendment al
  <a href="/assets/pdf/sanc11.pdf"><code>PDF</code></a>
  <a href="https://doi.org/10.1167/iovs.10-6633"><code>DOI</code></a>
  <a href="http://www.ncbi.nlm.nih.gov/pubmed/21527381"><code>PubMed</code></a>
- <a href="https://scholar.google.com/scholar?cites=2962166101861378440">Cited by ~78</a>
+ <a href="https://scholar.google.com/scholar?cites=2962166101861378440"><code>Google Scholar</code></a>
   </small> 
 </li>				
 <li>F. Mohamed Hoesein, B. de Hoop, P. Zanen, H. Gietema, C. Kruitwagen, B. van Ginneken, I. Išgum, C. Mol, R. van Klaveren, A. Dijkstra, H. Groen, H. Boezen, D. Postma, M. Prokop and J. Lammers, "CT-quantified emphysema in male heavy smokers: association with lung function decline",
@@ -1812,7 +1812,7 @@ subtitle: The full list. With links to the pdf whenever the Taverne Amendment al
  <a href="/assets/pdf/moha11.pdf"><code>PDF</code></a>
  <a href="https://doi.org/10.1136/thx.2010.145995"><code>DOI</code></a>
  <a href="http://www.ncbi.nlm.nih.gov/pubmed/21474499"><code>PubMed</code></a>
- <a href="https://scholar.google.com/scholar?cites=2503222556262111335,16225817165193692000">Cited by ~125</a>
+ <a href="https://scholar.google.com/scholar?cites=2503222556262111335,16225817165193692000"><code>Google Scholar</code></a>
   </small> 
 </li>				
 <li>P. de Jong, J. Achterberg, O. Kessels, B. van Ginneken, L. Hogeweg, F. Beek and S. Terheggen-Lagro, "Modified Chrispin-Norman chest radiography score for cystic fibrosis: observer agreement and correlation with lung function",
@@ -1821,7 +1821,7 @@ subtitle: The full list. With links to the pdf whenever the Taverne Amendment al
  <a href="/assets/pdf/jong10.pdf"><code>PDF</code></a>
  <a href="https://doi.org/10.1007/s00330-010-1972-7"><code>DOI</code></a>
  <a href="http://www.ncbi.nlm.nih.gov/pubmed/20924586"><code>PubMed</code></a>
- <a href="https://scholar.google.com/scholar?cites=14856487864024079881">Cited by ~12</a>
+ <a href="https://scholar.google.com/scholar?cites=14856487864024079881"><code>Google Scholar</code></a>
   </small> 
 </li>				
 <li>M. Niemeijer, M. Loog, M. Abràmoff, M. Viergever, M. Prokop and B. van Ginneken, "On Combining Computer-Aided Detection Systems",
@@ -1830,7 +1830,7 @@ subtitle: The full list. With links to the pdf whenever the Taverne Amendment al
  <a href="/assets/pdf/niem11a.pdf"><code>PDF</code></a>
  <a href="https://doi.org/10.1109/TMI.2010.2072789"><code>DOI</code></a>
  <a href="http://www.ncbi.nlm.nih.gov/pubmed/20813633"><code>PubMed</code></a>
- <a href="https://scholar.google.com/scholar?cites=17448530076208906101">Cited by ~98</a>
+ <a href="https://scholar.google.com/scholar?cites=17448530076208906101"><code>Google Scholar</code></a>
   </small> 
 </li>				
 <li>K. Murphy, B. van Ginneken, S. Klein, M. Staring, B. de Hoop, M. Viergever and J. Pluim, "Semi-automatic construction of reference standards for evaluation of image registration",
@@ -1839,7 +1839,7 @@ subtitle: The full list. With links to the pdf whenever the Taverne Amendment al
  <a href="/assets/pdf/murp10.pdf"><code>PDF</code></a>
  <a href="https://doi.org/10.1016/j.media.2010.07.005"><code>DOI</code></a>
  <a href="http://www.ncbi.nlm.nih.gov/pubmed/20709592"><code>PubMed</code></a>
- <a href="https://scholar.google.com/scholar?cites=15970567742966563807">Cited by ~135</a>
+ <a href="https://scholar.google.com/scholar?cites=15970567742966563807"><code>Google Scholar</code></a>
   </small> 
 </li>				
 <li>B. de Hoop, D. de Boo, H. Gietema, F. van Hoorn, B. Mearadji, L. Schijf, B. van Ginneken, M. Prokop and C. Schaefer-Prokop, "Computer-aided Detection of Lung Cancer on Chest Radiographs: Effect on Observer Performance",
@@ -1848,7 +1848,7 @@ subtitle: The full list. With links to the pdf whenever the Taverne Amendment al
  <a href="/assets/pdf/hoop10c.pdf"><code>PDF</code></a>
  <a href="https://doi.org/10.1148/radiol.10092437"><code>DOI</code></a>
  <a href="http://www.ncbi.nlm.nih.gov/pubmed/20807851"><code>PubMed</code></a>
- <a href="https://scholar.google.com/scholar?cites=12954940021726127037">Cited by ~57</a>
+ <a href="https://scholar.google.com/scholar?cites=12954940021726127037"><code>Google Scholar</code></a>
   </small> 
 </li>				
 <li>A. Mendrik, E. Vonken, B. van Ginneken, E. Smit, A. Waaijer, G. Bertolini, M. Viergever and M. Prokop, "Automatic segmentation of intracranial arteries and veins in four-dimensional cerebral CT perfusion scans",
@@ -1857,7 +1857,7 @@ subtitle: The full list. With links to the pdf whenever the Taverne Amendment al
  <a href="/assets/pdf/mend10a.pdf"><code>PDF</code></a>
  <a href="https://doi.org/10.1118/1.3397813"><code>DOI</code></a>
  <a href="http://www.ncbi.nlm.nih.gov/pubmed/20632608"><code>PubMed</code></a>
- <a href="https://scholar.google.com/scholar?cites=17637183029799425094">Cited by ~32</a>
+ <a href="https://scholar.google.com/scholar?cites=17637183029799425094"><code>Google Scholar</code></a>
   </small> 
 </li>				
 <li>B. van Ginneken, S. Armato, B. de Hoop, S. van de Vorst, T. Duindam, M. Niemeijer, K. Murphy, A. Schilham, A. Retico, M. Fantacci, N. Camarlinghi, F. Bagagli, I. Gori, T. Hara, H. Fujita, G. Gargano, R. Belloti, F. Carlo, R. Megna, S. Tangaro, L. Bolanos, P. Cerello, S. Cheran, E. Torres and M. Prokop, "Comparing and combining algorithms for computer-aided detection of pulmonary nodules in computed tomography scans: the ANODE09 study",
@@ -1866,7 +1866,7 @@ subtitle: The full list. With links to the pdf whenever the Taverne Amendment al
  <a href="/assets/pdf/ginn10a.pdf"><code>PDF</code></a>
  <a href="https://doi.org/10.1016/j.media.2010.05.005"><code>DOI</code></a>
  <a href="http://www.ncbi.nlm.nih.gov/pubmed/20573538"><code>PubMed</code></a>
- <a href="https://scholar.google.com/scholar?cites=16898155382402394650">Cited by ~229</a>
+ <a href="https://scholar.google.com/scholar?cites=16898155382402394650"><code>Google Scholar</code></a>
   </small> 
 </li>				
 <li>B. de Hoop, C. Schaefer-Prokop, H. Gietema, P. de Jong, B. van Ginneken, R. van Klaveren and M. Prokop, "Screening for lung cancer with digital chest radiography: sensitivity and number of secondary work-up CT examinations",
@@ -1875,7 +1875,7 @@ subtitle: The full list. With links to the pdf whenever the Taverne Amendment al
  <a href="/assets/pdf/hoop10a.pdf"><code>PDF</code></a>
  <a href="https://doi.org/10.1148/radiol.09091308"><code>DOI</code></a>
  <a href="http://www.ncbi.nlm.nih.gov/pubmed/20413773"><code>PubMed</code></a>
- <a href="https://scholar.google.com/scholar?cites=14738301691817204938">Cited by ~39</a>
+ <a href="https://scholar.google.com/scholar?cites=14738301691817204938"><code>Google Scholar</code></a>
   </small> 
 </li>				
 <li>P. Jacobs, I. Išgum, M. Gondrie, W. Mali, B. van Ginneken, M. Prokop and Y. der Graaf, "Coronary artery calcification scoring in low-dose ungated CT screening for lung cancer: interscan agreement",
@@ -1884,7 +1884,7 @@ subtitle: The full list. With links to the pdf whenever the Taverne Amendment al
  <a href="/assets/pdf/jaco10a.pdf"><code>PDF</code></a>
  <a href="https://doi.org/10.2214/AJR.09.3047"><code>DOI</code></a>
  <a href="http://www.ncbi.nlm.nih.gov/pubmed/20410410"><code>PubMed</code></a>
- <a href="https://scholar.google.com/scholar?cites=7723446783558799227">Cited by ~41</a>
+ <a href="https://scholar.google.com/scholar?cites=7723446783558799227"><code>Google Scholar</code></a>
   </small> 
 </li>				
 <li>E. van Rikxoort, M. Prokop, B. de Hoop, M. Viergever, J. Pluim and B. van Ginneken, "Automatic Segmentation of Pulmonary Lobes Robust Against Incomplete Fissures",
@@ -1893,7 +1893,7 @@ subtitle: The full list. With links to the pdf whenever the Taverne Amendment al
  <a href="/assets/pdf/rikx10.pdf"><code>PDF</code></a>
  <a href="https://doi.org/10.1109/TMI.2010.2044799"><code>DOI</code></a>
  <a href="http://www.ncbi.nlm.nih.gov/pubmed/20304724"><code>PubMed</code></a>
- <a href="https://scholar.google.com/scholar?cites=14940016956782221874">Cited by ~94</a>
+ <a href="https://scholar.google.com/scholar?cites=14940016956782221874"><code>Google Scholar</code></a>
   </small> 
 </li>				
 <li>I. Išgum, A. Rutten, M. Prokop, M.Staring, S. Klein, J. Pluim, M. Viergever and B. van Ginneken, "Automated aortic calcium scoring on low-dose chest computed tomography",
@@ -1902,7 +1902,7 @@ subtitle: The full list. With links to the pdf whenever the Taverne Amendment al
  <a href="/assets/pdf/isgu10.pdf"><code>PDF</code></a>
  <a href="https://doi.org/10.1118/1.3284211"><code>DOI</code></a>
  <a href="http://www.ncbi.nlm.nih.gov/pubmed/20229881"><code>PubMed</code></a>
- <a href="https://scholar.google.com/scholar?cites=13271497965691699016">Cited by ~33</a>
+ <a href="https://scholar.google.com/scholar?cites=13271497965691699016"><code>Google Scholar</code></a>
   </small> 
 </li>				
 <li>Y. Arzhaeva, M. Prokop, K. Murphy, E. van Rikxoort, P. de Jong, H. Gietema, M. Viergever and B. van Ginneken, "Automated estimation of progression of interstitial lung disease in CT images",
@@ -1911,7 +1911,7 @@ subtitle: The full list. With links to the pdf whenever the Taverne Amendment al
  <a href="/assets/pdf/arzh10.pdf"><code>PDF</code></a>
  <a href="https://doi.org/10.1118/1.3264662"><code>DOI</code></a>
  <a href="http://www.ncbi.nlm.nih.gov/pubmed/20175467"><code>PubMed</code></a>
- <a href="https://scholar.google.com/scholar?cites=10305933231621539339">Cited by ~24</a>
+ <a href="https://scholar.google.com/scholar?cites=10305933231621539339"><code>Google Scholar</code></a>
   </small> 
 </li>				
 <li>E. van Rikxoort, I. Išgum, Y. Arzhaeva, M. Staring, S. Klein, M. Viergever, J. Pluim and B. van Ginneken, "Adaptive local multi-atlas segmentation: application to the heart and the caudate nucleus",
@@ -1920,7 +1920,7 @@ subtitle: The full list. With links to the pdf whenever the Taverne Amendment al
  <a href="/assets/pdf/rikx10a.pdf"><code>PDF</code></a>
  <a href="https://doi.org/10.1016/j.media.2009.10.001"><code>DOI</code></a>
  <a href="http://www.ncbi.nlm.nih.gov/pubmed/19897403"><code>PubMed</code></a>
- <a href="https://scholar.google.com/scholar?cites=4163686614704886737">Cited by ~179</a>
+ <a href="https://scholar.google.com/scholar?cites=4163686614704886737"><code>Google Scholar</code></a>
   </small> 
 </li>				
 <li>P. Jacobs, M. Prokop, Y. van der Graaf, M. Gondrie, K. Janssen, H. de Koning, I. Išgum, R. van Klaveren, M. Oudkerk, B. van Ginneken and W. Mali, "Comparing coronary artery calcium and thoracic aorta calcium for prediction of all-cause mortality and cardiovascular events on low-dose non-gated computed tomography in a high-risk population of heavy smokers",
@@ -1929,7 +1929,7 @@ subtitle: The full list. With links to the pdf whenever the Taverne Amendment al
  <a href="/assets/pdf/jaco10.pdf"><code>PDF</code></a>
  <a href="https://doi.org/10.1016/j.atherosclerosis.2009.09.031"><code>DOI</code></a>
  <a href="http://www.ncbi.nlm.nih.gov/pubmed/19875116"><code>PubMed</code></a>
- <a href="https://scholar.google.com/scholar?cites=10232555956815609662">Cited by ~116</a>
+ <a href="https://scholar.google.com/scholar?cites=10232555956815609662"><code>Google Scholar</code></a>
   </small> 
 </li>				
 <li>M. Niemeijer, B. van Ginneken, M. Cree, A. Mizutani, G. Quellec, C. Sánchez, B. Zhang, R. Hornero, M. Lamard, C. Muramatsu, X. Wu, G. Cazuguel, J. You, A. Mayo, Q. Li, Y. Hatanaka, B. Cochener, C. Roux, F. Karray, M. Garcia, H. Fujita and M. Abràmoff, "Retinopathy online challenge: automatic detection of microaneurysms in digital color fundus photographs",
@@ -1938,7 +1938,7 @@ subtitle: The full list. With links to the pdf whenever the Taverne Amendment al
  <a href="/assets/pdf/niem10.pdf"><code>PDF</code></a>
  <a href="https://doi.org/10.1109/TMI.2009.2033909"><code>DOI</code></a>
  <a href="http://www.ncbi.nlm.nih.gov/pubmed/19822469"><code>PubMed</code></a>
- <a href="https://scholar.google.com/scholar?cites=9532443460643942339">Cited by ~446</a>
+ <a href="https://scholar.google.com/scholar?cites=9532443460643942339"><code>Google Scholar</code></a>
   </small> 
 </li>				
 <li>H. Gietema, P. Zanen, A. Schilham, B. van Ginneken, R. van Klaveren, M. Prokop and J. Lammers, "Distribution of emphysema in heavy smokers: impact on pulmonary function",
@@ -1947,7 +1947,7 @@ subtitle: The full list. With links to the pdf whenever the Taverne Amendment al
  <a href="/assets/pdf/giet10.pdf"><code>PDF</code></a>
  <a href="https://doi.org/10.1016/j.rmed.2009.08.004"><code>DOI</code></a>
  <a href="http://www.ncbi.nlm.nih.gov/pubmed/19734030"><code>PubMed</code></a>
- <a href="https://scholar.google.com/scholar?cites=3368562612864940397">Cited by ~27</a>
+ <a href="https://scholar.google.com/scholar?cites=3368562612864940397"><code>Google Scholar</code></a>
   </small> 
 </li>				
 <li>H. Gietema, P. Zanen, A. Schilham, B. van Ginneken, R. van Klaveren, M. Prokop and J. Lammers, "Reply to Hochheggar et al",
@@ -1963,7 +1963,7 @@ subtitle: The full list. With links to the pdf whenever the Taverne Amendment al
  <a href="/assets/pdf/arta09.pdf"><code>PDF</code></a>
  <a href="https://doi.org/10.1088/0031-9155/54/22/017"><code>DOI</code></a>
  <a href="http://www.ncbi.nlm.nih.gov/pubmed/19887716"><code>PubMed</code></a>
- <a href="https://scholar.google.com/scholar?cites=7831132571538357123">Cited by ~38</a>
+ <a href="https://scholar.google.com/scholar?cites=7831132571538357123"><code>Google Scholar</code></a>
   </small> 
 </li>				
 <li>A. Mendrik, E. Vonken, A. Rutten, M. Viergever and B. van Ginneken, "Noise reduction in computed tomography scans using 3-d anisotropic hybrid diffusion with continuous switch",
@@ -1972,7 +1972,7 @@ subtitle: The full list. With links to the pdf whenever the Taverne Amendment al
  <a href="/assets/pdf/mend09a.pdf"><code>PDF</code></a>
  <a href="https://doi.org/10.1109/TMI.2009.2022368"><code>DOI</code></a>
  <a href="http://www.ncbi.nlm.nih.gov/pubmed/19783496"><code>PubMed</code></a>
- <a href="https://scholar.google.com/scholar?cites=8629946616599488980">Cited by ~104</a>
+ <a href="https://scholar.google.com/scholar?cites=8629946616599488980"><code>Google Scholar</code></a>
   </small> 
 </li>				
 <li>M. Niemeijer, M. Abràmoff and B. van Ginneken, "Fast detection of the optic disc and fovea in color fundus photographs",
@@ -1981,7 +1981,7 @@ subtitle: The full list. With links to the pdf whenever the Taverne Amendment al
  <a href="/assets/pdf/niem09.pdf"><code>PDF</code></a>
  <a href="https://doi.org/10.1016/j.media.2009.08.003"><code>DOI</code></a>
  <a href="http://www.ncbi.nlm.nih.gov/pubmed/19782633"><code>PubMed</code></a>
- <a href="https://scholar.google.com/scholar?cites=3777725572675616469">Cited by ~247</a>
+ <a href="https://scholar.google.com/scholar?cites=3777725572675616469"><code>Google Scholar</code></a>
   </small> 
 </li>				
 <li>D. de Boo, M. Prokop, M. Uffmann, B. van Ginneken and C. Schaefer-Prokop, "Computer-aided detection (CAD) of lung nodules and small tumours on chest radiographs",
@@ -1990,7 +1990,7 @@ subtitle: The full list. With links to the pdf whenever the Taverne Amendment al
  <a href="/assets/pdf/boo09.pdf"><code>PDF</code></a>
  <a href="https://doi.org/10.1016/j.ejrad.2009.05.062"><code>DOI</code></a>
  <a href="http://www.ncbi.nlm.nih.gov/pubmed/19747791"><code>PubMed</code></a>
- <a href="https://scholar.google.com/scholar?cites=5227608991913046865">Cited by ~38</a>
+ <a href="https://scholar.google.com/scholar?cites=5227608991913046865"><code>Google Scholar</code></a>
   </small> 
 </li>				
 <li>E. van Rikxoort, B. de Hoop, M. Viergever, M. Prokop and B. van Ginneken, "Automatic lung segmentation from thoracic computed tomography scans using a hybrid approach with error detection",
@@ -1999,7 +1999,7 @@ subtitle: The full list. With links to the pdf whenever the Taverne Amendment al
  <a href="/assets/pdf/rikx09b.pdf"><code>PDF</code></a>
  <a href="https://doi.org/10.1118/1.3147146"><code>DOI</code></a>
  <a href="http://www.ncbi.nlm.nih.gov/pubmed/19673192"><code>PubMed</code></a>
- <a href="https://scholar.google.com/scholar?cites=14169941223089065550">Cited by ~244</a>
+ <a href="https://scholar.google.com/scholar?cites=14169941223089065550"><code>Google Scholar</code></a>
   </small> 
 </li>				
 <li>K. Murphy, B. van Ginneken, A. Schilham, B. de Hoop, H. Gietema and M. Prokop, "A Large Scale Evaluation of Automatic Pulmonary Nodule Detection in Chest CT using Local Image Features and k-Nearest-Neighbour Classification",
@@ -2008,7 +2008,7 @@ subtitle: The full list. With links to the pdf whenever the Taverne Amendment al
  <a href="/assets/pdf/murp09.pdf"><code>PDF</code></a>
  <a href="https://doi.org/10.1016/j.media.2009.07.001"><code>DOI</code></a>
  <a href="http://www.ncbi.nlm.nih.gov/pubmed/19646913"><code>PubMed</code></a>
- <a href="https://scholar.google.com/scholar?cites=13680973010063298300">Cited by ~275</a>
+ <a href="https://scholar.google.com/scholar?cites=13680973010063298300"><code>Google Scholar</code></a>
   </small> 
 </li>				
 <li>B. van Ginneken, L. Hogeweg and M. Prokop, "Computer-aided diagnosis in chest radiography: beyond nodules",
@@ -2017,7 +2017,7 @@ subtitle: The full list. With links to the pdf whenever the Taverne Amendment al
  <a href="/assets/pdf/ginn09a.pdf"><code>PDF</code></a>
  <a href="https://doi.org/10.1016/j.ejrad.2009.05.061"><code>DOI</code></a>
  <a href="http://www.ncbi.nlm.nih.gov/pubmed/19604661"><code>PubMed</code></a>
- <a href="https://scholar.google.com/scholar?cites=4166719588344969996">Cited by ~85</a>
+ <a href="https://scholar.google.com/scholar?cites=4166719588344969996"><code>Google Scholar</code></a>
   </small> 
 </li>				
 <li>E. van Rikxoort, B. de Hoop, S. van de Vorst, M. Prokop and B. van Ginneken, "Automatic segmentation of pulmonary segments from volumetric chest CT scans",
@@ -2026,7 +2026,7 @@ subtitle: The full list. With links to the pdf whenever the Taverne Amendment al
  <a href="/assets/pdf/rikx09.pdf"><code>PDF</code></a>
  <a href="https://doi.org/10.1109/TMI.2008.2008968"><code>DOI</code></a>
  <a href="http://www.ncbi.nlm.nih.gov/pubmed/19211346"><code>PubMed</code></a>
- <a href="https://scholar.google.com/scholar?cites=6723869456775488402">Cited by ~116</a>
+ <a href="https://scholar.google.com/scholar?cites=6723869456775488402"><code>Google Scholar</code></a>
   </small> 
 </li>				
 <li>T. Heimann, B. van Ginneken, M. Styner, Y. Arzhaeva, V. Aurich, C. Bauer, A. Beck, C. Becker, R. Beichel, G. Bekes, F. Bello, G. Binnig, H. Bischof, A. Bornik, P. Cashman, Y. Chi, A. Cordova, B. Dawant, M. Fidrich, J. Furst, D. Furukawa, L. Grenacher, J. Hornegger, D. Kainmuller, R. Kitney, H. Kobatake, H. Lamecker, T. Lange, J. Lee, B. Lennon, R. Li, S. Li, H. Meinzer, G. Nemeth, D. Raicu, A. Rau, E. van Rikxoort, M. Rousson, L. Rusko, K. Saddi, G. Schmidt, D. Seghers, A. Shimizu, P. Slagmolen, E. Sorantin, G. Soza, R. Susomboon, J. Waite, A. Wimmer and I. Wolf, "Comparison and Evaluation of Methods for Liver Segmentation From CT Datasets",
@@ -2035,7 +2035,7 @@ subtitle: The full list. With links to the pdf whenever the Taverne Amendment al
  <a href="/assets/pdf/heim09.pdf"><code>PDF</code></a>
  <a href="https://doi.org/10.1109/TMI.2009.2013851"><code>DOI</code></a>
  <a href="http://www.ncbi.nlm.nih.gov/pubmed/19211338"><code>PubMed</code></a>
- <a href="https://scholar.google.com/scholar?cites=6089436202002220059">Cited by ~813</a>
+ <a href="https://scholar.google.com/scholar?cites=6089436202002220059"><code>Google Scholar</code></a>
   </small> 
 </li>				
 <li>M. Niemeijer, M. Abràmoff and B. van Ginneken, "Information fusion for diabetic retinopathy CAD in digital color fundus photographs",
@@ -2044,7 +2044,7 @@ subtitle: The full list. With links to the pdf whenever the Taverne Amendment al
  <a href="/assets/pdf/niem09a.pdf"><code>PDF</code></a>
  <a href="https://doi.org/10.1109/TMI.2008.2012029"><code>DOI</code></a>
  <a href="http://www.ncbi.nlm.nih.gov/pubmed/19150786"><code>PubMed</code></a>
- <a href="https://scholar.google.com/scholar?cites=14795703699235766374">Cited by ~124</a>
+ <a href="https://scholar.google.com/scholar?cites=14795703699235766374"><code>Google Scholar</code></a>
   </small> 
 </li>				
 <li>I. Išgum, M. Staring, A. Rutten, M. Prokop, M. Viergever and B. van Ginneken, "Multi-Atlas-Based Segmentation With Local Decision Fusion - Application to Cardiac and Aortic Segmentation in CT Scans",
@@ -2053,7 +2053,7 @@ subtitle: The full list. With links to the pdf whenever the Taverne Amendment al
  <a href="/assets/pdf/isgu09.pdf"><code>PDF</code></a>
  <a href="https://doi.org/10.1109/TMI.2008.2011480"><code>DOI</code></a>
  <a href="http://www.ncbi.nlm.nih.gov/pubmed/19131298"><code>PubMed</code></a>
- <a href="https://scholar.google.com/scholar?cites=13277270236947780741">Cited by ~390</a>
+ <a href="https://scholar.google.com/scholar?cites=13277270236947780741"><code>Google Scholar</code></a>
   </small> 
 </li>				
 <li>M. Staring, J. Pluim, B. de Hoop, S. Klein, B. van Ginneken, H. Gietema, G. Nossent, C. Schaefer-Prokop, S. van de Vorst and M. Prokop, "Image Subtraction Facilitates Assessment of Volume and Density Change in Ground-Glass Opacities in Chest CT",
@@ -2062,7 +2062,7 @@ subtitle: The full list. With links to the pdf whenever the Taverne Amendment al
  <a href="/assets/pdf/star09.pdf"><code>PDF</code></a>
  <a href="https://doi.org/10.1097/RLI.0b013e318197fcb7"><code>DOI</code></a>
  <a href="http://www.ncbi.nlm.nih.gov/pubmed/19104438"><code>PubMed</code></a>
- <a href="https://scholar.google.com/scholar?cites=16017624786647148270">Cited by ~17</a>
+ <a href="https://scholar.google.com/scholar?cites=16017624786647148270"><code>Google Scholar</code></a>
   </small> 
 </li>				
 <li>B. de Hoop, H. Gietema, B. van Ginneken, P. Zanen, G. Groenewegen and M. Prokop, "A comparison of six software packages for evaluation of solid lung nodules using semi-automated volumetry: what is the minimum increase in size to detect growth in repeated CT examinations",
@@ -2071,7 +2071,7 @@ subtitle: The full list. With links to the pdf whenever the Taverne Amendment al
  <a href="/assets/pdf/hoop09.pdf"><code>PDF</code></a>
  <a href="https://doi.org/10.1007/s00330-008-1229-x"><code>DOI</code></a>
  <a href="http://www.ncbi.nlm.nih.gov/pubmed/19018537"><code>PubMed</code></a>
- <a href="https://scholar.google.com/scholar?cites=17148475176430192127">Cited by ~135</a>
+ <a href="https://scholar.google.com/scholar?cites=17148475176430192127"><code>Google Scholar</code></a>
   </small> 
 </li>				
 <li>Y. Arzhaeva, D. Tax and B. van Ginneken, "Dissimilarity-based classification in the absence of local ground truth: application to the diagnostic interpretation of chest radiographs",
@@ -2079,7 +2079,7 @@ subtitle: The full list. With links to the pdf whenever the Taverne Amendment al
  <small>
  <a href="/assets/pdf/arzh09.pdf"><code>PDF</code></a>
  <a href="https://doi.org/10.1016/j.patcog.2009.01.016"><code>DOI</code></a>
-  <a href="https://scholar.google.com/scholar?cites=16382712958622308082">Cited by ~29</a>
+  <a href="https://scholar.google.com/scholar?cites=16382712958622308082"><code>Google Scholar</code></a>
   </small> 
 </li>				
 <li>S. Armato and B. van Ginneken, "Anniversary paper: image processing and manipulation through the pages of Medical Physics",
@@ -2088,7 +2088,7 @@ subtitle: The full list. With links to the pdf whenever the Taverne Amendment al
  <a href="/assets/pdf/arma08.pdf"><code>PDF</code></a>
  <a href="https://doi.org/10.1118/1.2977537"><code>DOI</code></a>
  <a href="http://www.ncbi.nlm.nih.gov/pubmed/18975696"><code>PubMed</code></a>
- <a href="https://scholar.google.com/scholar?cites=13150535677729050397">Cited by ~10</a>
+ <a href="https://scholar.google.com/scholar?cites=13150535677729050397"><code>Google Scholar</code></a>
   </small> 
 </li>				
 <li>B. Stoel, D. Parr, E. Bakker, H. Putter, J. Stolk, H. Gietema, A. Schilham, B. van Ginneken, R. van Klaveren, J. Lammers and M. Prokop, "Can the extent of low-attenuation areas on CT scans really demonstrate changes in the severity of emphysema?",
@@ -2097,7 +2097,7 @@ subtitle: The full list. With links to the pdf whenever the Taverne Amendment al
  <a href="/assets/pdf/stoe08.pdf"><code>PDF</code></a>
  <a href="https://doi.org/10.1148/radiol.2471071608"><code>DOI</code></a>
  <a href="http://www.ncbi.nlm.nih.gov/pubmed/18372475"><code>PubMed</code></a>
- <a href="https://scholar.google.com/scholar?cites=8941581572812805403">Cited by ~11</a>
+ <a href="https://scholar.google.com/scholar?cites=8941581572812805403"><code>Google Scholar</code></a>
   </small> 
 </li>				
 <li>E. van Rikxoort, B. van Ginneken, M. Klik and M. Prokop, "Supervised enhancement filters: application to fissure detection in chest CT scans",
@@ -2106,7 +2106,7 @@ subtitle: The full list. With links to the pdf whenever the Taverne Amendment al
  <a href="/assets/pdf/rikx08a.pdf"><code>PDF</code></a>
  <a href="https://doi.org/10.1109/TMI.2007.900447"><code>DOI</code></a>
  <a href="http://www.ncbi.nlm.nih.gov/pubmed/18270056"><code>PubMed</code></a>
- <a href="https://scholar.google.com/scholar?cites=2240117688941041987">Cited by ~95</a>
+ <a href="https://scholar.google.com/scholar?cites=2240117688941041987"><code>Google Scholar</code></a>
   </small> 
 </li>				
 <li>M. Abràmoff, M. Niemeijer, M. Suttorp-Schulten, M. Viergever, S. Russell and B. van Ginneken, "Evaluation of a system for automatic detection of diabetic retinopathy from color fundus photographs in a large population of patients with diabetes",
@@ -2115,7 +2115,7 @@ subtitle: The full list. With links to the pdf whenever the Taverne Amendment al
  <a href="/assets/pdf/abra08a.pdf"><code>PDF</code></a>
  <a href="https://doi.org/10.2337/dc07-1312"><code>DOI</code></a>
  <a href="http://www.ncbi.nlm.nih.gov/pubmed/18024852"><code>PubMed</code></a>
- <a href="https://scholar.google.com/scholar?cites=14186889695192659355">Cited by ~287</a>
+ <a href="https://scholar.google.com/scholar?cites=14186889695192659355"><code>Google Scholar</code></a>
   </small> 
 </li>				
 <li>B. van Ginneken, "Computer-Aided Diagnosis in Thoracic Computed Tomography",
@@ -2123,7 +2123,7 @@ subtitle: The full list. With links to the pdf whenever the Taverne Amendment al
  <small>
  <a href="/assets/pdf/ginn08a.pdf"><code>PDF</code></a>
  <a href="https://doi.org/10.1111/j.1617-0830.2009.00129.x"><code>DOI</code></a>
-  <a href="https://scholar.google.com/scholar?cites=282439729250169033">Cited by ~14</a>
+  <a href="https://scholar.google.com/scholar?cites=282439729250169033"><code>Google Scholar</code></a>
   </small> 
 </li>				
 <li>Y. Arzhaeva, M. Prokop, D. Tax, P. de Jong, C. Schaefer-Prokop and B. van Ginneken, "Computer-aided detection of interstitial abnormalities in chest radiographs using a reference standard based on computed tomography",
@@ -2132,7 +2132,7 @@ subtitle: The full list. With links to the pdf whenever the Taverne Amendment al
  <a href="/assets/pdf/arzh07.pdf"><code>PDF</code></a>
  <a href="https://doi.org/10.1118/1.2795672"><code>DOI</code></a>
  <a href="http://www.ncbi.nlm.nih.gov/pubmed/18196808"><code>PubMed</code></a>
- <a href="https://scholar.google.com/scholar?cites=15574026353971813570">Cited by ~42</a>
+ <a href="https://scholar.google.com/scholar?cites=15574026353971813570"><code>Google Scholar</code></a>
   </small> 
 </li>				
 <li>H. Gietema, A. Schilham, B. van Ginneken, R. van Klaveren, J. Lammers and M. Prokop, "Monitoring of smoking-induced emphysema with CT in a lung cancer screening setting: detection of real increase in extent of emphysema",
@@ -2141,7 +2141,7 @@ subtitle: The full list. With links to the pdf whenever the Taverne Amendment al
  <a href="/assets/pdf/giet07a.pdf"><code>PDF</code></a>
  <a href="https://doi.org/10.1148/radiol.2443061330"><code>DOI</code></a>
  <a href="http://www.ncbi.nlm.nih.gov/pubmed/17709835"><code>PubMed</code></a>
- <a href="https://scholar.google.com/scholar?cites=9253661431333367415">Cited by ~67</a>
+ <a href="https://scholar.google.com/scholar?cites=9253661431333367415"><code>Google Scholar</code></a>
   </small> 
 </li>				
 <li>I. Išgum, A. Rutten, M. Prokop and B. van Ginneken, "Detection of coronary calcifications from computed tomography scans for automated risk assessment of coronary artery disease",
@@ -2150,7 +2150,7 @@ subtitle: The full list. With links to the pdf whenever the Taverne Amendment al
  <a href="/assets/pdf/isgu07.pdf"><code>PDF</code></a>
  <a href="https://doi.org/10.1118/1.2710548"><code>DOI</code></a>
  <a href="http://www.ncbi.nlm.nih.gov/pubmed/17500476"><code>PubMed</code></a>
- <a href="https://scholar.google.com/scholar?cites=4877154343244870689">Cited by ~89</a>
+ <a href="https://scholar.google.com/scholar?cites=4877154343244870689"><code>Google Scholar</code></a>
   </small> 
 </li>				
 <li>M. Niemeijer, B. van Ginneken, S. Russel, M. Suttorp-Schulten and M. Abràmoff, "Automated detection and differentiation of drusen, exudates, and cotton-wool spots in digital color fundus photographs for diabetic retinopathy diagnosis",
@@ -2159,7 +2159,7 @@ subtitle: The full list. With links to the pdf whenever the Taverne Amendment al
  <a href="/assets/pdf/niem07b.pdf"><code>PDF</code></a>
  <a href="https://doi.org/10.1167/iovs.06-0996"><code>DOI</code></a>
  <a href="http://www.ncbi.nlm.nih.gov/pubmed/17460289"><code>PubMed</code></a>
- <a href="https://scholar.google.com/scholar?cites=13784025486209249363">Cited by ~388</a>
+ <a href="https://scholar.google.com/scholar?cites=13784025486209249363"><code>Google Scholar</code></a>
   </small> 
 </li>				
 <li>M. Niemeijer, M. Abràmoff and B. van Ginneken, "Segmentation of the optic disc, macula and vascular arch in fundus photographs",
@@ -2168,7 +2168,7 @@ subtitle: The full list. With links to the pdf whenever the Taverne Amendment al
  <a href="/assets/pdf/niem07a.pdf"><code>PDF</code></a>
  <a href="https://doi.org/10.1109/TMI.2006.885336"><code>DOI</code></a>
  <a href="http://www.ncbi.nlm.nih.gov/pubmed/17243590"><code>PubMed</code></a>
- <a href="https://scholar.google.com/scholar?cites=446255861867709018">Cited by ~247</a>
+ <a href="https://scholar.google.com/scholar?cites=446255861867709018"><code>Google Scholar</code></a>
   </small> 
 </li>				
 <li>J. Staal, B. van Ginneken and M. Viergever, "Automatic rib segmentation and labeling in computed tomography scans using a general framework for detection, recognition and segmentation of objects in volumetric data",
@@ -2177,7 +2177,7 @@ subtitle: The full list. With links to the pdf whenever the Taverne Amendment al
  <a href="/assets/pdf/staa07.pdf"><code>PDF</code></a>
  <a href="https://doi.org/10.1016/j.media.2006.10.001"><code>DOI</code></a>
  <a href="http://www.ncbi.nlm.nih.gov/pubmed/17126065"><code>PubMed</code></a>
- <a href="https://scholar.google.com/scholar?cites=6032541118265568544">Cited by ~72</a>
+ <a href="https://scholar.google.com/scholar?cites=6032541118265568544"><code>Google Scholar</code></a>
   </small> 
 </li>				
 <li>M. Niemeijer, M. Abràmoff and B. van Ginneken, "Image structure clustering for image quality verification of color retina images in diabetic retinopathy screening",
@@ -2186,7 +2186,7 @@ subtitle: The full list. With links to the pdf whenever the Taverne Amendment al
  <a href="/assets/pdf/niem06a.pdf"><code>PDF</code></a>
  <a href="https://doi.org/10.1016/j.media.2006.09.006"><code>DOI</code></a>
  <a href="http://www.ncbi.nlm.nih.gov/pubmed/17138215"><code>PubMed</code></a>
- <a href="https://scholar.google.com/scholar?cites=9152679895729904090">Cited by ~144</a>
+ <a href="https://scholar.google.com/scholar?cites=9152679895729904090"><code>Google Scholar</code></a>
   </small> 
 </li>				
 <li>I. Sluimer, M. Prokop, I. Hartmann and B. van Ginneken, "Automated classification of hyperlucency, fibrosis, ground glass, solid and focal lesions in high resolution CT of the lung",
@@ -2195,7 +2195,7 @@ subtitle: The full list. With links to the pdf whenever the Taverne Amendment al
  <a href="/assets/pdf/slui06.pdf"><code>PDF</code></a>
  <a href="https://doi.org/10.1118/1.2207131"><code>DOI</code></a>
  <a href="http://www.ncbi.nlm.nih.gov/pubmed/16898465"><code>PubMed</code></a>
- <a href="https://scholar.google.com/scholar?cites=7126259624329785862">Cited by ~79</a>
+ <a href="https://scholar.google.com/scholar?cites=7126259624329785862"><code>Google Scholar</code></a>
   </small> 
 </li>				
 <li>M. Loog, B. van Ginneken and A. Schilham, "Filter learning: application to suppression of bony structures from chest radiographs",
@@ -2204,7 +2204,7 @@ subtitle: The full list. With links to the pdf whenever the Taverne Amendment al
  <a href="/assets/pdf/loog06b.pdf"><code>PDF</code></a>
  <a href="https://doi.org/10.1016/j.media.2006.06.002"><code>DOI</code></a>
  <a href="http://www.ncbi.nlm.nih.gov/pubmed/16859953"><code>PubMed</code></a>
- <a href="https://scholar.google.com/scholar?cites=7955130862773952899">Cited by ~62</a>
+ <a href="https://scholar.google.com/scholar?cites=7955130862773952899"><code>Google Scholar</code></a>
   </small> 
 </li>				
 <li>M. Loog and B. van Ginneken, "Segmentation of the posterior ribs in chest radiographs using iterated contextual pixel classification",
@@ -2213,7 +2213,7 @@ subtitle: The full list. With links to the pdf whenever the Taverne Amendment al
  <a href="/assets/pdf/loog06a.pdf"><code>PDF</code></a>
  <a href="https://doi.org/10.1109/TMI.2006.872747"><code>DOI</code></a>
  <a href="http://www.ncbi.nlm.nih.gov/pubmed/16689264"><code>PubMed</code></a>
- <a href="https://scholar.google.com/scholar?cites=8560942913013408020">Cited by ~103</a>
+ <a href="https://scholar.google.com/scholar?cites=8560942913013408020"><code>Google Scholar</code></a>
   </small> 
 </li>				
 <li>A. Schilham, B. van Ginneken, H. Gietema and M. Prokop, "Local noise weighted filtering for emphysema scoring of low-dose CT images",
@@ -2222,7 +2222,7 @@ subtitle: The full list. With links to the pdf whenever the Taverne Amendment al
  <a href="/assets/pdf/schi06a.pdf"><code>PDF</code></a>
  <a href="https://doi.org/10.1109/TMI.2006.871545"><code>DOI</code></a>
  <a href="http://www.ncbi.nlm.nih.gov/pubmed/16608060"><code>PubMed</code></a>
- <a href="https://scholar.google.com/scholar?cites=6010863254825410177">Cited by ~89</a>
+ <a href="https://scholar.google.com/scholar?cites=6010863254825410177"><code>Google Scholar</code></a>
   </small> 
 </li>				
 <li>I. Sluimer, A. Schilham, M. Prokop and B. van Ginneken, "Computer analysis of computed tomography scans of the lung: a survey",
@@ -2231,7 +2231,7 @@ subtitle: The full list. With links to the pdf whenever the Taverne Amendment al
  <a href="/assets/pdf/slui06a.pdf"><code>PDF</code></a>
  <a href="https://doi.org/10.1109/TMI.2005.862753"><code>DOI</code></a>
  <a href="http://www.ncbi.nlm.nih.gov/pubmed/16608056"><code>PubMed</code></a>
- <a href="https://scholar.google.com/scholar?cites=10943222434899920168">Cited by ~621</a>
+ <a href="https://scholar.google.com/scholar?cites=10943222434899920168"><code>Google Scholar</code></a>
   </small> 
 </li>				
 <li>A. Schilham, B. van Ginneken and M. Loog, "A computer-aided diagnosis system for detection of lung nodules in chest radiographs with an evaluation on a public database",
@@ -2240,7 +2240,7 @@ subtitle: The full list. With links to the pdf whenever the Taverne Amendment al
  <a href="/assets/pdf/schi06b.pdf"><code>PDF</code></a>
  <a href="https://doi.org/10.1016/j.media.2005.09.003"><code>DOI</code></a>
  <a href="http://www.ncbi.nlm.nih.gov/pubmed/16293441"><code>PubMed</code></a>
- <a href="https://scholar.google.com/scholar?cites=1234054976175339261">Cited by ~167</a>
+ <a href="https://scholar.google.com/scholar?cites=1234054976175339261"><code>Google Scholar</code></a>
   </small> 
 </li>				
 <li>B. van Ginneken, M. Stegmann and M. Loog, "Segmentation of anatomical structures in chest radiographs using supervised methods: a comparative study on a public database",
@@ -2249,7 +2249,7 @@ subtitle: The full list. With links to the pdf whenever the Taverne Amendment al
  <a href="/assets/pdf/ginn06b.pdf"><code>PDF</code></a>
  <a href="https://doi.org/10.1016/j.media.2005.02.002"><code>DOI</code></a>
  <a href="http://www.ncbi.nlm.nih.gov/pubmed/15919232"><code>PubMed</code></a>
- <a href="https://scholar.google.com/scholar?cites=13219292505695896632">Cited by ~410</a>
+ <a href="https://scholar.google.com/scholar?cites=13219292505695896632"><code>Google Scholar</code></a>
   </small> 
 </li>				
 <li>J. Reinhardt, B. van Ginneken and M. Sonka, "Special Issue on Pulmonary Imaging",
@@ -2266,7 +2266,7 @@ subtitle: The full list. With links to the pdf whenever the Taverne Amendment al
  <a href="/assets/pdf/slui05a.pdf"><code>PDF</code></a>
  <a href="https://doi.org/10.1109/TMI.2005.851757"><code>DOI</code></a>
  <a href="http://www.ncbi.nlm.nih.gov/pubmed/16092334"><code>PubMed</code></a>
- <a href="https://scholar.google.com/scholar?cites=884962951440896774">Cited by ~320</a>
+ <a href="https://scholar.google.com/scholar?cites=884962951440896774"><code>Google Scholar</code></a>
   </small> 
 </li>				
 <li>M. Niemeijer, B. van Ginneken, J. Staal, M. Suttorp-Schulten and M. Abràmoff, "Automatic Detection of Red Lesions in Digital Color Fundus Photographs",
@@ -2275,7 +2275,7 @@ subtitle: The full list. With links to the pdf whenever the Taverne Amendment al
  <a href="/assets/pdf/niem05b.pdf"><code>PDF</code></a>
  <a href="https://doi.org/10.1109/TMI.2005.843738"><code>DOI</code></a>
  <a href="http://www.ncbi.nlm.nih.gov/pubmed/15889546"><code>PubMed</code></a>
- <a href="https://scholar.google.com/scholar?cites=13743541034647495598">Cited by ~586</a>
+ <a href="https://scholar.google.com/scholar?cites=13743541034647495598"><code>Google Scholar</code></a>
   </small> 
 </li>				
 <li>M. Loog, B. van Ginneken and R. Duin, "Dimensionality reduction of image features using the canonical contextual correlation projection",
@@ -2283,7 +2283,7 @@ subtitle: The full list. With links to the pdf whenever the Taverne Amendment al
  <small>
  <a href="/assets/pdf/loog05.pdf"><code>PDF</code></a>
  <a href="https://doi.org/10.1016/j.patcog.2005.04.011"><code>DOI</code></a>
-  <a href="https://scholar.google.com/scholar?cites=6999602497087293130">Cited by ~23</a>
+  <a href="https://scholar.google.com/scholar?cites=6999602497087293130"><code>Google Scholar</code></a>
   </small> 
 </li>				
 <li>J. Staal, M. Abràmoff, M. Niemeijer, M. Viergever and B. van Ginneken, "Ridge Based Vessel Segmentation in Color Images of the Retina",
@@ -2292,7 +2292,7 @@ subtitle: The full list. With links to the pdf whenever the Taverne Amendment al
  <a href="/assets/pdf/staa04a.pdf"><code>PDF</code></a>
  <a href="https://doi.org/10.1109/TMI.2004.825627"><code>DOI</code></a>
  <a href="http://www.ncbi.nlm.nih.gov/pubmed/15084075"><code>PubMed</code></a>
- <a href="https://scholar.google.com/scholar?cites=1421589366492561845">Cited by ~2720</a>
+ <a href="https://scholar.google.com/scholar?cites=1421589366492561845"><code>Google Scholar</code></a>
   </small> 
 </li>				
 <li>M. de Bruijne, B. van Ginneken, M. Viergever and W. Niessen, "Interactive segmentation of abdominal aortic aneurysms in CTA images",
@@ -2301,7 +2301,7 @@ subtitle: The full list. With links to the pdf whenever the Taverne Amendment al
  <a href="/assets/pdf/brui04.pdf"><code>PDF</code></a>
  <a href="https://doi.org/10.1016/j.media.2004.01.001"><code>DOI</code></a>
  <a href="http://www.ncbi.nlm.nih.gov/pubmed/15063862"><code>PubMed</code></a>
- <a href="https://scholar.google.com/scholar?cites=14139207650278234060">Cited by ~127</a>
+ <a href="https://scholar.google.com/scholar?cites=14139207650278234060"><code>Google Scholar</code></a>
   </small> 
 </li>				
 <li>I. Išgum, B. van Ginneken and M. Olree, "Automatic detection of calcifications in the aorta from CT scans of the abdomen: 3D computer-aided diagnosis",
@@ -2310,7 +2310,7 @@ subtitle: The full list. With links to the pdf whenever the Taverne Amendment al
  <a href="/assets/pdf/isgu04.pdf"><code>PDF</code></a>
  <a href="https://doi.org/10.1016/S1076-6332(03)00673-1"><code>DOI</code></a>
  <a href="http://www.ncbi.nlm.nih.gov/pubmed/15035514"><code>PubMed</code></a>
- <a href="https://scholar.google.com/scholar?cites=2474107927891219113">Cited by ~46</a>
+ <a href="https://scholar.google.com/scholar?cites=2474107927891219113"><code>Google Scholar</code></a>
   </small> 
 </li>				
 <li>I. Sluimer, P. van Waes, M. Viergever and B. van Ginneken, "Computer-aided diagnosis in high-resolution CT of the lungs",
@@ -2319,7 +2319,7 @@ subtitle: The full list. With links to the pdf whenever the Taverne Amendment al
  <a href="/assets/pdf/slui03.pdf"><code>PDF</code></a>
  <a href="https://doi.org/10.1118/1.1624771"><code>DOI</code></a>
  <a href="http://www.ncbi.nlm.nih.gov/pubmed/14713074"><code>PubMed</code></a>
- <a href="https://scholar.google.com/scholar?cites=6511737817147038623">Cited by ~181</a>
+ <a href="https://scholar.google.com/scholar?cites=6511737817147038623"><code>Google Scholar</code></a>
   </small> 
 </li>				
 <li>I. Išgum and B. van Ginneken, "CT segmentation programs extract calcifications",
@@ -2334,7 +2334,7 @@ subtitle: The full list. With links to the pdf whenever the Taverne Amendment al
  <small>
  <a href="/assets/pdf/ginn03b.pdf"><code>PDF</code></a>
  <a href="https://doi.org/10.1016/S0031-3203(02)00118-8"><code>DOI</code></a>
-  <a href="https://scholar.google.com/scholar?cites=3590992795902461226">Cited by ~33</a>
+  <a href="https://scholar.google.com/scholar?cites=3590992795902461226"><code>Google Scholar</code></a>
   </small> 
 </li>				
 <li>B. van Ginneken, "Computerized detection of interstitial disease in chest radiographs",
@@ -2350,7 +2350,7 @@ subtitle: The full list. With links to the pdf whenever the Taverne Amendment al
  <a href="/assets/pdf/ginn02.pdf"><code>PDF</code></a>
  <a href="https://doi.org/10.1109/TMI.2002.803121"><code>DOI</code></a>
  <a href="http://www.ncbi.nlm.nih.gov/pubmed/12472265"><code>PubMed</code></a>
- <a href="https://scholar.google.com/scholar?cites=565682893025109187">Cited by ~652</a>
+ <a href="https://scholar.google.com/scholar?cites=565682893025109187"><code>Google Scholar</code></a>
   </small> 
 </li>				
 <li>B. van Ginneken, S. Katsuragawa, B. ter Haar Romeny, K. Doi and M. Viergever, "Automatic detection of abnormalities in chest radiographs using local texture analysis",
@@ -2359,7 +2359,7 @@ subtitle: The full list. With links to the pdf whenever the Taverne Amendment al
  <a href="/assets/pdf/ginn02a.pdf"><code>PDF</code></a>
  <a href="https://doi.org/10.1109/42.993132"><code>DOI</code></a>
  <a href="http://www.ncbi.nlm.nih.gov/pubmed/11929101"><code>PubMed</code></a>
- <a href="https://scholar.google.com/scholar?cites=5477064095233485439,10626615429567403174">Cited by ~255</a>
+ <a href="https://scholar.google.com/scholar?cites=5477064095233485439,10626615429567403174"><code>Google Scholar</code></a>
   </small> 
 </li>				
 <li>B. van Ginneken, B. ter Haar Romeny and M. Viergever, "Computer-aided diagnosis in chest radiography: a survey",
@@ -2368,7 +2368,7 @@ subtitle: The full list. With links to the pdf whenever the Taverne Amendment al
  <a href="/assets/pdf/ginn01c.pdf"><code>PDF</code></a>
  <a href="https://doi.org/10.1109/42.974918"><code>DOI</code></a>
  <a href="http://www.ncbi.nlm.nih.gov/pubmed/11811823"><code>PubMed</code></a>
- <a href="https://scholar.google.com/scholar?cites=6827224050908194764">Cited by ~597</a>
+ <a href="https://scholar.google.com/scholar?cites=6827224050908194764"><code>Google Scholar</code></a>
   </small> 
 </li>				
 <li>B. van Ginneken and B. ter Romeny, "Automatic segmentation of lung fields in chest radiographs",
@@ -2377,7 +2377,7 @@ subtitle: The full list. With links to the pdf whenever the Taverne Amendment al
  <a href="/assets/pdf/ginn00a.pdf"><code>PDF</code></a>
  <a href="https://doi.org/10.1118/1.1312192"><code>DOI</code></a>
  <a href="http://www.ncbi.nlm.nih.gov/pubmed/11099215"><code>PubMed</code></a>
- <a href="https://scholar.google.com/scholar?cites=17671026951302443772">Cited by ~138</a>
+ <a href="https://scholar.google.com/scholar?cites=17671026951302443772"><code>Google Scholar</code></a>
   </small> 
 </li>				
 <li>B. van Ginneken and B. ter Romeny, "Applications of locally orderless images",
@@ -2385,7 +2385,7 @@ subtitle: The full list. With links to the pdf whenever the Taverne Amendment al
  <small>
  <a href="/assets/pdf/ginn00b.pdf"><code>PDF</code></a>
  <a href="https://doi.org/10.1006/jvci.1999.0445"><code>DOI</code></a>
-  <a href="https://scholar.google.com/scholar?cites=14802806611808806892">Cited by ~17</a>
+  <a href="https://scholar.google.com/scholar?cites=14802806611808806892"><code>Google Scholar</code></a>
   </small> 
 </li>				
 <li>B. van Ginneken, J. Koenderink and K. Dana, "Texture histograms as a function of irradiation and viewing direction",
@@ -2393,7 +2393,7 @@ subtitle: The full list. With links to the pdf whenever the Taverne Amendment al
  <small>
  <a href="/assets/pdf/ginn99b.pdf"><code>PDF</code></a>
  <a href="https://doi.org/10.1023/A:1008018015948"><code>DOI</code></a>
-  <a href="https://scholar.google.com/scholar?cites=5477947646226846288">Cited by ~65</a>
+  <a href="https://scholar.google.com/scholar?cites=5477947646226846288"><code>Google Scholar</code></a>
   </small> 
 </li>				
 <li>K. Dana, B. van Ginneken, S. Nayar and J. Koenderink, "Reflectance and texture of real world surfaces",
@@ -2401,7 +2401,7 @@ subtitle: The full list. With links to the pdf whenever the Taverne Amendment al
  <small>
  <a href="/assets/pdf/dana99.pdf"><code>PDF</code></a>
  <a href="https://doi.org/10.1145/300776.300778"><code>DOI</code></a>
-  <a href="https://scholar.google.com/scholar?cites=10703879051793209252,17798667214681108922">Cited by ~1745</a>
+  <a href="https://scholar.google.com/scholar?cites=10703879051793209252,17798667214681108922"><code>Google Scholar</code></a>
   </small> 
 </li>				
 <li>B. van Ginneken, M. Stavridi and J. Koenderink, "Diffuse and specular reflectance from rough surfaces",
@@ -2410,7 +2410,7 @@ subtitle: The full list. With links to the pdf whenever the Taverne Amendment al
  <a href="/assets/pdf/ginn98.pdf"><code>PDF</code></a>
  <a href="https://doi.org/10.1364/AO.37.000130"><code>DOI</code></a>
  <a href="http://www.ncbi.nlm.nih.gov/pubmed/18268570"><code>PubMed</code></a>
- <a href="https://scholar.google.com/scholar?cites=16914516602261093772">Cited by ~191</a>
+ <a href="https://scholar.google.com/scholar?cites=16914516602261093772"><code>Google Scholar</code></a>
   </small> 
 </li>				
 <li>M. Stavridi, B. van Ginneken and J. Koenderink, "Surface bidirectional reflection distribution function and the texture of bricks and tiles",
@@ -2419,7 +2419,7 @@ subtitle: The full list. With links to the pdf whenever the Taverne Amendment al
  <a href="/assets/pdf/stav97.pdf"><code>PDF</code></a>
  <a href="https://doi.org/10.1364/AO.36.003717"><code>DOI</code></a>
  <a href="http://www.ncbi.nlm.nih.gov/pubmed/18253397"><code>PubMed</code></a>
- <a href="https://scholar.google.com/scholar?cites=3106951890713888296">Cited by ~15</a>
+ <a href="https://scholar.google.com/scholar?cites=3106951890713888296"><code>Google Scholar</code></a>
   </small> 
 </li>				
 <li>N. Hendrix, E. Scholten, B. Vernhout, S. Bruijnen, B. Maresch, M. de Jong, S. Diepstraten, S. Bollen, S. Schalekamp, M. de Rooij, A. Scholtens, W. Hendrix, T. Samson, L. Sharon Ong, E. Postma, B. van Ginneken and M. Rutten, "Development and Validation of a Convolutional Neural Network for Automated Detection of Scaphoid Fractures on Conventional Radiographs",
@@ -2440,7 +2440,7 @@ subtitle: The full list. With links to the pdf whenever the Taverne Amendment al
  <small>
  <a href="/assets/pdf/meye20.pdf"><code>PDF</code></a>
   <a href="https://arxiv.org/abs/2009.11120">
- arXiv </a>
+ <code>arXiv</code></a>
    </small> 
 </li>				
 <li>S. Zhou, H. Greenspan, C. Davatzikos, J. Duncan, B. van Ginneken, A. Madabhushi, J. Prince, D. Rueckert and R. Summers, "A review of deep learning in medical imaging: Image traits, technology trends, case studies with progress highlights, and future promises",
@@ -2448,7 +2448,7 @@ subtitle: The full list. With links to the pdf whenever the Taverne Amendment al
  <small>
  <a href="/assets/pdf/zhou20.pdf"><code>PDF</code></a>
   <a href="https://arxiv.org/abs/2008.09104">
- arXiv </a>
+ <code>arXiv</code></a>
    </small> 
 </li>				
 <li>A. Hering, S. Häger, J. Moltz, N. Lessmann, S. Heldmann and B. van Ginneken, "Constraining Volume Change in Learned Image Registration for Lung CTs",
@@ -2456,7 +2456,7 @@ subtitle: The full list. With links to the pdf whenever the Taverne Amendment al
  <small>
  <a href="/assets/pdf/heri20a.pdf"><code>PDF</code></a>
   <a href="https://arxiv.org/abs/2011.14372">
- arXiv </a>
+ <code>arXiv</code></a>
    </small> 
 </li>				
 <li>N. Lessmann and B. van Ginneken, "Random smooth gray value transformations for cross modality learning with gray value invariant networks",
@@ -2464,7 +2464,7 @@ subtitle: The full list. With links to the pdf whenever the Taverne Amendment al
  <small>
  <a href="/assets/pdf/less20a.pdf"><code>PDF</code></a>
   <a href="https://arxiv.org/abs/2003.06158">
- arXiv </a>
+ <code>arXiv</code></a>
    </small> 
 </li>				
 <li>S. Wetstein, C. González-Gonzalo, G. Bortsova, B. Liefers, F. Dubost, I. Katramados, L. Hogeweg, B. van Ginneken, J. Pluim, M. de Bruijne, C. Sánchez and M. Veta, "Adversarial Attack Vulnerability of Medical Image Analysis Systems: Unexplored Factors",
@@ -2472,7 +2472,7 @@ subtitle: The full list. With links to the pdf whenever the Taverne Amendment al
  <small>
  <a href="/assets/pdf/gonz20b.pdf"><code>PDF</code></a>
   <a href="https://arxiv.org/abs/2006.06356">
- arXiv </a>
+ <code>arXiv</code></a>
    </small> 
 </li>				
 <li>C. de Vente, L. Boulogne, K. Venkadesh, C. Sital, N. Lessmann, C. Jacobs, C. Sánchez and B. van Ginneken, "Improving Automated COVID-19 Grading with Convolutional Neural Networks in Computed Tomography Scans: An Ablation Study",
@@ -2480,7 +2480,7 @@ subtitle: The full list. With links to the pdf whenever the Taverne Amendment al
  <small>
  <a href="/assets/pdf/vent20a.pdf"><code>PDF</code></a>
   <a href="https://arxiv.org/abs/2009.09725">
- arXiv </a>
+ <code>arXiv</code></a>
    </small> 
 </li>				
 <li>C. González-Gonzalo, B. Liefers, B. van Ginneken and C. Sánchez, "Iterative augmentation of visual evidence for weakly-supervised lesion localization in deep interpretability frameworks",
@@ -2488,7 +2488,7 @@ subtitle: The full list. With links to the pdf whenever the Taverne Amendment al
  <small>
  <a href="/assets/pdf/gonz19b.pdf"><code>PDF</code></a>
   <a href="https://arxiv.org/abs/1910.07373">
- arXiv </a>
+ <code>arXiv</code></a>
    </small> 
 </li>				
 <li>B. Liefers, J. Colijn, C. González-Gonzalo, T. Verzijden, P. Mitchell, C. Hoyng, B. van Ginneken, C. Klaver and C. Sánchez, "A deep learning model for segmentation of geographic atrophy to study its long-term natural history",
@@ -2496,7 +2496,7 @@ subtitle: The full list. With links to the pdf whenever the Taverne Amendment al
  <small>
  <a href="/assets/pdf/lief19b.pdf"><code>PDF</code></a>
   <a href="https://arxiv.org/abs/1908.05621">
- arXiv </a>
+ <code>arXiv</code></a>
    </small> 
 </li>				
 <li>P. Bilic, P. Christ, E. Vorontsov, G. Chlebus, H. Chen, Q. Dou, C. Fu, X. Han, P. Heng, J. Hesser, S. Kadoury, T. Konopczynski, M. Le, C. Li, X. Li, J. Lipkova, J. Lowengrub, H. Meine, J. Moltz, C. Pal, M. Piraud, X. Qi, J. Qi, M. Rempfler, K. Roth, A. Schenk, A. Sekuboyina, E. Vorontsov, P. Zhou, C. Hulsemeyer, M. Beetz, F. Ettlinger, F. Gruen, G. Kaissis, F. Lohofer, R. Braren, J. Holch, F. Hofmann, W. Sommer, V. Heinemann, C. Jacobs, G. Humpire Mamani, B. van Ginneken, G. Chartrand, A. Tang, M. Drozdzal, A. Ben-Cohen, E. Klang, M. Amitai, E. Konen, H. Greenspan, J. Moreau, A. Hostettler, L. Soler, R. Vivanti, A. Szeskin, N. Lev-Cohain, J. Sosna, L. Joskowicz and B. Menze, "The Liver Tumor Segmentation Benchmark (LiTS)",
@@ -2504,8 +2504,8 @@ subtitle: The full list. With links to the pdf whenever the Taverne Amendment al
  <small>
  <a href="/assets/pdf/bili19.pdf"><code>PDF</code></a>
   <a href="https://arxiv.org/abs/1901.04056">
- arXiv </a>
- <a href="https://scholar.google.com/scholar?cites=10996095861110041445">Cited by ~82</a>
+ <code>arXiv</code></a>
+ <a href="https://scholar.google.com/scholar?cites=10996095861110041445"><code>Google Scholar</code></a>
   </small> 
 </li>				
 <li>K. Murphy, S. Habib, S. Zaidi, S. Khowaja, A. Khan, J. Melendez, E. Scholten, F. Amad, S. Schalekamp, M. Verhagen, R. Philipsen, A. Meijers and B. van Ginneken, "Computer aided detection of tuberculosis on chest radiographs: An evaluation of the CAD4TB v6 system",
@@ -2513,7 +2513,7 @@ subtitle: The full list. With links to the pdf whenever the Taverne Amendment al
  <small>
  <a href="/assets/pdf/murp19.pdf"><code>PDF</code></a>
   <a href="https://arxiv.org/abs/1903.03349">
- arXiv </a>
+ <code>arXiv</code></a>
    </small> 
 </li>				
 <li>A. Simpson, M. Antonelli, S. Bakas, M. Bilello, K. Farahani, B. van Ginneken, A. Kopp-Schneider, B. Landman, G. Litjens, B. Menze, O. Ronneberger, R. Summers, P. Bilic, P. Christ, R. Do, M. Gollub, J. Golia-Pernicka, S. Heckers, W. Jarnagin, M. McHugo, S. Napel, E. Vorontsov, L. Maier-Hein and M. Cardoso, "A large annotated medical image dataset for the development and evaluation of segmentation algorithms",
@@ -2521,8 +2521,8 @@ subtitle: The full list. With links to the pdf whenever the Taverne Amendment al
  <small>
  <a href="/assets/pdf/simp19.pdf"><code>PDF</code></a>
   <a href="https://arxiv.org/pdf/1902.09063.pdf">
- arXiv </a>
- <a href="https://scholar.google.com/scholar?cites=12275877761746940475">Cited by ~75</a>
+ <code>arXiv</code></a>
+ <a href="https://scholar.google.com/scholar?cites=12275877761746940475"><code>Google Scholar</code></a>
   </small> 
 </li>				
 <li>M. Argus, C. Schaefer-Prokop, D. Lynch and B. van Ginneken, "Function Follows Form: Regression from Complete Thoracic Computed Tomography Scans",
@@ -2530,7 +2530,7 @@ subtitle: The full list. With links to the pdf whenever the Taverne Amendment al
  <small>
  <a href="/assets/pdf/argu19.pdf"><code>PDF</code></a>
   <a href="https://arxiv.org/abs/1909.12047">
- arXiv </a>
+ <code>arXiv</code></a>
    </small> 
 </li>				
 <li>L. Maier-Hein, A. Reinke, M. Kozubek, A. L. Martel, T. Arbel, M. Eisenmann, A. Hanbuary, P. Jannin, H. Muller, S. Onogur, J. Saez-Rodriguez, B. van Ginneken, A. Kopp-Schneider and B. Landman, "BIAS: Transparent reporting of biomedical image analysis challenges",
@@ -2538,7 +2538,7 @@ subtitle: The full list. With links to the pdf whenever the Taverne Amendment al
  <small>
  <a href="/assets/pdf/maie19.pdf"><code>PDF</code></a>
   <a href="https://arxiv.org/abs/1910.04071">
- arXiv </a>
+ <code>arXiv</code></a>
    </small> 
 </li>				
 <li>S. Kazeminia, C. Baur, A. Kuijper, B. van Ginneken, N. Navab, S. Albarqouni and A. Mukhopadhyay, "GANs for Medical Image Analysis",
@@ -2546,8 +2546,8 @@ subtitle: The full list. With links to the pdf whenever the Taverne Amendment al
  <small>
  <a href="/assets/pdf/kaze18.pdf"><code>PDF</code></a>
   <a href="https://arxiv.org/abs/1809.06222">
- arXiv </a>
- <a href="https://scholar.google.com/scholar?cites=2312414813335334255">Cited by ~55</a>
+ <code>arXiv</code></a>
+ <a href="https://scholar.google.com/scholar?cites=2312414813335334255"><code>Google Scholar</code></a>
   </small> 
 </li>				
 <li>D. Belli, S. Hu, E. Sogancioglu and B. van Ginneken, "Chest X-Rays Image Inpainting with Context Encoders",
@@ -2555,7 +2555,7 @@ subtitle: The full list. With links to the pdf whenever the Taverne Amendment al
  <small>
  <a href="/assets/pdf/davi18.pdf"><code>PDF</code></a>
   <a href="https://arxiv.org/abs/1812.00964">
- arXiv </a>
+ <code>arXiv</code></a>
    </small> 
 </li>				
 <li>E. Sogancioglu, S. Hu, D. Belli and B. van Ginneken, "Chest X-ray Inpainting with Deep Generative Models",
@@ -2563,7 +2563,7 @@ subtitle: The full list. With links to the pdf whenever the Taverne Amendment al
  <small>
  <a href="/assets/pdf/soga18.pdf"><code>PDF</code></a>
   <a href="https://arxiv.org/abs/1809.01471">
- arXiv </a>
+ <code>arXiv</code></a>
  <a href="https://scholar.google.com/scholar?cites=9158256103222862149"><code>Google Scholar</code></a>
   </small> 
 </li>				
@@ -2572,7 +2572,7 @@ subtitle: The full list. With links to the pdf whenever the Taverne Amendment al
  <small>
  <a href="/assets/pdf/ares18.pdf"><code>PDF</code></a>
   <a href="https://arxiv.org/abs/1811.12789">
- arXiv </a>
+ <code>arXiv</code></a>
    </small> 
 </li>				 
 </ol>
@@ -2630,7 +2630,7 @@ subtitle: The full list. With links to the pdf whenever the Taverne Amendment al
  <small>
  <a href="/assets/pdf/less19c.pdf"><code>PDF</code></a>
   <a href="https://arxiv.org/abs/1907.10978">
- arXiv </a>
+ <code>arXiv</code></a>
  <a href="https://scholar.google.com/scholar?cites=14928274104806083629"><code>Google Scholar</code></a>
   </small> 
 </li>				
@@ -2647,7 +2647,7 @@ subtitle: The full list. With links to the pdf whenever the Taverne Amendment al
  <small>
  <a href="/assets/pdf/less18.pdf"><code>PDF</code></a>
  <a href="https://doi.org/10.1117/12.2292731"><code>DOI</code></a>
-  <a href="https://scholar.google.com/scholar?cites=3970246513012434900">Cited by ~21</a>
+  <a href="https://scholar.google.com/scholar?cites=3970246513012434900"><code>Google Scholar</code></a>
   </small> 
 </li>				
 <li>G. Aresta, T. Araújo, C. Jacobs, B. van Ginneken, A. Cunha, I. Ramos and A. Campilho, "Towards an automatic lung cancer screening system in low dose computed tomography",
@@ -2671,7 +2671,7 @@ subtitle: The full list. With links to the pdf whenever the Taverne Amendment al
  <small>
  <a href="/assets/pdf/ghaf18.pdf"><code>PDF</code></a>
  <a href="https://doi.org/10.1117/12.2293569"><code>DOI</code></a>
-  <a href="https://scholar.google.com/scholar?cites=14380272279536530363">Cited by ~14</a>
+  <a href="https://scholar.google.com/scholar?cites=14380272279536530363"><code>Google Scholar</code></a>
   </small> 
 </li>				
 <li>C. González-Gonzalo, B. Liefers, B. van Ginneken and C. Sánchez, "Improving weakly-supervised lesion localization with iterative saliency map refinement",
@@ -2694,7 +2694,7 @@ subtitle: The full list. With links to the pdf whenever the Taverne Amendment al
  <small>
  <a href="/assets/pdf/hump17.pdf"><code>PDF</code></a>
  <a href="https://doi.org/10.1117/12.2254349"><code>DOI</code></a>
-  <a href="https://scholar.google.com/scholar?cites=11043862804825340240">Cited by ~10</a>
+  <a href="https://scholar.google.com/scholar?cites=11043862804825340240"><code>Google Scholar</code></a>
   </small> 
 </li>				
 <li>T. van den Heuvel, H. Petros, S. Santini, C. de Korte and B. van Ginneken, "Combining Automated Image Analysis with Obstetric Sweeps for Prenatal Ultrasound Imaging in Developing Countries",
@@ -2710,7 +2710,7 @@ subtitle: The full list. With links to the pdf whenever the Taverne Amendment al
  <small>
  <a href="/assets/pdf/ciom17.pdf"><code>PDF</code></a>
  <a href="https://doi.org/10.1109/ISBI.2017.7950492"><code>DOI</code></a>
-  <a href="https://scholar.google.com/scholar?cites=4102008958123816219">Cited by ~75</a>
+  <a href="https://scholar.google.com/scholar?cites=4102008958123816219"><code>Google Scholar</code></a>
   </small> 
 </li>				
 <li>M. Ghafoorian, A. Mehrtash, T. Kapur, N. Karssemeijer, E. Marchiori, M. Pesteie, C. Guttmann, F. de Leeuw, C. Tempany, B. van Ginneken, A. Fedorov, P. Abolmaesumi, B. Platel and W. Wells, "Transfer Learning for Domain Adaptation in MRI: Application in Brain Lesion Segmentation",
@@ -2718,7 +2718,7 @@ subtitle: The full list. With links to the pdf whenever the Taverne Amendment al
  <small>
  <a href="/assets/pdf/ghaf17b.pdf"><code>PDF</code></a>
  <a href="https://doi.org/10.1007/978-3-319-66179-7_59"><code>DOI</code></a>
-  <a href="https://scholar.google.com/scholar?cites=14433108461414425390">Cited by ~124</a>
+  <a href="https://scholar.google.com/scholar?cites=14433108461414425390"><code>Google Scholar</code></a>
   </small> 
 </li>				
 <li>T. van den Heuvel, H. Petros, S. Santini, C. de Korte and B. van Ginneken, "A step towards measuring the fetal head circumference with the use of obstetric ultrasound in a low resource setting",
@@ -2750,7 +2750,7 @@ subtitle: The full list. With links to the pdf whenever the Taverne Amendment al
  <small>
  <a href="/assets/pdf/band17.pdf"><code>PDF</code></a>
  <a href="https://doi.org/10.1109/ISBI.2017.7950590"><code>DOI</code></a>
-  <a href="https://scholar.google.com/scholar?cites=564398722349753208">Cited by ~14</a>
+  <a href="https://scholar.google.com/scholar?cites=564398722349753208"><code>Google Scholar</code></a>
   </small> 
 </li>				
 <li>N. Lessmann, I. Išgum, A. Setio, B. de Vos, F. Ciompi, P. de Jong, M. Oudkerk, W. Mali, M. Viergever and B. van Ginneken, "Deep convolutional neural networks for automatic coronary calcium scoring in a screening study with low-dose chest CT",
@@ -2758,7 +2758,7 @@ subtitle: The full list. With links to the pdf whenever the Taverne Amendment al
  <small>
  <a href="/assets/pdf/less16.pdf"><code>PDF</code></a>
  <a href="https://doi.org/10.1117/12.2216978"><code>DOI</code></a>
-  <a href="https://scholar.google.com/scholar?cites=11932712040638875797">Cited by ~25</a>
+  <a href="https://scholar.google.com/scholar?cites=11932712040638875797"><code>Google Scholar</code></a>
   </small> 
 </li>				
 <li>M. Ghafoorian, N. Karssemeijer, T. Heskes, I. van Uden, F. de Leeuw, E. Marchiori, B. van Ginneken and B. Platel, "Non-uniform patch sampling with deep convolutional neural networks for white matter hyperintensity segmentation",
@@ -2766,7 +2766,7 @@ subtitle: The full list. With links to the pdf whenever the Taverne Amendment al
  <small>
  <a href="/assets/pdf/ghaf16.pdf"><code>PDF</code></a>
  <a href="https://doi.org/10.1109/ISBI.2016.7493532"><code>DOI</code></a>
-  <a href="https://scholar.google.com/scholar?cites=13928783358122591393">Cited by ~47</a>
+  <a href="https://scholar.google.com/scholar?cites=13928783358122591393"><code>Google Scholar</code></a>
   </small> 
 </li>				
 <li>F. Ciompi, C. Jacobs, E. Scholten, S. van Riel, M. Wille, M. Prokop and B. van Ginneken, "Automatic detection of spiculation of pulmonary nodules in Computed Tomography images",
@@ -2798,7 +2798,7 @@ subtitle: The full list. With links to the pdf whenever the Taverne Amendment al
  <small>
  <a href="/assets/pdf/ginn15.pdf"><code>PDF</code></a>
  <a href="https://doi.org/10.1109/ISBI.2015.7163869"><code>DOI</code></a>
-  <a href="https://scholar.google.com/scholar?cites=3459188085599203383">Cited by ~227</a>
+  <a href="https://scholar.google.com/scholar?cites=3459188085599203383"><code>Google Scholar</code></a>
   </small> 
 </li>				
 <li>F. Venhuizen, B. van Ginneken, B. Bloemen, M. van Grinsven, R. Philipsen, C. Hoyng, T. Theelen and C. Sánchez, "Automated Age-Related Macular Degeneration Classification in OCT using Unsupervised Feature Learning",
@@ -2806,7 +2806,7 @@ subtitle: The full list. With links to the pdf whenever the Taverne Amendment al
  <small>
  <a href="/assets/pdf/venh15b.pdf"><code>PDF</code></a>
  <a href="https://doi.org/10.1117/12.2081521"><code>DOI</code></a>
-  <a href="https://scholar.google.com/scholar?cites=6530553375448056275">Cited by ~45</a>
+  <a href="https://scholar.google.com/scholar?cites=6530553375448056275"><code>Google Scholar</code></a>
   </small> 
 </li>				
 <li>S. Rabbani, P. Maduskar, R. Philipsen, L. Hogeweg and B. van Ginneken, "Effect of image variation on computer aided detection systems",
@@ -2822,7 +2822,7 @@ subtitle: The full list. With links to the pdf whenever the Taverne Amendment al
  <small>
  <a href="/assets/pdf/mele14.pdf"><code>PDF</code></a>
  <a href="https://doi.org/10.1117/12.2043018"><code>DOI</code></a>
-  <a href="https://scholar.google.com/scholar?cites=7361253230908315066">Cited by ~11</a>
+  <a href="https://scholar.google.com/scholar?cites=7361253230908315066"><code>Google Scholar</code></a>
   </small> 
 </li>				
 <li>C. Jacobs, S. Opdam, E. van Rikxoort, O. Mets, J. Rooyackers, P. de Jong, M. Prokop and B. van Ginneken, "Automated detection and quantification of micronodules in thoracic CT scans to identify subjects at risk for silicosis",
@@ -2838,7 +2838,7 @@ subtitle: The full list. With links to the pdf whenever the Taverne Amendment al
  <small>
  <a href="/assets/pdf/madu13.pdf"><code>PDF</code></a>
  <a href="https://doi.org/10.1117/12.2008083"><code>DOI</code></a>
-  <a href="https://scholar.google.com/scholar?cites=5079156226762569028">Cited by ~20</a>
+  <a href="https://scholar.google.com/scholar?cites=5079156226762569028"><code>Google Scholar</code></a>
   </small> 
 </li>				
 <li>P. Maduskar, L. Hogeweg, R. Philipsen and B. van Ginneken, "Automated localization of costophrenic recesses and costophrenic angle measurement on frontal chest radiographs",
@@ -2854,7 +2854,7 @@ subtitle: The full list. With links to the pdf whenever the Taverne Amendment al
  <small>
  <a href="/assets/pdf/grin13b.pdf"><code>PDF</code></a>
  <a href="https://doi.org/10.1109/ISBI.2013.6556806"><code>DOI</code></a>
-  <a href="https://scholar.google.com/scholar?cites=17742882494926958127">Cited by ~20</a>
+  <a href="https://scholar.google.com/scholar?cites=17742882494926958127"><code>Google Scholar</code></a>
   </small> 
 </li>				
 <li>R. Philipsen, P. Maduskar, L. Hogeweg and B. van Ginneken, "Normalization of Chest Radiographs",
@@ -2862,7 +2862,7 @@ subtitle: The full list. With links to the pdf whenever the Taverne Amendment al
  <small>
  <a href="/assets/pdf/phil13.pdf"><code>PDF</code></a>
  <a href="https://doi.org/10.1117/12.2008238"><code>DOI</code></a>
-  <a href="https://scholar.google.com/scholar?cites=7051742070683067485">Cited by ~10</a>
+  <a href="https://scholar.google.com/scholar?cites=7051742070683067485"><code>Google Scholar</code></a>
   </small> 
 </li>				
 <li>L. Gallardo-Estrella, B. van Ginneken and E. van Rikxoort, "Normalization of CT scans reconstructed with different kernels to reduce variability in emphysema measurements",
@@ -2977,7 +2977,7 @@ subtitle: The full list. With links to the pdf whenever the Taverne Amendment al
  <a href="/assets/pdf/jaco11.pdf"><code>PDF</code></a>
  <a href="https://doi.org/10.1007/978-3-642-23626-6_26"><code>DOI</code></a>
  <a href="http://www.ncbi.nlm.nih.gov/pubmed/22003701"><code>PubMed</code></a>
- <a href="https://scholar.google.com/scholar?cites=8841871000202912452">Cited by ~40</a>
+ <a href="https://scholar.google.com/scholar?cites=8841871000202912452"><code>Google Scholar</code></a>
   </small> 
 </li>				
 <li>M. Samulski, P. Snoeren, B. Platel, B. van Ginneken, L. Hogeweg, C. Schaefer-Prokop and N. Karssemeijer, "Computer-Aided Detection as a Decision Assistant in Chest Radiography",
@@ -3005,7 +3005,7 @@ subtitle: The full list. With links to the pdf whenever the Taverne Amendment al
 <i>The Fourth International Workshop on Pulmonary Image Analysis, </i>2011:261-268.
  <small>
  <a href="/assets/pdf/rikx11d.pdf"><code>PDF</code></a>
- <a href="https://scholar.google.com/scholar?cites=6106095811807054823">Cited by ~26</a>
+ <a href="https://scholar.google.com/scholar?cites=6106095811807054823"><code>Google Scholar</code></a>
   </small> 
 </li>				
 <li>M. Niemeijer, A. Dumitrescu, B. van Ginneken and M. Abràmoff, "Automatic localization of bifurcations and vessel crossings in digital fundus photographs using location regression",
@@ -3022,7 +3022,7 @@ subtitle: The full list. With links to the pdf whenever the Taverne Amendment al
  <a href="/assets/pdf/hoge10a.pdf"><code>PDF</code></a>
  <a href="https://doi.org/10.1007/978-3-642-15711-0_81"><code>DOI</code></a>
  <a href="http://www.ncbi.nlm.nih.gov/pubmed/20879456"><code>PubMed</code></a>
- <a href="https://scholar.google.com/scholar?cites=938566649715148496">Cited by ~71</a>
+ <a href="https://scholar.google.com/scholar?cites=938566649715148496"><code>Google Scholar</code></a>
   </small> 
 </li>				
 <li>C. Sánchez, M. Niemeijer, M. Abràmoff and B. van Ginneken, "Active learning for an efficient training strategy of computer-aided diagnosis systems: application to diabetic retinopathy screening",
@@ -3031,7 +3031,7 @@ subtitle: The full list. With links to the pdf whenever the Taverne Amendment al
  <a href="/assets/pdf/sanc10a.pdf"><code>PDF</code></a>
  <a href="https://doi.org/10.1007/978-3-642-15711-0_75"><code>DOI</code></a>
  <a href="http://www.ncbi.nlm.nih.gov/pubmed/20879450"><code>PubMed</code></a>
- <a href="https://scholar.google.com/scholar?cites=17509952020796744898">Cited by ~15</a>
+ <a href="https://scholar.google.com/scholar?cites=17509952020796744898"><code>Google Scholar</code></a>
   </small> 
 </li>				
 <li>G. Litjens, L. Hogeweg, A. Schilham, P. de Jong, M. Viergever and B. van Ginneken, "Simulation of nodules and diffuse infiltrates in chest radiographs using CT templates",
@@ -3055,7 +3055,7 @@ subtitle: The full list. With links to the pdf whenever the Taverne Amendment al
  <small>
  <a href="/assets/pdf/kock10a.pdf"><code>PDF</code></a>
  <a href="https://doi.org/10.1109/ISBI.2010.5490285"><code>DOI</code></a>
-  <a href="https://scholar.google.com/scholar?cites=17284129500278835313">Cited by ~22</a>
+  <a href="https://scholar.google.com/scholar?cites=17284129500278835313"><code>Google Scholar</code></a>
   </small> 
 </li>				
 <li>M. Niemeijer, B. van Ginneken and M. Abràmoff, "Automatic determination of the artery vein ratio in retinal images",
@@ -3063,7 +3063,7 @@ subtitle: The full list. With links to the pdf whenever the Taverne Amendment al
  <small>
  <a href="/assets/pdf/niem10a.pdf"><code>PDF</code></a>
  <a href="https://doi.org/10.1117/12.844469"><code>DOI</code></a>
-  <a href="https://scholar.google.com/scholar?cites=4396585503730942977">Cited by ~23</a>
+  <a href="https://scholar.google.com/scholar?cites=4396585503730942977"><code>Google Scholar</code></a>
   </small> 
 </li>				
 <li>I. Išgum, M. Prokop, P. Jacobs, M. Gondrie, W. Mali, M. Viergever and B. van Ginneken, "Automatic coronary calcium scoring in low-dose non-ECG-synchronized thoracic CT scans",
@@ -3079,7 +3079,7 @@ subtitle: The full list. With links to the pdf whenever the Taverne Amendment al
  <small>
  <a href="/assets/pdf/dong10.pdf"><code>PDF</code></a>
  <a href="https://doi.org/10.1109/ISBI.2010.5490088"><code>DOI</code></a>
-  <a href="https://scholar.google.com/scholar?cites=17657664511689579052">Cited by ~25</a>
+  <a href="https://scholar.google.com/scholar?cites=17657664511689579052"><code>Google Scholar</code></a>
   </small> 
 </li>				
 <li>P. Lo, B. van Ginneken and M. de Bruijne, "Vessel tree extraction using locally optimal paths",
@@ -3087,7 +3087,7 @@ subtitle: The full list. With links to the pdf whenever the Taverne Amendment al
  <small>
  <a href="/assets/pdf/lo10.pdf"><code>PDF</code></a>
  <a href="https://doi.org/10.1109/ISBI.2010.5490083"><code>DOI</code></a>
-  <a href="https://scholar.google.com/scholar?cites=3547575388613335105">Cited by ~25</a>
+  <a href="https://scholar.google.com/scholar?cites=3547575388613335105"><code>Google Scholar</code></a>
   </small> 
 </li>				
 <li>E. Smit, J. Dankbaar, A. Mendrik, B. van Ginneken, E. Vonken and M. Prokop, "Reconstruction of High Quality CT Angiography from Noisy Cerebral CT Perfusion Data",
@@ -3101,7 +3101,7 @@ subtitle: The full list. With links to the pdf whenever the Taverne Amendment al
  <small>
  <a href="/assets/pdf/sanc10.pdf"><code>PDF</code></a>
  <a href="https://doi.org/10.1109/ISBI.2010.5490429"><code>DOI</code></a>
-  <a href="https://scholar.google.com/scholar?cites=1493852564349449873">Cited by ~33</a>
+  <a href="https://scholar.google.com/scholar?cites=1493852564349449873"><code>Google Scholar</code></a>
   </small> 
 </li>				
 <li>B. van Ginneken, "Computer-aided diagnosis in chest imaging: how to improve performance and avoid reinventing the wheel",
@@ -3124,7 +3124,7 @@ subtitle: The full list. With links to the pdf whenever the Taverne Amendment al
 <i>Medical Image Analysis for the Clinic - A Grand Challenge, </i>2010:11-22.
  <small>
  <a href="/assets/pdf/murp10a.pdf"><code>PDF</code></a>
- <a href="https://scholar.google.com/scholar?cites=13824588902399310721">Cited by ~45</a>
+ <a href="https://scholar.google.com/scholar?cites=13824588902399310721"><code>Google Scholar</code></a>
   </small> 
 </li>				
 <li>E. van Rikxoort, M. Galperin-Aizenberg, J. Goldin, T. Kockelkorn, B. van Ginneken and M. Brown, "Multi-classifier semi-supervised classification of tuberculosis patterns on chest CT scans",
@@ -3139,7 +3139,7 @@ subtitle: The full list. With links to the pdf whenever the Taverne Amendment al
  <small>
  <a href="/assets/pdf/hoge10.pdf"><code>PDF</code></a>
  <a href="https://doi.org/10.1117/12.844409"><code>DOI</code></a>
-  <a href="https://scholar.google.com/scholar?cites=3846607945750329588">Cited by ~12</a>
+  <a href="https://scholar.google.com/scholar?cites=3846607945750329588"><code>Google Scholar</code></a>
   </small> 
 </li>				
 <li>T. Kockelkorn, P. de Jong, H. Gietema, J. Grutters, M. Prokop and B. van Ginneken, "Interactive annotation of textures in thoracic CT scans",
@@ -3147,7 +3147,7 @@ subtitle: The full list. With links to the pdf whenever the Taverne Amendment al
  <small>
  <a href="/assets/pdf/kock10.pdf"><code>PDF</code></a>
  <a href="https://doi.org/10.1117/12.844932"><code>DOI</code></a>
-  <a href="https://scholar.google.com/scholar?cites=472504484418187668">Cited by ~11</a>
+  <a href="https://scholar.google.com/scholar?cites=472504484418187668"><code>Google Scholar</code></a>
   </small> 
 </li>				
 <li>A. Mendrik, E. Vonken, J. Dankbaar, M. Prokop and B. van Ginneken, "Noise filtering in thin-slice 4D cerebral CT perfusion scans",
@@ -3162,7 +3162,7 @@ subtitle: The full list. With links to the pdf whenever the Taverne Amendment al
 <i>Medical Image Analysis for the Clinic - A Grand Challenge, </i>2010:127-136.
  <small>
  <a href="/assets/pdf/muen10.pdf"><code>PDF</code></a>
- <a href="https://scholar.google.com/scholar?cites=13737076938483379783">Cited by ~13</a>
+ <a href="https://scholar.google.com/scholar?cites=13737076938483379783"><code>Google Scholar</code></a>
   </small> 
 </li>				
 <li>E. van Rikxoort, M. Prokop, B. de Hoop, M. Viergever, J. Pluim and B. van Ginneken, "Automatic segmentation of the pulmonary lobes from fissures, airways, and lung borders: evaluation of robustness against missing data",
@@ -3171,7 +3171,7 @@ subtitle: The full list. With links to the pdf whenever the Taverne Amendment al
  <a href="/assets/pdf/rikx09a.pdf"><code>PDF</code></a>
  <a href="https://doi.org/10.1007/978-3-642-04268-3_33"><code>DOI</code></a>
  <a href="http://www.ncbi.nlm.nih.gov/pubmed/20425996"><code>PubMed</code></a>
- <a href="https://scholar.google.com/scholar?cites=15092302850885680539">Cited by ~26</a>
+ <a href="https://scholar.google.com/scholar?cites=15092302850885680539"><code>Google Scholar</code></a>
   </small> 
 </li>				
 <li>M. Niemeijer, B. van Ginneken and M. Abràmoff, "A Linking Framework for Pixel Classification Based Retinal Vessel Segmentation",
@@ -3179,7 +3179,7 @@ subtitle: The full list. With links to the pdf whenever the Taverne Amendment al
  <small>
  <a href="/assets/pdf/niem09d.pdf"><code>PDF</code></a>
  <a href="https://doi.org/10.1117/12.811653"><code>DOI</code></a>
-  <a href="https://scholar.google.com/scholar?cites=14163524361307936981">Cited by ~14</a>
+  <a href="https://scholar.google.com/scholar?cites=14163524361307936981"><code>Google Scholar</code></a>
   </small> 
 </li>				
 <li>C. Sánchez, M. Niemeijer, T. Kockelkorn, M. Abràmoff and B. van Ginneken, "Active learning approach for detection of hard exudates, cotton wool spots, and drusen in retinal images",
@@ -3187,7 +3187,7 @@ subtitle: The full list. With links to the pdf whenever the Taverne Amendment al
  <small>
  <a href="/assets/pdf/sanc09.pdf"><code>PDF</code></a>
  <a href="https://doi.org/10.1117/12.813679"><code>DOI</code></a>
-  <a href="https://scholar.google.com/scholar?cites=7951641732601365129">Cited by ~10</a>
+  <a href="https://scholar.google.com/scholar?cites=7951641732601365129"><code>Google Scholar</code></a>
   </small> 
 </li>				
 <li>P. Lo, B. van Ginneken, J. Reinhardt and M. de Bruijne, "Extraction of Airways from CT (EXACT09)",
@@ -3201,7 +3201,7 @@ subtitle: The full list. With links to the pdf whenever the Taverne Amendment al
  <small>
  <a href="/assets/pdf/niem09c.pdf"><code>PDF</code></a>
  <a href="https://doi.org/10.1117/12.813826"><code>DOI</code></a>
-  <a href="https://scholar.google.com/scholar?cites=17967959879140071576">Cited by ~74</a>
+  <a href="https://scholar.google.com/scholar?cites=17967959879140071576"><code>Google Scholar</code></a>
   </small> 
 </li>				
 <li>S. Kabus, T. Klinder, K. Murphy, B. van Ginneken, C. Lorenz and J. Pluim, "Evaluation of 4D-CT Lung Registration",
@@ -3209,7 +3209,7 @@ subtitle: The full list. With links to the pdf whenever the Taverne Amendment al
  <small>
  <a href="/assets/pdf/kabu09.pdf"><code>PDF</code></a>
  <a href="https://doi.org/10.1007/978-3-642-04268-3_92"><code>DOI</code></a>
-  <a href="https://scholar.google.com/scholar?cites=7155069862442251787">Cited by ~82</a>
+  <a href="https://scholar.google.com/scholar?cites=7155069862442251787"><code>Google Scholar</code></a>
   </small> 
 </li>				
 <li>M. Niemeijer, M. Garvin, K. Lee, B. van Ginneken, M. Abràmoff and M. Sonka, "Registration of 3D spectral OCT volumes using 3D SIFT feature point matching",
@@ -3217,7 +3217,7 @@ subtitle: The full list. With links to the pdf whenever the Taverne Amendment al
  <small>
  <a href="/assets/pdf/niem09b.pdf"><code>PDF</code></a>
  <a href="https://doi.org/10.1117/12.811906"><code>DOI</code></a>
-  <a href="https://scholar.google.com/scholar?cites=11931099815327808952">Cited by ~58</a>
+  <a href="https://scholar.google.com/scholar?cites=11931099815327808952"><code>Google Scholar</code></a>
   </small> 
 </li>				
 <li>Y. Arzhaeva, L. Hogeweg, P. de Jong, M. Viergever and B. van Ginneken, "Global and Local Multi-valued Dissimilarity-Based Classification: Application to Computer-Aided Detection of Tuberculosis",
@@ -3225,14 +3225,14 @@ subtitle: The full list. With links to the pdf whenever the Taverne Amendment al
  <small>
  <a href="/assets/pdf/arzh09b.pdf"><code>PDF</code></a>
  <a href="https://doi.org/10.1007/978-3-642-04271-3_88"><code>DOI</code></a>
-  <a href="https://scholar.google.com/scholar?cites=14232725066672225972">Cited by ~24</a>
+  <a href="https://scholar.google.com/scholar?cites=14232725066672225972"><code>Google Scholar</code></a>
   </small> 
 </li>				
 <li>E. van Rikxoort, W. Baggerman and B. van Ginneken, "Automatic segmentation of the airway tree from thoracic CT scans using a multi-threshold approach",
 <i>The Second International Workshop on Pulmonary Image Analysis, </i>2009:341-349.
  <small>
  <a href="/assets/pdf/rikx09c.pdf"><code>PDF</code></a>
- <a href="https://scholar.google.com/scholar?cites=13063578325072036697">Cited by ~27</a>
+ <a href="https://scholar.google.com/scholar?cites=13063578325072036697"><code>Google Scholar</code></a>
   </small> 
 </li>				
 <li>A. Mendrik, E. Vonken, A. Waaijer, E. Smit, M. Prokop and B. van Ginneken, "Segmentation of arteries and veins on 4D CT perfusion scans for constructing arteriograms and venograms",
@@ -3256,7 +3256,7 @@ subtitle: The full list. With links to the pdf whenever the Taverne Amendment al
  <small>
  <a href="/assets/pdf/muen09.pdf"><code>PDF</code></a>
  <a href="https://doi.org/10.1117/12.812659"><code>DOI</code></a>
-  <a href="https://scholar.google.com/scholar?cites=479701880220897797">Cited by ~10</a>
+  <a href="https://scholar.google.com/scholar?cites=479701880220897797"><code>Google Scholar</code></a>
   </small> 
 </li>				
 <li>M. Niemeijer, M. Abràmoff and B. van Ginneken, "Automated localization of the optic disc and the fovea",
@@ -3265,7 +3265,7 @@ subtitle: The full list. With links to the pdf whenever the Taverne Amendment al
  <a href="/assets/pdf/niem08.pdf"><code>PDF</code></a>
  <a href="https://doi.org/10.1109/IEMBS.2008.4649969"><code>DOI</code></a>
  <a href="http://www.ncbi.nlm.nih.gov/pubmed/19163472"><code>PubMed</code></a>
- <a href="https://scholar.google.com/scholar?cites=17667278035436647511">Cited by ~32</a>
+ <a href="https://scholar.google.com/scholar?cites=17667278035436647511"><code>Google Scholar</code></a>
   </small> 
 </li>				
 <li>K. Murphy, B. van Ginneken, S. Klein, M. Staring and J. Pluim, "Semi-Automatic Reference Standard Construction for Quantitative Evaluation of Lung CT Registration",
@@ -3274,7 +3274,7 @@ subtitle: The full list. With links to the pdf whenever the Taverne Amendment al
  <a href="/assets/pdf/murp08.pdf"><code>PDF</code></a>
  <a href="https://doi.org/10.1007/978-3-540-85990-1_121"><code>DOI</code></a>
  <a href="http://www.ncbi.nlm.nih.gov/pubmed/18982703"><code>PubMed</code></a>
- <a href="https://scholar.google.com/scholar?cites=12888240555944431806">Cited by ~86</a>
+ <a href="https://scholar.google.com/scholar?cites=12888240555944431806"><code>Google Scholar</code></a>
   </small> 
 </li>				
 <li>B. van Ginneken, W. Baggerman and E. van Rikxoort, "Robust segmentation and anatomical labeling of the airway tree from thoracic CT scans",
@@ -3283,7 +3283,7 @@ subtitle: The full list. With links to the pdf whenever the Taverne Amendment al
  <a href="/assets/pdf/ginn08.pdf"><code>PDF</code></a>
  <a href="https://doi.org/10.1007/978-3-540-85988-8_27"><code>DOI</code></a>
  <a href="http://www.ncbi.nlm.nih.gov/pubmed/18979751"><code>PubMed</code></a>
- <a href="https://scholar.google.com/scholar?cites=11381407062701827735">Cited by ~95</a>
+ <a href="https://scholar.google.com/scholar?cites=11381407062701827735"><code>Google Scholar</code></a>
   </small> 
 </li>				
 <li>E. van Rikxoort, M. de Bruijne and B. van Ginneken, "Integrating local voxel classification and global shape models for medical image segmentation",
@@ -3306,7 +3306,7 @@ subtitle: The full list. With links to the pdf whenever the Taverne Amendment al
  <small>
  <a href="/assets/pdf/rikx08.pdf"><code>PDF</code></a>
  <a href="https://doi.org/10.1117/12.772301"><code>DOI</code></a>
-  <a href="https://scholar.google.com/scholar?cites=403647541700125074">Cited by ~24</a>
+  <a href="https://scholar.google.com/scholar?cites=403647541700125074"><code>Google Scholar</code></a>
   </small> 
 </li>				
 <li>M. Niemeijer, M. Garvin, B. van Ginneken, M. Sonka and M. Abràmoff, "Vessel segmentation in 3D spectral OCT scans of the retina",
@@ -3314,7 +3314,7 @@ subtitle: The full list. With links to the pdf whenever the Taverne Amendment al
  <small>
  <a href="/assets/pdf/niem08a.pdf"><code>PDF</code></a>
  <a href="https://doi.org/10.1117/12.772680"><code>DOI</code></a>
-  <a href="https://scholar.google.com/scholar?cites=7748171457790516188">Cited by ~88</a>
+  <a href="https://scholar.google.com/scholar?cites=7748171457790516188"><code>Google Scholar</code></a>
   </small> 
 </li>				
 <li>B. van Ginneken, A. Tan, K. Murphy, B. de Hoop and M. Prokop, "Automated detection of nodules attached to the pleural and mediastinal surface in low-dose CT scans",
@@ -3334,7 +3334,7 @@ subtitle: The full list. With links to the pdf whenever the Taverne Amendment al
 <i>3D Segmentation in the Clinic: A Grand Challenge, </i>2007:29-36.
  <small>
  <a href="/assets/pdf/rikx07a.pdf"><code>PDF</code></a>
- <a href="https://scholar.google.com/scholar?cites=4292505718482622984">Cited by ~12</a>
+ <a href="https://scholar.google.com/scholar?cites=4292505718482622984"><code>Google Scholar</code></a>
   </small> 
 </li>				
 <li>K. Murphy, A. Schilham, H. Gietema, M. Prokop and B. van Ginneken, "Automated detection of pulmonary nodules from low-dose computed tomography scans using a two-stage classification system based on local image features",
@@ -3342,7 +3342,7 @@ subtitle: The full list. With links to the pdf whenever the Taverne Amendment al
  <small>
  <a href="/assets/pdf/murp07.pdf"><code>PDF</code></a>
  <a href="https://doi.org/10.1117/12.713370"><code>DOI</code></a>
-  <a href="https://scholar.google.com/scholar?cites=11443400652096701431">Cited by ~22</a>
+  <a href="https://scholar.google.com/scholar?cites=11443400652096701431"><code>Google Scholar</code></a>
   </small> 
 </li>				
 <li>Y. Arzhaeva, E. van Rikxoort and B. van Ginneken, "Automated segmentation of caudate nucleus in MR brain images with voxel classification",
@@ -3358,7 +3358,7 @@ subtitle: The full list. With links to the pdf whenever the Taverne Amendment al
  <a href="/assets/pdf/ginn06.pdf"><code>PDF</code></a>
  <a href="https://doi.org/10.1007/11866763_112"><code>DOI</code></a>
  <a href="http://www.ncbi.nlm.nih.gov/pubmed/17354860"><code>PubMed</code></a>
- <a href="https://scholar.google.com/scholar?cites=11048173155976316259">Cited by ~42</a>
+ <a href="https://scholar.google.com/scholar?cites=11048173155976316259"><code>Google Scholar</code></a>
   </small> 
 </li>				
 <li>Y. Arzhaeva, B. van Ginneken and D. Tax, "Image classification from generalized image distance features: application to detection of interstitial disease in chest radiographs",
@@ -3374,7 +3374,7 @@ subtitle: The full list. With links to the pdf whenever the Taverne Amendment al
  <small>
  <a href="/assets/pdf/klik06.pdf"><code>PDF</code></a>
  <a href="https://doi.org/10.1109/ISBI.2006.1624961"><code>DOI</code></a>
-  <a href="https://scholar.google.com/scholar?cites=8798156317069698629">Cited by ~11</a>
+  <a href="https://scholar.google.com/scholar?cites=8798156317069698629"><code>Google Scholar</code></a>
   </small> 
 </li>				
 <li>A. Schilham and B. van Ginneken, "Simulating nodules in chest radiographs with real nodules from multi-slice CT images",
@@ -3398,7 +3398,7 @@ subtitle: The full list. With links to the pdf whenever the Taverne Amendment al
  <small>
  <a href="/assets/pdf/ginn06a.pdf"><code>PDF</code></a>
  <a href="https://doi.org/10.1109/ICPR.2006.685"><code>DOI</code></a>
-  <a href="https://scholar.google.com/scholar?cites=6718720819333291168">Cited by ~15</a>
+  <a href="https://scholar.google.com/scholar?cites=6718720819333291168"><code>Google Scholar</code></a>
   </small> 
 </li>				
 <li>M. Loog and B. van Ginneken, "Bony Structure Suppression in Chest Radiographs",
@@ -3406,7 +3406,7 @@ subtitle: The full list. With links to the pdf whenever the Taverne Amendment al
  <small>
  <a href="/assets/pdf/loog06.pdf"><code>PDF</code></a>
  <a href="https://doi.org/10.1007/11889762_15"><code>DOI</code></a>
-  <a href="https://scholar.google.com/scholar?cites=5428199913642700502">Cited by ~12</a>
+  <a href="https://scholar.google.com/scholar?cites=5428199913642700502"><code>Google Scholar</code></a>
   </small> 
 </li>				
 <li>A. Mendrik, E. Vonken, A. Schilham, M. Viergever and B. van Ginneken, "Hybrid diffusion compared with existing diffusion schemes on simulated low dose CT scans",
@@ -3422,7 +3422,7 @@ subtitle: The full list. With links to the pdf whenever the Taverne Amendment al
  <small>
  <a href="/assets/pdf/arzh06a.pdf"><code>PDF</code></a>
  <a href="https://doi.org/10.1117/12.652208"><code>DOI</code></a>
-  <a href="https://scholar.google.com/scholar?cites=9920783540454814909">Cited by ~12</a>
+  <a href="https://scholar.google.com/scholar?cites=9920783540454814909"><code>Google Scholar</code></a>
   </small> 
 </li>				
 <li>A. Schilham, M. Prokop, H. Gietema and B. van Ginneken, "Local noise reduction for emphysema scoring in low-dose CT images",
@@ -3436,14 +3436,14 @@ subtitle: The full list. With links to the pdf whenever the Taverne Amendment al
 <i>The 3rd European Medical and Biological Engineering Conference, </i>2005:1832 (1-6).
  <small>
  <a href="/assets/pdf/niem05c.pdf"><code>PDF</code></a>
- <a href="https://scholar.google.com/scholar?cites=5626891224991621892">Cited by ~15</a>
+ <a href="https://scholar.google.com/scholar?cites=5626891224991621892"><code>Google Scholar</code></a>
   </small> 
 </li>				
 <li>M. Niemeijer, B. van Ginneken, F. ter Haar and M. Abràmoff, "Automatic Detection of the Optic Disc, Fovea and Vascular Arch in Digital Color Photographs of the Retina",
 <i>Proceedings of the British Machine Vision Conference, </i>2005:109-118.
  <small>
  <a href="/assets/pdf/niem05a.pdf"><code>PDF</code></a>
- <a href="https://scholar.google.com/scholar?cites=9478136858074324990">Cited by ~26</a>
+ <a href="https://scholar.google.com/scholar?cites=9478136858074324990"><code>Google Scholar</code></a>
   </small> 
 </li>				
 <li>I. Išgum, B. van Ginneken, A. Rutten and M. Prokop, "Automated coronary calcification detection and scoring",
@@ -3458,14 +3458,14 @@ subtitle: The full list. With links to the pdf whenever the Taverne Amendment al
  <small>
  <a href="/assets/pdf/loog04e.pdf"><code>PDF</code></a>
  <a href="https://doi.org/10.1007/978-3-540-24670-1_43"><code>DOI</code></a>
-  <a href="https://scholar.google.com/scholar?cites=13168417199997445959">Cited by ~20</a>
+  <a href="https://scholar.google.com/scholar?cites=13168417199997445959"><code>Google Scholar</code></a>
   </small> 
 </li>				
 <li>J. Staal, B. van Ginneken and M. Viergever, "Automatic rib segmentation in CT data",
 <i>Computer Vision Approaches to Medical Image Analysis and Mathematical Methods in Biomedical Image Analysis, </i>2004;3117:193-204.
  <small>
  <a href="/assets/pdf/staa04b.pdf"><code>PDF</code></a>
- <a href="https://scholar.google.com/scholar?cites=917845112200227194">Cited by ~16</a>
+ <a href="https://scholar.google.com/scholar?cites=917845112200227194"><code>Google Scholar</code></a>
   </small> 
 </li>				
 <li>M. Loog and B. van Ginneken, "Static posterior probability fusion for signal detection: applications in the detection of interstitial diseases in chest radiographs",
@@ -3473,7 +3473,7 @@ subtitle: The full list. With links to the pdf whenever the Taverne Amendment al
  <small>
  <a href="/assets/pdf/loog04d.pdf"><code>PDF</code></a>
  <a href="https://doi.org/10.1109/ICPR.2004.1334244"><code>DOI</code></a>
-  <a href="https://scholar.google.com/scholar?cites=4373819761535258462">Cited by ~36</a>
+  <a href="https://scholar.google.com/scholar?cites=4373819761535258462"><code>Google Scholar</code></a>
   </small> 
 </li>				
 <li>I. Išgum, B. van Ginneken and M. Prokop, "A pattern recognition approach to automated coronary calcium scoring",
@@ -3481,7 +3481,7 @@ subtitle: The full list. With links to the pdf whenever the Taverne Amendment al
  <small>
  <a href="/assets/pdf/isgu04a.pdf"><code>PDF</code></a>
  <a href="https://doi.org/10.1109/ICPR.2004.1334636"><code>DOI</code></a>
-  <a href="https://scholar.google.com/scholar?cites=10038102016891366329">Cited by ~10</a>
+  <a href="https://scholar.google.com/scholar?cites=10038102016891366329"><code>Google Scholar</code></a>
   </small> 
 </li>				
 <li>I. Sluimer, M. Niemeijer and B. van Ginneken, "Lung field segmentation from thin-slice CT scans in presence of severe pathology",
@@ -3489,7 +3489,7 @@ subtitle: The full list. With links to the pdf whenever the Taverne Amendment al
  <small>
  <a href="/assets/pdf/slui04.pdf"><code>PDF</code></a>
  <a href="https://doi.org/10.1117/12.535312"><code>DOI</code></a>
-  <a href="https://scholar.google.com/scholar?cites=97306129207600256">Cited by ~32</a>
+  <a href="https://scholar.google.com/scholar?cites=97306129207600256"><code>Google Scholar</code></a>
   </small> 
 </li>				
 <li>M. Loog, B. van Ginneken and M. Nielsen, "Detection of interstitial lung disease in PA chest radiographs",
@@ -3497,7 +3497,7 @@ subtitle: The full list. With links to the pdf whenever the Taverne Amendment al
  <small>
  <a href="/assets/pdf/loog04f.pdf"><code>PDF</code></a>
  <a href="https://doi.org/10.1117/12.535307"><code>DOI</code></a>
-  <a href="https://scholar.google.com/scholar?cites=14687688016231883918">Cited by ~10</a>
+  <a href="https://scholar.google.com/scholar?cites=14687688016231883918"><code>Google Scholar</code></a>
   </small> 
 </li>				
 <li>B. van Ginneken and M. Loog, "Pixel Position Regression - Application to medical image segmentation",
@@ -3505,7 +3505,7 @@ subtitle: The full list. With links to the pdf whenever the Taverne Amendment al
  <small>
  <a href="/assets/pdf/ginn04.pdf"><code>PDF</code></a>
  <a href="https://doi.org/10.1109/ICPR.2004.1334629"><code>DOI</code></a>
-  <a href="https://scholar.google.com/scholar?cites=2680329712311893870">Cited by ~11</a>
+  <a href="https://scholar.google.com/scholar?cites=2680329712311893870"><code>Google Scholar</code></a>
   </small> 
 </li>				
 <li>M. Niemeijer, J. Staal, B. van Ginneken, M. Loog and M. Abràmoff, "Comparative Study of Retinal Vessel Segmentation Methods on a New Publicly Available Database",
@@ -3513,7 +3513,7 @@ subtitle: The full list. With links to the pdf whenever the Taverne Amendment al
  <small>
  <a href="/assets/pdf/niem04a.pdf"><code>PDF</code></a>
  <a href="https://doi.org/10.1117/12.535349"><code>DOI</code></a>
-  <a href="https://scholar.google.com/scholar?cites=4847858369065721334">Cited by ~849</a>
+  <a href="https://scholar.google.com/scholar?cites=4847858369065721334"><code>Google Scholar</code></a>
   </small> 
 </li>				
 <li>M. de Bruijne, B. van Ginneken, M. Viergever and W. Niessen, "Adapting Active Shape Models for 3D segmentation of tubular structures in medical images",
@@ -3522,7 +3522,7 @@ subtitle: The full list. With links to the pdf whenever the Taverne Amendment al
  <a href="/assets/pdf/brui03.pdf"><code>PDF</code></a>
  <a href="https://doi.org/10.1007/b11820"><code>DOI</code></a>
  <a href="http://www.ncbi.nlm.nih.gov/pubmed/15344453"><code>PubMed</code></a>
- <a href="https://scholar.google.com/scholar?cites=2360432872690580120">Cited by ~185</a>
+ <a href="https://scholar.google.com/scholar?cites=2360432872690580120"><code>Google Scholar</code></a>
   </small> 
 </li>				
 <li>M. de Bruijne, B. van Ginneken, W. Niessen, M. Loog and M. Viergever, "Model-based segmentation of abdominal aortic aneurysms in CTA images",
@@ -3530,7 +3530,7 @@ subtitle: The full list. With links to the pdf whenever the Taverne Amendment al
  <small>
  <a href="/assets/pdf/brui03b.pdf"><code>PDF</code></a>
  <a href="https://doi.org/10.1117/12.481367"><code>DOI</code></a>
-  <a href="https://scholar.google.com/scholar?cites=5651884635784583934">Cited by ~25</a>
+  <a href="https://scholar.google.com/scholar?cites=5651884635784583934"><code>Google Scholar</code></a>
   </small> 
 </li>				
 <li>A. Schilham, B. van Ginneken and M. Loog, "Multi-scale nodule detection in chest radiographs",
@@ -3538,7 +3538,7 @@ subtitle: The full list. With links to the pdf whenever the Taverne Amendment al
  <small>
  <a href="/assets/pdf/schi03.pdf"><code>PDF</code></a>
  <a href="https://doi.org/10.1007/b93810"><code>DOI</code></a>
-  <a href="https://scholar.google.com/scholar?cites=16504552768822728760">Cited by ~36</a>
+  <a href="https://scholar.google.com/scholar?cites=16504552768822728760"><code>Google Scholar</code></a>
   </small> 
 </li>				
 <li>B. van Ginneken, M. de Bruijne, M. Loog and M. Viergever, "Interactive Shape Models",
@@ -3546,7 +3546,7 @@ subtitle: The full list. With links to the pdf whenever the Taverne Amendment al
  <small>
  <a href="/assets/pdf/ginn03a.pdf"><code>PDF</code></a>
  <a href="https://doi.org/10.1117/12.480165"><code>DOI</code></a>
-  <a href="https://scholar.google.com/scholar?cites=5452437485381444577">Cited by ~34</a>
+  <a href="https://scholar.google.com/scholar?cites=5452437485381444577"><code>Google Scholar</code></a>
   </small> 
 </li>				
 <li>I. Išgum, B. van Ginneken and M. Viergever, "Automatic detection of calcifications in the aorta from abdominal CT scans",
@@ -3570,7 +3570,7 @@ subtitle: The full list. With links to the pdf whenever the Taverne Amendment al
  <small>
  <a href="/assets/pdf/brui03a.pdf"><code>PDF</code></a>
  <a href="https://doi.org/10.1007/b93811"><code>DOI</code></a>
-  <a href="https://scholar.google.com/scholar?cites=10995536154405183851">Cited by ~18</a>
+  <a href="https://scholar.google.com/scholar?cites=10995536154405183851"><code>Google Scholar</code></a>
   </small> 
 </li>				
 <li>M. Niemeijer, B. van Ginneken, C. Maas, F. Beek and M. Viergever, "Assessing the Skeletal Age From a Hand Radiograph: Automating the Tanner-Whitehouse Method",
@@ -3578,7 +3578,7 @@ subtitle: The full list. With links to the pdf whenever the Taverne Amendment al
  <small>
  <a href="/assets/pdf/niem03a.pdf"><code>PDF</code></a>
  <a href="https://doi.org/10.1117/12.480163"><code>DOI</code></a>
-  <a href="https://scholar.google.com/scholar?cites=10281073666494131994">Cited by ~77</a>
+  <a href="https://scholar.google.com/scholar?cites=10281073666494131994"><code>Google Scholar</code></a>
   </small> 
 </li>				
 <li>B. van Ginneken, B. ter Romeny and M. Viergever, "Automatic segmentation and texture analysis of PA chest radiographs to detect abnormalities related to interstitial disease and tuberculosis",
@@ -3594,7 +3594,7 @@ subtitle: The full list. With links to the pdf whenever the Taverne Amendment al
  <small>
  <a href="/assets/pdf/brui02.pdf"><code>PDF</code></a>
  <a href="https://doi.org/10.1117/12.467188"><code>DOI</code></a>
-  <a href="https://scholar.google.com/scholar?cites=10630122810979271113">Cited by ~61</a>
+  <a href="https://scholar.google.com/scholar?cites=10630122810979271113"><code>Google Scholar</code></a>
   </small> 
 </li>				
 <li>J. Staal, S. Kalitzin, B. van Ginneken, M. Abràmoff, T. Berendschot and M. Viergever, "Classifying convex sets for vessel detection in retinal images",
@@ -3602,7 +3602,7 @@ subtitle: The full list. With links to the pdf whenever the Taverne Amendment al
  <small>
  <a href="/assets/pdf/staa02.pdf"><code>PDF</code></a>
  <a href="https://doi.org/10.1109/ISBI.2002.1029245"><code>DOI</code></a>
-  <a href="https://scholar.google.com/scholar?cites=13070870055231707928">Cited by ~12</a>
+  <a href="https://scholar.google.com/scholar?cites=13070870055231707928"><code>Google Scholar</code></a>
   </small> 
 </li>				
 <li>I. Sluimer and B. van Ginneken, "Detection of abnormal tissue in HRCT scans of the chest",
@@ -3618,7 +3618,7 @@ subtitle: The full list. With links to the pdf whenever the Taverne Amendment al
  <small>
  <a href="/assets/pdf/loog02a.pdf"><code>PDF</code></a>
  <a href="https://doi.org/10.1109/ICPR.2002.1048456"><code>DOI</code></a>
-  <a href="https://scholar.google.com/scholar?cites=17126051828720866801">Cited by ~31</a>
+  <a href="https://scholar.google.com/scholar?cites=17126051828720866801"><code>Google Scholar</code></a>
   </small> 
 </li>				
 <li>B. van Ginneken, A. Frangi, J. Staal, B. ter Romeny and M. Viergever, "A non-linear gray-level appearance model improves active shape model segmentation",
@@ -3626,7 +3626,7 @@ subtitle: The full list. With links to the pdf whenever the Taverne Amendment al
  <small>
  <a href="/assets/pdf/ginn01b.pdf"><code>PDF</code></a>
  <a href="https://doi.org/10.1109/MMBIA.2001.991735"><code>DOI</code></a>
-  <a href="https://scholar.google.com/scholar?cites=9058761510841848250">Cited by ~52</a>
+  <a href="https://scholar.google.com/scholar?cites=9058761510841848250"><code>Google Scholar</code></a>
   </small> 
 </li>				
 <li>B. van Ginneken, "Towards a clinical chest workstation",
@@ -3640,7 +3640,7 @@ subtitle: The full list. With links to the pdf whenever the Taverne Amendment al
  <small>
  <a href="/assets/pdf/ginn00.pdf"><code>PDF</code></a>
  <a href="https://doi.org/10.1117/12.387746"><code>DOI</code></a>
-  <a href="https://scholar.google.com/scholar?cites=10267710118205806385">Cited by ~43</a>
+  <a href="https://scholar.google.com/scholar?cites=10267710118205806385"><code>Google Scholar</code></a>
   </small> 
 </li>				
 <li>B. van Ginneken and B. ter Romeny, "Applications of locally orderless images",
@@ -3648,7 +3648,7 @@ subtitle: The full list. With links to the pdf whenever the Taverne Amendment al
  <small>
  <a href="/assets/pdf/ginn99.pdf"><code>PDF</code></a>
  <a href="https://doi.org/10.1007/3-540-48236-9_2"><code>DOI</code></a>
-  <a href="https://scholar.google.com/scholar?cites=10753743025636204872">Cited by ~23</a>
+  <a href="https://scholar.google.com/scholar?cites=10753743025636204872"><code>Google Scholar</code></a>
   </small> 
 </li>				
 <li>B. van Ginneken and B. ter Romeny, "Automatic segmentation of lung fields in chest radiographs",
@@ -3679,7 +3679,7 @@ subtitle: The full list. With links to the pdf whenever the Taverne Amendment al
  <small>
  <a href="/assets/pdf/leym96.pdf"><code>PDF</code></a>
  <a href="https://doi.org/10.1109/ICIP.1996.560579"><code>DOI</code></a>
-  <a href="https://scholar.google.com/scholar?cites=12954033652655760385">Cited by ~19</a>
+  <a href="https://scholar.google.com/scholar?cites=12954033652655760385"><code>Google Scholar</code></a>
   </small> 
 </li>				 
 </ol>
@@ -3994,7 +3994,7 @@ subtitle: The full list. With links to the pdf whenever the Taverne Amendment al
 <i>European Congress of Radiology, </i>2015.
  <small>
  <a href="/assets/pdf/scho15a.pdf"><code>PDF</code></a>
- <a href="https://scholar.google.com/scholar?cites=12372288646108507958">Cited by ~39</a>
+ <a href="https://scholar.google.com/scholar?cites=12372288646108507958"><code>Google Scholar</code></a>
   </small> 
 </li>				
 <li>S. van Riel, F. Ciompi, M. Wille, E. Scholten, N. Sverzellati, S. Rossi, A. Dirksen, M. Brink, R. Wittenberg, M. Naqibullah, M. Prokop, C. Schaefer-Prokop and B. van Ginneken, "Can morphological features differentiate between malignant and benign pulmonary nodules, detected in a screen setting?",
@@ -4748,7 +4748,7 @@ subtitle: The full list. With links to the pdf whenever the Taverne Amendment al
  <small>
  <a href="/assets/pdf/niem06b.pdf"><code>PDF</code></a>
   <a href="http://igitur-archive.library.uu.nl/dissertations/2007-0102-200110/UUindex.html"><code>URL</code></a>
- <a href="https://scholar.google.com/scholar?cites=7359028972615471828">Cited by ~16</a>
+ <a href="https://scholar.google.com/scholar?cites=7359028972615471828"><code>Google Scholar</code></a>
   </small> 
 </li>				
 <li>I. Sluimer, "Automated image analysis of the pathological lung in CT",
@@ -4778,7 +4778,7 @@ subtitle: The full list. With links to the pdf whenever the Taverne Amendment al
  <small>
  <a href="/assets/pdf/ginn01a.pdf"><code>PDF</code></a>
   <a href="http://igitur-archive.library.uu.nl/dissertations/1954192/UUindex.html"><code>URL</code></a>
- <a href="https://scholar.google.com/scholar?cites=3030326376977132859">Cited by ~51</a>
+ <a href="https://scholar.google.com/scholar?cites=3030326376977132859"><code>Google Scholar</code></a>
   </small> 
 </li>				 
 </ol>
@@ -4825,7 +4825,7 @@ subtitle: The full list. With links to the pdf whenever the Taverne Amendment al
 2007.
  <small>
  <a href="/assets/pdf/ginn07a.pdf"><code>PDF</code></a>
- <a href="https://scholar.google.com/scholar?cites=16549881996732767718,13002973049163846939,11855423073604549115">Cited by ~190</a>
+ <a href="https://scholar.google.com/scholar?cites=16549881996732767718,13002973049163846939,11855423073604549115"><code>Google Scholar</code></a>
   </small> 
 </li>				 
 </ol>
