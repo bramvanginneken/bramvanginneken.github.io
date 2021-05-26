@@ -3,8 +3,8 @@ layout: post
 title: So you want to become a professor?
 subtitle: It's really not as hard as they say
 cover-img: /assets/img/prof-profs.jpg
-thumbnail-img: /assets/img/prof-profs.jpg
-share-img: /assets/img/prof-careers.png
+thumbnail-img: /assets/img/prof-profs-square.jpg
+share-img: /assets/img/prof-profs.png
 tags: [academia]
 ---
 
