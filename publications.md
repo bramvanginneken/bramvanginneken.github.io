@@ -10,8 +10,8 @@ subtitle: The full list. With links to the pdf whenever the Taverne Amendment al
 <li>K. Venkadesh, A. Setio, A. Schreuder, E. Scholten, K. Chung, M. W Wille, Z. Saghir, B. van Ginneken, M. Prokop and C. Jacobs, "Deep Learning for Malignancy Risk Estimation of Pulmonary Nodules Detected at Low-Dose Screening CT",
 <i>Radiology, </i>2021:204433.
  <small>
- <a href="/assets/pdf/venk21.pdf"><code>PDF</code></a>
- <a href="https://doi.org/10.1148/radiol.2021204433"><code>DOI</code></a>
+ <a href="/assets/pdf/venk21.pdf"><code><span style="color: #0000a0">PDF</span></code></a>
+ <a href="https://doi.org/10.1148/radiol.2021204433"><span style="background-color: #ff00a0"><code>summerDOI</code></span></a>
  <a href="http://www.ncbi.nlm.nih.gov/pubmed/34003056"><code>PubMed</code></a>
  <a href="https://grand-challenge.org/algorithms/pulmonary-nodule-malignancy-prediction/"><code>Algorithm</code></a>
    </small> 
