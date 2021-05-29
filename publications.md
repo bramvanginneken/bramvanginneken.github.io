@@ -283,7 +283,7 @@ subtitle: The full list. With links to the pdf whenever the Taverne Amendment al
 <li>G. Aresta, C. Jacobs, T. Araujo, A. Cunha, I. Ramos, B. van Ginneken and A. Campilho, "iW-Net: an automatic and minimalistic interactive lung nodule segmentation deep network",
 <i>Nature Scientific Reports, </i>2019;9(1):11591.
  <small>
- <a href="/assets/pdf/ares19.pdf"><code style="background-color:#cb416b;color:#ffffff">PDF</code></a>
+ <a href="/assets/pdf/Ares19.pdf"><code style="background-color:#cb416b;color:#ffffff">PDF</code></a>
  <a href="https://doi.org/10.1038/s41598-019-48004-8"><code style="background-color:#3498db;color:#ffffff">DOI</code></a>
  <a href="http://www.ncbi.nlm.nih.gov/pubmed/31406194"><code style="background-color:#326599;color:#ffffff">PubMed</code></a>
  <a href="https://scholar.google.com/scholar?cites=17366457829799450871"><code style="background-color:#728639;color:#ffffff">Cited&nbsp;by</code></a>
@@ -1907,7 +1907,7 @@ subtitle: The full list. With links to the pdf whenever the Taverne Amendment al
 <li>Y. Arzhaeva, M. Prokop, K. Murphy, E. van Rikxoort, P. de Jong, H. Gietema, M. Viergever and B. van Ginneken, "Automated estimation of progression of interstitial lung disease in CT images",
 <i>Medical Physics, </i>2010;37(1):63-73.
  <small>
- <a href="/assets/pdf/arzh10.pdf"><code style="background-color:#cb416b;color:#ffffff">PDF</code></a>
+ <a href="/assets/pdf/Arzh10.pdf"><code style="background-color:#cb416b;color:#ffffff">PDF</code></a>
  <a href="https://doi.org/10.1118/1.3264662"><code style="background-color:#3498db;color:#ffffff">DOI</code></a>
  <a href="http://www.ncbi.nlm.nih.gov/pubmed/20175467"><code style="background-color:#326599;color:#ffffff">PubMed</code></a>
  <a href="https://scholar.google.com/scholar?cites=10305933231621539339"><code style="background-color:#728639;color:#ffffff">Cited&nbsp;by</code></a>
@@ -1959,7 +1959,7 @@ subtitle: The full list. With links to the pdf whenever the Taverne Amendment al
 <li>X. Artaechevarria, D. Pérez-Martin, M. Ceresa, G. de Biurrun, D. Blanco, L. Montuenga, B. van Ginneken, C. Ortiz-de-Solórzano and A. Muñoz-Barrutia, "Airway segmentation and analysis for the study of mouse models of lung disease using micro-CT",
 <i>Physics in Medicine and Biology, </i>2009;54(22):7009-7024.
  <small>
- <a href="/assets/pdf/arta09.pdf"><code style="background-color:#cb416b;color:#ffffff">PDF</code></a>
+ <a href="/assets/pdf/Arta09.pdf"><code style="background-color:#cb416b;color:#ffffff">PDF</code></a>
  <a href="https://doi.org/10.1088/0031-9155/54/22/017"><code style="background-color:#3498db;color:#ffffff">DOI</code></a>
  <a href="http://www.ncbi.nlm.nih.gov/pubmed/19887716"><code style="background-color:#326599;color:#ffffff">PubMed</code></a>
  <a href="https://scholar.google.com/scholar?cites=7831132571538357123"><code style="background-color:#728639;color:#ffffff">Cited&nbsp;by</code></a>
@@ -2076,7 +2076,7 @@ subtitle: The full list. With links to the pdf whenever the Taverne Amendment al
 <li>Y. Arzhaeva, D. Tax and B. van Ginneken, "Dissimilarity-based classification in the absence of local ground truth: application to the diagnostic interpretation of chest radiographs",
 <i>Pattern Recognition, </i>2009;42(9):1768-1776.
  <small>
- <a href="/assets/pdf/arzh09.pdf"><code style="background-color:#cb416b;color:#ffffff">PDF</code></a>
+ <a href="/assets/pdf/Arzh09.pdf"><code style="background-color:#cb416b;color:#ffffff">PDF</code></a>
  <a href="https://doi.org/10.1016/j.patcog.2009.01.016"><code style="background-color:#3498db;color:#ffffff">DOI</code></a>
  <a href="https://scholar.google.com/scholar?cites=16382712958622308082"><code style="background-color:#728639;color:#ffffff">Cited&nbsp;by</code></a>
  </small> 
@@ -2084,7 +2084,7 @@ subtitle: The full list. With links to the pdf whenever the Taverne Amendment al
 <li>S. Armato and B. van Ginneken, "Anniversary paper: image processing and manipulation through the pages of Medical Physics",
 <i>Medical Physics, </i>2008;35(10):4488-4500.
  <small>
- <a href="/assets/pdf/arma08.pdf"><code style="background-color:#cb416b;color:#ffffff">PDF</code></a>
+ <a href="/assets/pdf/Arma08.pdf"><code style="background-color:#cb416b;color:#ffffff">PDF</code></a>
  <a href="https://doi.org/10.1118/1.2977537"><code style="background-color:#3498db;color:#ffffff">DOI</code></a>
  <a href="http://www.ncbi.nlm.nih.gov/pubmed/18975696"><code style="background-color:#326599;color:#ffffff">PubMed</code></a>
  <a href="https://scholar.google.com/scholar?cites=13150535677729050397"><code style="background-color:#728639;color:#ffffff">Cited&nbsp;by</code></a>
@@ -2111,7 +2111,7 @@ subtitle: The full list. With links to the pdf whenever the Taverne Amendment al
 <li>M. Abràmoff, M. Niemeijer, M. Suttorp-Schulten, M. Viergever, S. Russell and B. van Ginneken, "Evaluation of a system for automatic detection of diabetic retinopathy from color fundus photographs in a large population of patients with diabetes",
 <i>Diabetes Care, </i>2008;31(2):193-198.
  <small>
- <a href="/assets/pdf/abra08a.pdf"><code style="background-color:#cb416b;color:#ffffff">PDF</code></a>
+ <a href="/assets/pdf/Abra08a.pdf"><code style="background-color:#cb416b;color:#ffffff">PDF</code></a>
  <a href="https://doi.org/10.2337/dc07-1312"><code style="background-color:#3498db;color:#ffffff">DOI</code></a>
  <a href="http://www.ncbi.nlm.nih.gov/pubmed/18024852"><code style="background-color:#326599;color:#ffffff">PubMed</code></a>
  <a href="https://scholar.google.com/scholar?cites=14186889695192659355"><code style="background-color:#728639;color:#ffffff">Cited&nbsp;by</code></a>
@@ -2128,7 +2128,7 @@ subtitle: The full list. With links to the pdf whenever the Taverne Amendment al
 <li>Y. Arzhaeva, M. Prokop, D. Tax, P. de Jong, C. Schaefer-Prokop and B. van Ginneken, "Computer-aided detection of interstitial abnormalities in chest radiographs using a reference standard based on computed tomography",
 <i>Medical Physics, </i>2007;34(12):4798-4809.
  <small>
- <a href="/assets/pdf/arzh07.pdf"><code style="background-color:#cb416b;color:#ffffff">PDF</code></a>
+ <a href="/assets/pdf/Arzh07.pdf"><code style="background-color:#cb416b;color:#ffffff">PDF</code></a>
  <a href="https://doi.org/10.1118/1.2795672"><code style="background-color:#3498db;color:#ffffff">DOI</code></a>
  <a href="http://www.ncbi.nlm.nih.gov/pubmed/18196808"><code style="background-color:#326599;color:#ffffff">PubMed</code></a>
  <a href="https://scholar.google.com/scholar?cites=15574026353971813570"><code style="background-color:#728639;color:#ffffff">Cited&nbsp;by</code></a>
@@ -2527,7 +2527,7 @@ subtitle: The full list. With links to the pdf whenever the Taverne Amendment al
 <li>M. Argus, C. Schaefer-Prokop, D. Lynch and B. van Ginneken, "Function Follows Form: Regression from Complete Thoracic Computed Tomography Scans",
 <i>arXiv:1909.12047, </i>2019.
  <small>
- <a href="/assets/pdf/argu19.pdf"><code style="background-color:#cb416b;color:#ffffff">PDF</code></a>
+ <a href="/assets/pdf/Argu19.pdf"><code style="background-color:#cb416b;color:#ffffff">PDF</code></a>
  <a href="https://arxiv.org/abs/1909.12047">
  <code>arXiv</code></a>
  </small> 
@@ -2569,7 +2569,7 @@ subtitle: The full list. With links to the pdf whenever the Taverne Amendment al
 <li>G. Aresta, C. Jacobs, T. Araújo, A. Cunha, I. Ramos, B. van Ginneken and A. Campilho, "iW-Net: an automatic and minimalistic interactive lung nodule segmentation deep network",
 <i>arXiv:1811.12789, </i>2018.
  <small>
- <a href="/assets/pdf/ares18.pdf"><code style="background-color:#cb416b;color:#ffffff">PDF</code></a>
+ <a href="/assets/pdf/Ares18.pdf"><code style="background-color:#cb416b;color:#ffffff">PDF</code></a>
  <a href="https://arxiv.org/abs/1811.12789">
  <code>arXiv</code></a>
  </small> 
@@ -2582,7 +2582,7 @@ subtitle: The full list. With links to the pdf whenever the Taverne Amendment al
 <li>H. Altun, G. Chlebus, C. Jacobs, H. Meine, B. van Ginneken and H. Hahn, "Feasibility of End-To-End Trainable Two-Stage U-Net for Detection of Axillary Lymph Nodes in Contrast-Enhanced CT Based Scans on Sparse Annotations",
 <i>Medical Imaging, </i>2020:113141C.
  <small>
- <a href="/assets/pdf/altu20.pdf"><code style="background-color:#cb416b;color:#ffffff">PDF</code></a>
+ <a href="/assets/pdf/Altu20.pdf"><code style="background-color:#cb416b;color:#ffffff">PDF</code></a>
  <a href="https://doi.org/10.1117/12.2551331"><code style="background-color:#3498db;color:#ffffff">DOI</code></a>
  </small> 
 </li>				
@@ -2652,7 +2652,7 @@ subtitle: The full list. With links to the pdf whenever the Taverne Amendment al
 <li>G. Aresta, T. Araújo, C. Jacobs, B. van Ginneken, A. Cunha, I. Ramos and A. Campilho, "Towards an automatic lung cancer screening system in low dose computed tomography",
 <i>MICCAI} Workshop: Thoracic Image Analysis, </i>2018;11040.
  <small>
- <a href="/assets/pdf/ares18a.pdf"><code style="background-color:#cb416b;color:#ffffff">PDF</code></a>
+ <a href="/assets/pdf/Ares18a.pdf"><code style="background-color:#cb416b;color:#ffffff">PDF</code></a>
  <a href="https://doi.org/10.1007/978-3-030-00946-5"><code style="background-color:#3498db;color:#ffffff">DOI</code></a>
  <a href="https://scholar.google.com/scholar?cites=5919517379453999457"><code style="background-color:#728639;color:#ffffff">Cited&nbsp;by</code></a>
  </small> 
@@ -2883,7 +2883,7 @@ subtitle: The full list. With links to the pdf whenever the Taverne Amendment al
 <li>A. van der Avoird, N. Lin, B. van Ginneken and R. Manniesing, "A Hardware Implementation of a Levelset Algorithm for Carotid Lumen Segmentation in CTA",
 <i>Medical Imaging, </i>2013.
  <small>
- <a href="/assets/pdf/avoi13.pdf"><code style="background-color:#cb416b;color:#ffffff">PDF</code></a>
+ <a href="/assets/pdf/Avoi13.pdf"><code style="background-color:#cb416b;color:#ffffff">PDF</code></a>
  <a href="https://doi.org/10.1117/12.2007231"><code style="background-color:#3498db;color:#ffffff">DOI</code></a>
  </small> 
 </li>				
@@ -3222,7 +3222,7 @@ subtitle: The full list. With links to the pdf whenever the Taverne Amendment al
 <li>Y. Arzhaeva, L. Hogeweg, P. de Jong, M. Viergever and B. van Ginneken, "Global and Local Multi-valued Dissimilarity-Based Classification: Application to Computer-Aided Detection of Tuberculosis",
 <i>Medical Image Computing and Computer-Assisted Intervention, </i>2009(5762):724-731.
  <small>
- <a href="/assets/pdf/arzh09b.pdf"><code style="background-color:#cb416b;color:#ffffff">PDF</code></a>
+ <a href="/assets/pdf/Arzh09b.pdf"><code style="background-color:#cb416b;color:#ffffff">PDF</code></a>
  <a href="https://doi.org/10.1007/978-3-642-04271-3_88"><code style="background-color:#3498db;color:#ffffff">DOI</code></a>
  <a href="https://scholar.google.com/scholar?cites=14232725066672225972"><code style="background-color:#728639;color:#ffffff">Cited&nbsp;by</code></a>
  </small> 
@@ -3245,7 +3245,7 @@ subtitle: The full list. With links to the pdf whenever the Taverne Amendment al
 <li>X. Artaechevarria, A. Muñoz-Barrutia, B. van Ginneken and C. Ortiz-de-Solórzano, "Fast murine airway segmentation and reconstruction in micro-CT images",
 <i>Medical Imaging, </i>2009;7262(1):72620B1-72620B8.
  <small>
- <a href="/assets/pdf/arta09a.pdf"><code style="background-color:#cb416b;color:#ffffff">PDF</code></a>
+ <a href="/assets/pdf/Arta09a.pdf"><code style="background-color:#cb416b;color:#ffffff">PDF</code></a>
  <a href="https://doi.org/10.1117/12.811554"><code style="background-color:#3498db;color:#ffffff">DOI</code></a>
  <a href="https://scholar.google.com/scholar?cites=4299735518106080724"><code style="background-color:#728639;color:#ffffff">Cited&nbsp;by</code></a>
  </small> 
@@ -3347,7 +3347,7 @@ subtitle: The full list. With links to the pdf whenever the Taverne Amendment al
 <li>Y. Arzhaeva, E. van Rikxoort and B. van Ginneken, "Automated segmentation of caudate nucleus in MR brain images with voxel classification",
 <i>3D Segmentation in the Clinic: A Grand Challenge, </i>2007:65-72.
  <small>
- <a href="/assets/pdf/arzh07c.pdf"><code style="background-color:#cb416b;color:#ffffff">PDF</code></a>
+ <a href="/assets/pdf/Arzh07c.pdf"><code style="background-color:#cb416b;color:#ffffff">PDF</code></a>
  <a href="https://scholar.google.com/scholar?cites=14279526554979730903"><code style="background-color:#728639;color:#ffffff">Cited&nbsp;by</code></a>
  </small> 
 </li>				
@@ -3363,7 +3363,7 @@ subtitle: The full list. With links to the pdf whenever the Taverne Amendment al
 <li>Y. Arzhaeva, B. van Ginneken and D. Tax, "Image classification from generalized image distance features: application to detection of interstitial disease in chest radiographs",
 <i>International Conference on Pattern Recognition, </i>2006.
  <small>
- <a href="/assets/pdf/arzh06.pdf"><code style="background-color:#cb416b;color:#ffffff">PDF</code></a>
+ <a href="/assets/pdf/Arzh06.pdf"><code style="background-color:#cb416b;color:#ffffff">PDF</code></a>
  <a href="https://doi.org/10.1109/ICPR.2006.682"><code style="background-color:#3498db;color:#ffffff">DOI</code></a>
  <a href="https://scholar.google.com/scholar?cites=12424497119551485003"><code style="background-color:#728639;color:#ffffff">Cited&nbsp;by</code></a>
  </small> 
@@ -3419,7 +3419,7 @@ subtitle: The full list. With links to the pdf whenever the Taverne Amendment al
 <li>Y. Arzhaeva, D. Tax and B. van Ginneken, "Improving computer-aided diagnosis of interstitial disease in chest radiographs by combining one-class and two-class classifiers",
 <i>Medical Imaging, </i>2006;6144:614458-1-614458-8.
  <small>
- <a href="/assets/pdf/arzh06a.pdf"><code style="background-color:#cb416b;color:#ffffff">PDF</code></a>
+ <a href="/assets/pdf/Arzh06a.pdf"><code style="background-color:#cb416b;color:#ffffff">PDF</code></a>
  <a href="https://doi.org/10.1117/12.652208"><code style="background-color:#3498db;color:#ffffff">DOI</code></a>
  <a href="https://scholar.google.com/scholar?cites=9920783540454814909"><code style="background-color:#728639;color:#ffffff">Cited&nbsp;by</code></a>
  </small> 
@@ -4472,13 +4472,13 @@ subtitle: The full list. With links to the pdf whenever the Taverne Amendment al
 <li>Y. Arzhaeva, K. Murphy, M. Prokop, C. Schaefer-Prokop and B. van Ginneken, "Application of computerized texture analysis of CT lung images for estimation of interstitial lung disease progression",
 <i>Annual Meeting of the Radiological Society of North America, </i>2007:267.
  <small>
- <a href="/assets/pdf/arzh07b.pdf"><code style="background-color:#cb416b;color:#ffffff">PDF</code></a>
+ <a href="/assets/pdf/Arzh07b.pdf"><code style="background-color:#cb416b;color:#ffffff">PDF</code></a>
  </small> 
 </li>				
 <li>Y. Arzhaeva, M. Prokop, P. de Jong, C. Schaefer-Prokop and B. van Ginneken, "Computer-aided detection of interstitial abnormalities in chest radiographs",
 <i>Annual Meeting of the Radiological Society of North America, </i>2007:407.
  <small>
- <a href="/assets/pdf/arzh07a.pdf"><code style="background-color:#cb416b;color:#ffffff">PDF</code></a>
+ <a href="/assets/pdf/Arzh07a.pdf"><code style="background-color:#cb416b;color:#ffffff">PDF</code></a>
  </small> 
 </li>				
 <li>B. van Ginneken, M. Klik, E. van Rikxoort, H. Gietema, J. Peters and M. Prokop, "Computer-aided diagnosis for distinguishing benign perifissural opacities from other pulmonary nodules in computed tomography chest scans",
@@ -4722,7 +4722,7 @@ subtitle: The full list. With links to the pdf whenever the Taverne Amendment al
 <li>Y. Arzhaeva, "Computer-aided detection and quantification of interstitial lung disease from computed tomography and chest radiography",
 2009.
  <small>
- <a href="/assets/pdf/arzh09c.pdf"><code style="background-color:#cb416b;color:#ffffff">PDF</code></a>
+ <a href="/assets/pdf/Arzh09c.pdf"><code style="background-color:#cb416b;color:#ffffff">PDF</code></a>
  <a href="http://igitur-archive.library.uu.nl/dissertations/2009-0923-200142/UUindex.html"><code style="background-color:#ff5b00;color:#ffffff">URL</code></a>
  </small> 
 </li>				
@@ -4828,3 +4828,4 @@ subtitle: The full list. With links to the pdf whenever the Taverne Amendment al
  </small> 
 </li>				 
 </ol>
+
