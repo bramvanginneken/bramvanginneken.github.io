@@ -16,7 +16,7 @@ subtitle: The full list. With links to the pdf whenever the Taverne Amendment al
  <a href="https://grand-challenge.org/algorithms/pulmonary-nodule-malignancy-prediction/"><code style="background-color:#aaff32;color:#000000">grand-challenge</code></a>
    </small> 
 </li>				
-<li>K. van Leeuwen, S. Schalekamp, M. Rutten, B. van Ginneken and M. de Rooij, "Artificial intelligence in radiology: 100 commercially available products and their scientific evidence", *European Radiology*, 2021;31:3797–3804.
+<li>K. van Leeuwen, S. Schalekamp, M. Rutten, B. van Ginneken and M. de Rooij, "Artificial intelligence in radiology: 100 commercially available products and their scientific evidence", <i>European Radiology</i>, 2021;31:3797–3804.
  <a href="/assets/pdf/leeu21.pdf"><code>PDF</code></a>
  <a href="https://doi.org/10.1007/s00330-021-07892-z"><code style="background-color:bf77f6;color:#ffffff">DOI</code></a>
  <a href="http://www.ncbi.nlm.nih.gov/pubmed/33856519"><code>PubMed</code></a>
