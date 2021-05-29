@@ -11,18 +11,15 @@ subtitle: The full list. With links to the pdf whenever the Taverne Amendment al
 <i>Radiology, </i>2021:204433.
  <small>
  <a href="/assets/pdf/venk21.pdf"><code><span style="color: #0000a0">PDF</span></code></a>
- <a href="https://doi.org/10.1148/radiol.2021204433"><code style="background-color: #ff00a0">DOI</code></a>
+ <a href="https://doi.org/10.1148/radiol.2021204433"><code style="background-color:#0303ff;color:#ffffff">DOI</code></a>
  <a href="http://www.ncbi.nlm.nih.gov/pubmed/34003056"><code style="color: #00ffff">PubMed</code></a>
  <a href="https://grand-challenge.org/algorithms/pulmonary-nodule-malignancy-prediction/"><code>Algorithm</code></a>
    </small> 
 </li>				
-<li>K. van Leeuwen, S. Schalekamp, M. Rutten, B. van Ginneken and M. de Rooij, "Artificial intelligence in radiology: 100 commercially available products and their scientific evidence",
-<i>European Radiology, </i>2021;31:3797–3804.
- <small>
+<li>K. van Leeuwen, S. Schalekamp, M. Rutten, B. van Ginneken and M. de Rooij, "Artificial intelligence in radiology: 100 commercially available products and their scientific evidence", *European Radiology*, 2021;31:3797–3804.
  <a href="/assets/pdf/leeu21.pdf"><code>PDF</code></a>
- <a href="https://doi.org/10.1007/s00330-021-07892-z"><code>DOI</code></a>
+ <a href="https://doi.org/10.1007/s00330-021-07892-z"><code style="background-color:bf77f6;color:#ffffff">DOI</code></a>
  <a href="http://www.ncbi.nlm.nih.gov/pubmed/33856519"><code>PubMed</code></a>
-   </small> 
 </li>				
 <li>A. Schreuder, C. Jacobs, N. Lessmann, M. Broeders, M. Silva, I. Išgum, P. de Jong, N. Sverzellati, M. Prokop, U. Pastorino, C. Schaefer-Prokop and B. van Ginneken, "Combining pulmonary and cardiac computed tomography biomarkers for disease-specific risk modelling in lung cancer screening",
 <i>European Respiratory Journal, </i>2021.
