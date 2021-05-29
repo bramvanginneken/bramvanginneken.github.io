@@ -10,10 +10,10 @@ subtitle: The full list. With links to the pdf whenever the Taverne Amendment al
 <li>K. Venkadesh, A. Setio, A. Schreuder, E. Scholten, K. Chung, M. W Wille, Z. Saghir, B. van Ginneken, M. Prokop and C. Jacobs, "Deep Learning for Malignancy Risk Estimation of Pulmonary Nodules Detected at Low-Dose Screening CT",
 <i>Radiology, </i>2021:204433.
  <small>
- <a href="/assets/pdf/venk21.pdf"><code><span style="color: #0000a0">PDF</span></code></a>
- <a href="https://doi.org/10.1148/radiol.2021204433"><code style="background-color:#0303ff;color:#ffffff">DOI</code></a>
- <a href="http://www.ncbi.nlm.nih.gov/pubmed/34003056"><code style="color: #00ffff">PubMed</code></a>
- <a href="https://grand-challenge.org/algorithms/pulmonary-nodule-malignancy-prediction/"><code>Algorithm</code></a>
+ <a href="/assets/pdf/venk21.pdf"><code style="background-color:#cb416b;color:#ffffff">PDF</code></a>
+ <a href="https://doi.org/10.1148/radiol.2021204433"><code style="background-color:#3498db;color:#ffffff">DOI</code></a>
+ <a href="http://www.ncbi.nlm.nih.gov/pubmed/34003056"><code style="background-color:#326599;color:#ffffff">PubMed</code></a>
+ <a href="https://grand-challenge.org/algorithms/pulmonary-nodule-malignancy-prediction/"><code style="background-color:#aaff32;color:#000000">grand-challenge</code></a>
    </small> 
 </li>				
 <li>K. van Leeuwen, S. Schalekamp, M. Rutten, B. van Ginneken and M. de Rooij, "Artificial intelligence in radiology: 100 commercially available products and their scientific evidence", *European Radiology*, 2021;31:3797–3804.
