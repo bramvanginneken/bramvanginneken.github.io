@@ -17,6 +17,7 @@ subtitle: The full list. With links to the pdf whenever the Taverne Amendment al
  <a href="https://scholar.google.com/scholar?cites=16221938647525067795"><code style="background-color:#06470c;color:#ffffff">Cited&nbsp;by</code></a>
  <a href="https://scholar.google.com/scholar?cites=16221938647525067795"><code style="background-color:#047495);color:#ffffff">Preprint</code></a>
  <a href="https://scholar.google.com/scholar?cites=16221938647525067795"><code style="background-color:#be0119);color:#ffffff">Code</code></a>
+ <a href="https://scholar.google.com/scholar?cites=16221938647525067795"><code style="background-color:#ff5b00);color:#ffffff">URL</code></a>
  </small> 
 </li>				
 <li>K. van Leeuwen, S. Schalekamp, M. Rutten, B. van Ginneken and M. de Rooij, "Artificial intelligence in radiology: 100 commercially available products and their scientific evidence", <i>European Radiology</i>, 2021;31:3797–3804.
