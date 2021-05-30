@@ -2111,7 +2111,7 @@ subtitle: The full list. With links to the pdf whenever the Taverne Amendment al
 <li>M. Abràmoff, M. Niemeijer, M. Suttorp-Schulten, M. Viergever, S. Russell and B. van Ginneken, "Evaluation of a system for automatic detection of diabetic retinopathy from color fundus photographs in a large population of patients with diabetes",
 <i>Diabetes Care, </i>2008;31(2):193-198.
  <small>
- <a href="/assets/pdf/Abra08a.pdf"><code style="background-color:#cb416b;color:#ffffff">PDF</code></a>
+ <a href="https://www.dropbox.com/s/1ukkhbs229jde3i/Abra08a.pdf?raw=1"><code style="background-color:#cb416b;color:#ffffff">PDF</code></a>
  <a href="https://doi.org/10.2337/dc07-1312"><code style="background-color:#3498db;color:#ffffff">DOI</code></a>
  <a href="http://www.ncbi.nlm.nih.gov/pubmed/18024852"><code style="background-color:#326599;color:#ffffff">PubMed</code></a>
  <a href="https://scholar.google.com/scholar?cites=14186889695192659355"><code style="background-color:#728639;color:#ffffff">Cited&nbsp;by</code></a>
@@ -4828,4 +4828,3 @@ subtitle: The full list. With links to the pdf whenever the Taverne Amendment al
  </small> 
 </li>				 
 </ol>
-
