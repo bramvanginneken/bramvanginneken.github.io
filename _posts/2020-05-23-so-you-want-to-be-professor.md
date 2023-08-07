@@ -8,7 +8,7 @@ share-img: /assets/img/prof-profs.png
 tags: [academia]
 ---
 
-Yesterday I read a blog with some statistics I’ve seen quoted many times: only 30% of PhDs proceed in academia, no more than 12% manage to obtain a permanent position, and a mere 0.5% become a full professor.
+Yesterday, I read a blog with some statistics I’ve seen quoted many times: only 30% of PhDs proceed in academia, no more than 12% manage to obtain a permanent position, and a mere 0.5% become a full professor.
 
 Is doing a PhD really such a brutal process of selection where almost nobody survives the onslaught? After 25 years in academia, I thought this would be a good moment to compute my own statistics. And they are quite different.
 
