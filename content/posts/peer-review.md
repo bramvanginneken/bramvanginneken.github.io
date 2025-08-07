@@ -17,7 +17,7 @@ This is not typically seen as peer review, but your co-authors should critically
 
 ## 2. Peer review
 
-After your co-authors approve the paper, the next step is usually peer review, as explained above. So off you go in a cycle of major and minor revisions and often resubmission to multiple journals where the whole damn process starts again. An extremely inefficient process... Some solutions have been proposaed but academia is extrmely conservative, so so far these alternatives have not gained traction. Also a topic for another post. 
+After your co-authors approve the paper, the next step is usually peer review, as explained above. So off you go in a cycle of major and minor revisions and often resubmission to multiple journals where the whole damn process starts again. An extremely inefficient process... Some solutions have been proposed but academia is extremely conservative, so so far these alternatives have not gained traction. Also a topic for another post. 
 
 Occasionally, you get a good review with advice that actually makes your paper better, but more often, you have to comply with the whims of so-called peers who typically rushed their report without properly reading your work because they had no time. 
 
@@ -25,7 +25,7 @@ I have come to believe that peer review more often makes papers worse rather tha
 
 ## 3. Acceptance by a journal or a conference
 
-If all goes well, your paper ends up in some prestigious conference proceedings or a journal. This is also a form of peer review. That venue has judged your paper good enough to print. The impact factor of a journal or conference is a measure of its prestige. Google Scholar uses its own metric to rank publications, the [h5-index](https://scholar.google.com/citations?view_op=metrics_intro). You may note, surprisingly for almost all academics, that deep learning is currently the most important field of research on the planet.
+If all goes well, your paper ends up in some prestigious conference proceedings or a journal. This is also a form of peer review. That venue has judged your paper good enough to print. The impact factor of a journal or conference is a measure of its prestige. Google Scholar uses its own metric to rank publications, the [h5-index](https://scholar.google.com/citations?view_op=metrics_intro). You may note, and this comes as a surprise for most academics, that deep learning is currently the most important field of research on the planet.
 
 ## 4. Post-publication peer review
 
